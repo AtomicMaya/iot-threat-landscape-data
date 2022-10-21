@@ -1,0 +1,70 @@
+"vendor","model","type","geo","country","count","possible_vulnerability"
+,,"cast-device","LU","Luxembourg",1,
+"ABUS","Secvest","smart-alarm","LU","Luxembourg",96,
+"Alcatel","OmniPCX Office","ip-pbx","LU","Luxembourg",12,
+"Allegro Software","RomPager","embedded-system","LU","Luxembourg",2,
+"AMI","MegaRAC","device-management","LU","Luxembourg",14,
+"Aruba Networks",,"wireless-controller","LU","Luxembourg",4,
+"ASUS",,"router","LU","Luxembourg",15,
+"ASUS","RT-AC66U","router","LU","Luxembourg",1,"CVE-2013-4937"
+"ASUSTOR",,"nas","LU","Luxembourg",1,
+"Avigilon",,"video-system","LU","Luxembourg",9,
+"AVM","FRITZ!","router","LU","Luxembourg",848,
+"AVM","FRITZ!Box","router","LU","Luxembourg",1,"CNVD-2014-01044; CNVD-2015-03563"
+"AVM","FRITZ!Repeater","wireless-repeater","LU","Luxembourg",4,
+"Axis Communications",,"video-system","LU","Luxembourg",2,"VU#355809; VU#799060; VU#922681"
+"Canon",,"appliance","LU","Luxembourg",1,
+"Canon","iR-ADV","appliance","LU","Luxembourg",2,
+"Canon","iR-ADV","printer","LU","Luxembourg",1,
+"Carel","boss","local-monitoring-system","LU","Luxembourg",2,
+"Cisco",,,"LU","Luxembourg",54,"VU#106392; VU#123140; VU#13877; VU#154883; VU#174248; VU#175148; VU#178024; VU#180049; VU#201984; VU#205225; VU#210876; VU#217912; VU#226364; VU#228186; VU#236045; VU#236748; VU#24346; VU#274760; VU#277048; VU#287771; VU#290140; VU#310387; VU#327976; VU#330275; VU#341288; VU#344900; VU#352462; VU#360296; VU#362483; VU#384230; VU#399355; VU#436854; VU#438176; VU#443108; VU#457759; VU#463944; VU#472412; VU#473108; VU#477164; VU#486224; VU#495275; VU#516659; VU#542108; VU#548515; VU#548968; VU#562945; VU#563673; VU#579240; VU#602734; VU#613308; VU#613384; VU#637934; VU#639507; VU#642076; VU#656315; VU#661827; VU#683677; VU#686939; VU#697049; VU#721092; VU#732671; VU#739224; VU#744249; VU#757804; VU#760432; VU#778648; VU#800384; VU#810062; VU#812515; VU#821420; VU#833459; VU#845620; VU#849841; VU#853540; VU#855195; VU#858993; VU#918920; VU#922681; VU#930892; VU#959203; VU#968187; VU#969344; VU#976280; VU#989406"
+"Cisco",,"conferencing-system","LU","Luxembourg",1,"VU#106392; VU#123140; VU#13877; VU#154883; VU#174248; VU#175148; VU#178024; VU#180049; VU#201984; VU#205225; VU#210876; VU#217912; VU#226364; VU#228186; VU#236045; VU#236748; VU#24346; VU#274760; VU#277048; VU#287771; VU#290140; VU#310387; VU#327976; VU#330275; VU#341288; VU#344900; VU#352462; VU#360296; VU#362483; VU#384230; VU#399355; VU#436854; VU#438176; VU#443108; VU#457759; VU#463944; VU#472412; VU#473108; VU#477164; VU#486224; VU#495275; VU#516659; VU#542108; VU#548515; VU#548968; VU#562945; VU#563673; VU#579240; VU#602734; VU#613308; VU#613384; VU#637934; VU#639507; VU#642076; VU#656315; VU#661827; VU#683677; VU#686939; VU#697049; VU#721092; VU#732671; VU#739224; VU#744249; VU#757804; VU#760432; VU#778648; VU#800384; VU#810062; VU#812515; VU#821420; VU#833459; VU#845620; VU#849841; VU#853540; VU#855195; VU#858993; VU#918920; VU#922681; VU#930892; VU#959203; VU#968187; VU#969344; VU#976280; VU#989406"
+"Cisco",,"router","LU","Luxembourg",1,"VU#106392; VU#123140; VU#13877; VU#154883; VU#174248; VU#175148; VU#178024; VU#180049; VU#201984; VU#205225; VU#210876; VU#217912; VU#226364; VU#228186; VU#236045; VU#236748; VU#24346; VU#274760; VU#277048; VU#287771; VU#290140; VU#310387; VU#327976; VU#330275; VU#341288; VU#344900; VU#352462; VU#360296; VU#362483; VU#384230; VU#399355; VU#436854; VU#438176; VU#443108; VU#457759; VU#463944; VU#472412; VU#473108; VU#477164; VU#486224; VU#495275; VU#516659; VU#542108; VU#548515; VU#548968; VU#562945; VU#563673; VU#579240; VU#602734; VU#613308; VU#613384; VU#637934; VU#639507; VU#642076; VU#656315; VU#661827; VU#683677; VU#686939; VU#697049; VU#721092; VU#732671; VU#739224; VU#744249; VU#757804; VU#760432; VU#778648; VU#800384; VU#810062; VU#812515; VU#821420; VU#833459; VU#845620; VU#849841; VU#853540; VU#855195; VU#858993; VU#918920; VU#922681; VU#930892; VU#959203; VU#968187; VU#969344; VU#976280; VU#989406"
+"Cisco",,"voip","LU","Luxembourg",11,"VU#106392; VU#123140; VU#13877; VU#154883; VU#174248; VU#175148; VU#178024; VU#180049; VU#201984; VU#205225; VU#210876; VU#217912; VU#226364; VU#228186; VU#236045; VU#236748; VU#24346; VU#274760; VU#277048; VU#287771; VU#290140; VU#310387; VU#327976; VU#330275; VU#341288; VU#344900; VU#352462; VU#360296; VU#362483; VU#384230; VU#399355; VU#436854; VU#438176; VU#443108; VU#457759; VU#463944; VU#472412; VU#473108; VU#477164; VU#486224; VU#495275; VU#516659; VU#542108; VU#548515; VU#548968; VU#562945; VU#563673; VU#579240; VU#602734; VU#613308; VU#613384; VU#637934; VU#639507; VU#642076; VU#656315; VU#661827; VU#683677; VU#686939; VU#697049; VU#721092; VU#732671; VU#739224; VU#744249; VU#757804; VU#760432; VU#778648; VU#800384; VU#810062; VU#812515; VU#821420; VU#833459; VU#845620; VU#849841; VU#853540; VU#855195; VU#858993; VU#918920; VU#922681; VU#930892; VU#959203; VU#968187; VU#969344; VU#976280; VU#989406"
+"Cisco","RV042","router","LU","Luxembourg",1,
+"Cisco","Webex","conferencing-system","LU","Luxembourg",11,"CNVD-2011-0410; CNVD-2011-0411; ZDI-10-155; ZDI-11-308; ZDI-11-341; ZDI-17-442; ZDI-17-443; ZDI-17-444; ZDI-17-930; ZDI-17-931; ZDI-17-932; ZDI-17-933; ZDI-17-934; ZDI-17-935; ZDI-17-936; ZDI-17-937; ZDI-18-007; ZDI-18-008; ZDI-18-1076; ZDI-18-1078; ZDI-18-1079; ZDI-18-1119; ZDI-18-1120; ZDI-18-1121; ZDI-18-1122; ZDI-18-1123; ZDI-18-1124; ZDI-18-1125; ZDI-18-1126; ZDI-18-1127; ZDI-18-1128; ZDI-18-1129; ZDI-18-967; ZDI-18-968; ZDI-18-969; ZDI-18-970; ZDI-18-971; ZDI-18-972; ZDI-18-973; ZDI-18-974; ZDI-18-975; ZDI-18-976; ZDI-18-977; ZDI-18-978; ZDI-18-998; ZDI-19-128; ZDI-19-160; ZDI-20-1361; ZDI-20-1362; ZDI-20-1363; ZDI-20-269"
+"D-Link",,,"LU","Luxembourg",3,"VU#184100; VU#305448; VU#332115; VU#377348; VU#766427; VU#922681; VU#971705"
+"D-Link","DCS-2210L","video-system","LU","Luxembourg",1,
+"D-Link","DCS-4622","video-system","LU","Luxembourg",2,
+"D-Link","DCS-5222LB1","video-system","LU","Luxembourg",4,"CNVD-2018-26797"
+"D-Link","ShareCenter DNS-340L","nas","LU","Luxembourg",1,
+"Dahua",,"video-system","LU","Luxembourg",14,
+"Dell","iDRAC","device-management","LU","Luxembourg",16,
+"Dell","iDRAC6","device-management","LU","Luxembourg",4,"BID:106233"
+"Dell","iDRAC7","device-management","LU","Luxembourg",5,"CVE-2013-3589"
+"Domoticz",,"smart-home-management","LU","Luxembourg",2,
+"DrayTek","Vigor","router","LU","Luxembourg",84,"21301.5.4.9:[BID:70260]; 32203.8.8.2:[CNVD-2018-15245]; 29523.8.8.2:[CNVD-2018-15245]"
+"Hikvision",,"video-system","LU","Luxembourg",135,
+"Honeywell",,"video-system","LU","Luxembourg",1,"VU#659684"
+"Honeywell","MB-Secure","smart-building-management","LU","Luxembourg",1,
+"HP","iLO","device-management","LU","Luxembourg",4,
+"LANCOM",,"router","LU","Luxembourg",64,
+"MikroTik",,"router","LU","Luxembourg",142,
+"NETGEAR",,"router","LU","Luxembourg",1,"VU#403152; VU#445753; VU#582384"
+"NETGEAR","ProSafe","firewall","LU","Luxembourg",3,
+"NETGEAR","R8500","router","LU","Luxembourg",1,"BID:95457; CNVD-2017-00835"
+"OpenWrt",,"router","LU","Luxembourg",5,
+"Pakedge","RK-1","router","LU","Luxembourg",1,
+"Philips","Hue","smart-home-management","LU","Luxembourg",4,
+"QNAP",,"nas","LU","Luxembourg",82,
+"QNAP","TS Series","nas","LU","Luxembourg",4,
+"Samsung",,"video-system","LU","Luxembourg",1,
+"Schneider Electric",,"smart-building-management","LU","Luxembourg",2,
+"Siemens","SIMATIC S7","plc","LU","Luxembourg",1,
+"Siemens","SIMATIC S7-1200","plc","LU","Luxembourg",2,"CNVD-2017-36884; CNVD-2018-25436; CNVD-2020-49716"
+"Somfy",,"smart-alarm","LU","Luxembourg",15,
+"Supermicro","IPMI","device-management","LU","Luxembourg",9,
+"Synology",,,"LU","Luxembourg",223,"VU#180049; VU#905115; VU#922681"
+"Synology",,"router","LU","Luxembourg",1,"VU#180049; VU#905115; VU#922681"
+"Synology","DiskStation","nas","LU","Luxembourg",356,
+"Teltonika",,"router","LU","Luxembourg",1,
+"TP-Link","TL-MR6400","router","LU","Luxembourg",1,
+"Ubiquiti",,,"LU","Luxembourg",2,
+"Ubiquiti",,"router","LU","Luxembourg",10,
+"Ubiquiti","UniFi Controller","wireless-controller","LU","Luxembourg",17,
+"Ubiquiti","UniFi Controller Cloud Key","wireless-controller","LU","Luxembourg",11,
+"Vanderbilt Industries","SPC","smart-alarm","LU","Luxembourg",2,
+"Western Digital",,"nas","LU","Luxembourg",4,"VU#395981"
+"Yealink",,"voip","LU","Luxembourg",2,
+"Zyxel",,,"LU","Luxembourg",7,
+"Zyxel",,"router","LU","Luxembourg",1,

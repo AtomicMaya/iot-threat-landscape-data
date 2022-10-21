@@ -1,0 +1,1304 @@
+infection,geo,country,count
+android_spams,JP,Japan,1
+android_spams,IR,"Iran (Islamic Republic Of)",1
+android_spams,UK,"United Kingdom",1
+android_spams,KR,"South Korea",1
+android_spams,RU,"Russian Federation",1
+android_spams,FR,France,12
+android_spams,MO,Macau,1
+android_spams,CA,Canada,1
+android_spams,DE,Germany,2
+android_spams,NL,Netherlands,2
+android_spams,VN,"Viet Nam",1
+android_spams,RS,Serbia,1
+android_spams,DO,"Dominican Republic",1
+android_spams,US,"United States",29
+android_spams,CN,China,3
+android_spams,AR,Argentina,1
+android_spams,SG,Singapore,2
+android_spams,HK,"Hong Kong",2
+avalanche-dofoil,US,"United States",1
+avalanche-dofoil,HK,"Hong Kong",1
+avalanche-dofoil,UA,Ukraine,4
+avalanche-dofoil,AZ,Azerbaijan,1
+avalanche-dofoil,BY,Belarus,3
+avalanche-dofoil,KG,Kyrgyzstan,2
+avalanche-dofoil,ID,Indonesia,1
+avalanche-dofoil,KZ,Kazakhstan,2
+avalanche-dofoil,RU,"Russian Federation",2
+avalanche-dofoil,LT,Lithuania,1
+avalanche-marcher,RO,Romania,1
+avalanche-marcher,UK,"United Kingdom",2
+avalanche-marcher,AU,Australia,14
+avalanche-marcher,LU,Luxembourg,1
+avalanche-marcher,KR,"South Korea",1
+avalanche-marcher,ZM,Zambia,5
+avalanche-marcher,RU,"Russian Federation",9
+avalanche-marcher,FR,France,4
+avalanche-marcher,BR,Brazil,1
+avalanche-marcher,JP,Japan,1
+avalanche-marcher,TR,Turkey,1
+avalanche-marcher,IR,"Iran (Islamic Republic Of)",6
+avalanche-marcher,US,"United States",62
+avalanche-marcher,CN,China,20
+avalanche-marcher,NZ,"New Zealand",4
+avalanche-marcher,SG,Singapore,5
+avalanche-marcher,BE,Belgium,1
+avalanche-marcher,CA,Canada,6
+avalanche-marcher,DE,Germany,1
+avalanche-marcher,UA,Ukraine,1
+avalanche-marcher,MY,Malaysia,1
+avalanche-marcher,NL,Netherlands,2
+avalanche-marcher,KE,Kenya,1
+avalanche-marcher,AT,Austria,1
+avalanche-marcher,SE,Sweden,5
+avalanche-smartapp,RU,"Russian Federation",2
+avalanche-smartapp,FR,France,4
+avalanche-smartapp,UK,"United Kingdom",1
+avalanche-smartapp,PK,Pakistan,1
+avalanche-smartapp,IL,Israel,2
+avalanche-smartapp,AU,Australia,1
+avalanche-smartapp,SE,Sweden,5
+avalanche-smartapp,US,"United States",52
+avalanche-smartapp,CN,China,1
+avalanche-smartapp,SG,Singapore,1
+avalanche-trusteer,US,"United States",122
+avalanche-trusteer,CN,China,4
+avalanche-trusteer,BD,Bangladesh,1
+avalanche-trusteer,SG,Singapore,2
+avalanche-trusteer,TW,"Taiwan Province Of China",1
+avalanche-trusteer,UA,Ukraine,1
+avalanche-trusteer,IE,Ireland,10
+avalanche-trusteer,ES,Spain,1
+avalanche-trusteer,DE,Germany,1
+avalanche-trusteer,NL,Netherlands,1
+avalanche-trusteer,AU,Australia,1
+avalanche-trusteer,RO,Romania,1
+avalanche-trusteer,UK,"United Kingdom",4
+avalanche-trusteer,ID,Indonesia,1
+avalanche-trusteer,CY,Cyprus,2
+avalanche-trusteer,BR,Brazil,2
+avalanche-trusteer,FR,France,71
+avalanche-trusteer,RU,"Russian Federation",3
+avalanche-trusteer,MX,Mexico,1
+avalanche-trusteer,ZA,"South Africa",1
+avalanche-trusteer,TR,Turkey,1
+avalanche-trusteer,IR,"Iran (Islamic Republic Of)",1
+avalanche-trusteer-app,FR,France,1
+avalanche-trusteer-app,TR,Turkey,2
+avalanche-trusteer-app,SG,Singapore,2
+avalanche-trusteer-app,US,"United States",8
+avalanche-trusteer-app,DE,Germany,1
+avalanche-trusteer-app,NL,Netherlands,5
+dresscode,US,"United States",2
+dresscode,NG,Nigeria,10
+dresscode,AF,Afghanistan,1
+dresscode,ID,Indonesia,11
+dresscode,PL,Poland,3
+dresscode,YE,Yemen,1
+dresscode,RU,"Russian Federation",6
+dresscode,IN,India,2
+flubot,MK,Macedonia,1
+flubot,CO,Colombia,1
+flubot,CH,Switzerland,3
+flubot,IR,"Iran (Islamic Republic Of)",6
+flubot,NO,Norway,32
+flubot,IN,India,7
+flubot,LT,Lithuania,1
+flubot,IT,Italy,46
+flubot,AU,Australia,2
+flubot,IL,Israel,3
+flubot,UK,"United Kingdom",415
+flubot,KR,"South Korea",3
+flubot,ID,Indonesia,1
+flubot,NP,Nepal,1
+flubot,NL,Netherlands,115
+flubot,RS,Serbia,7
+flubot,DO,"Dominican Republic",1
+flubot,HR,Croatia,1
+flubot,FI,Finland,3
+flubot,ET,Ethiopia,1
+flubot,UA,Ukraine,2
+flubot,DE,Germany,1788
+flubot,ES,Spain,652
+flubot,SN,Senegal,1
+flubot,BE,Belgium,12
+flubot,BG,Bulgaria,1
+flubot,BA,"Bosnia And Herzegovina",1
+flubot,TW,"Taiwan Province Of China",3
+flubot,SG,Singapore,8
+flubot,TR,Turkey,4
+flubot,MX,Mexico,2
+flubot,ZA,"South Africa",2
+flubot,DK,Denmark,5
+flubot,JP,Japan,6
+flubot,CU,Cuba,1
+flubot,AL,Albania,1
+flubot,LB,Lebanon,2
+flubot,BR,Brazil,2
+flubot,FR,France,59
+flubot,RU,"Russian Federation",14
+flubot,RO,Romania,4
+flubot,PL,Poland,90
+flubot,GE,Georgia,1
+flubot,LU,Luxembourg,3
+flubot,ML,Mali,1
+flubot,AT,Austria,4
+flubot,SE,Sweden,38
+flubot,CA,Canada,5
+flubot,IE,Ireland,13
+flubot,HK,"Hong Kong",1
+flubot,PT,Portugal,2
+flubot,NZ,"New Zealand",1
+flubot,US,"United States",121
+flubot,AR,Argentina,3
+flubot,CN,China,17
+flubot,CZ,"Czech Republic",1
+ghost-push,NE,Niger,98
+ghost-push,AU,Australia,1
+ghost-push,IT,Italy,9
+ghost-push,ZM,Zambia,39
+ghost-push,MN,Mongolia,2
+ghost-push,SA,"Saudi Arabia",33
+ghost-push,TW,"Taiwan Province Of China",84
+ghost-push,BG,Bulgaria,1
+ghost-push,SN,Senegal,25
+ghost-push,DE,Germany,70
+ghost-push,MO,Macau,4
+ghost-push,JM,Jamaica,2
+ghost-push,GR,Greece,1
+ghost-push,LK,"Sri Lanka",32
+ghost-push,EG,Egypt,113
+ghost-push,CR,"Costa Rica",5
+ghost-push,PL,Poland,12
+ghost-push,BF,"Burkina Faso",4
+ghost-push,FR,France,48
+ghost-push,AL,Albania,2
+ghost-push,ZA,"South Africa",218
+ghost-push,SD,Sudan,192
+ghost-push,SZ,Swaziland,19
+ghost-push,GM,Gambia,7
+ghost-push,SK,"Slovakia (Slovak Republic)",2
+ghost-push,ML,Mali,23
+ghost-push,VN,"Viet Nam",171
+ghost-push,SE,Sweden,1
+ghost-push,CM,Cameroon,9
+ghost-push,AE,"United Arab Emirates",25
+ghost-push,ID,Indonesia,1199
+ghost-push,AO,Angola,138
+ghost-push,IN,India,555
+ghost-push,NO,Norway,2
+ghost-push,LS,Lesotho,6
+ghost-push,GT,Guatemala,75
+ghost-push,QA,Qatar,1
+ghost-push,UG,Uganda,37
+ghost-push,OM,Oman,16
+ghost-push,AZ,Azerbaijan,2
+ghost-push,SY,"Syrian Arab Republic",288
+ghost-push,FI,Finland,10
+ghost-push,RS,Serbia,12
+ghost-push,TT,"Trinidad And Tobago",4
+ghost-push,HN,Honduras,4
+ghost-push,NP,Nepal,39
+ghost-push,KZ,Kazakhstan,9
+ghost-push,TH,Thailand,31
+ghost-push,LY,"Libyan Arab Jamahiriya",51
+ghost-push,CI,"Cote D Ivoire",19
+ghost-push,US,"United States",241
+ghost-push,BD,Bangladesh,419
+ghost-push,UZ,Uzbekistan,8
+ghost-push,HK,"Hong Kong",53
+ghost-push,IQ,Iraq,96
+ghost-push,BN,"Brunei Darussalam",4
+ghost-push,EC,Ecuador,32
+ghost-push,CL,Chile,48
+ghost-push,VE,Venezuela,106
+ghost-push,MA,Morocco,63
+ghost-push,PE,Peru,28
+ghost-push,AT,Austria,2
+ghost-push,CD,"Democratic Republic Of The Congo",14
+ghost-push,GY,Guyana,3
+ghost-push,KR,"South Korea",1
+ghost-push,SV,"El Salvador",8
+ghost-push,DZ,Algeria,265
+ghost-push,NI,Nicaragua,20
+ghost-push,MK,Macedonia,3
+ghost-push,ZW,Zimbabwe,12
+ghost-push,NG,Nigeria,348
+ghost-push,UA,Ukraine,30
+ghost-push,NA,Namibia,6
+ghost-push,ET,Ethiopia,530
+ghost-push,AF,Afghanistan,57
+ghost-push,DO,"Dominican Republic",9
+ghost-push,YE,Yemen,86
+ghost-push,GN,Guinea,21
+ghost-push,GE,Georgia,11
+ghost-push,MU,Mauritius,10
+ghost-push,RW,Rwanda,14
+ghost-push,MV,Maldives,1
+ghost-push,RO,Romania,22
+ghost-push,BR,Brazil,178
+ghost-push,BO,Bolivia,94
+ghost-push,TG,Togo,5
+ghost-push,CU,Cuba,10
+ghost-push,JP,Japan,29
+ghost-push,HU,Hungary,2
+ghost-push,JO,Jordan,3
+ghost-push,GH,Ghana,34
+ghost-push,HT,Haiti,3
+ghost-push,TR,Turkey,7
+ghost-push,MW,Malawi,17
+ghost-push,UY,Uruguay,28
+ghost-push,CN,China,29
+ghost-push,LA,"Lao Peoples Democratic Republic",4
+ghost-push,MM,Myanmar,58
+ghost-push,TZ,Tanzania,52
+ghost-push,KG,Kyrgyzstan,10
+ghost-push,MG,Madagascar,2
+ghost-push,AM,Armenia,2
+ghost-push,UK,"United Kingdom",79
+ghost-push,PK,Pakistan,262
+ghost-push,LT,Lithuania,1
+ghost-push,BJ,Benin,13
+ghost-push,PY,Paraguay,21
+ghost-push,IR,"Iran (Islamic Republic Of)",865
+ghost-push,CO,Colombia,95
+ghost-push,CH,Switzerland,16
+ghost-push,SG,Singapore,180
+ghost-push,BE,Belgium,120
+ghost-push,MY,Malaysia,17
+ghost-push,PA,Panama,1
+ghost-push,ES,Spain,2
+ghost-push,MZ,Mozambique,24
+ghost-push,PS,"Palestinian Territories",7
+ghost-push,NL,Netherlands,15
+ghost-push,GA,Gabon,2
+ghost-push,TJ,Tajikistan,5
+ghost-push,LB,Lebanon,7
+ghost-push,RU,"Russian Federation",91
+ghost-push,BB,Barbados,1
+ghost-push,MX,Mexico,329
+ghost-push,TN,Tunisia,72
+ghost-push,CG,Congo,42
+ghost-push,CZ,"Czech Republic",10
+ghost-push,BI,Burundi,4
+ghost-push,PH,Philippines,185
+ghost-push,AR,Argentina,74
+ghost-push,BW,Botswana,1
+ghost-push,CA,Canada,8
+ghost-push,BY,Belarus,12
+ghost-push,KE,Kenya,133
+marcher,UA,Ukraine,1
+marcher,CN,China,18
+marcher,NZ,"New Zealand",4
+marcher,RO,Romania,1
+marcher,BR,Brazil,1
+marcher,JP,Japan,1
+marcher,SG,Singapore,5
+marcher,BE,Belgium,1
+marcher,MY,Malaysia,1
+marcher,NL,Netherlands,1
+marcher,UK,"United Kingdom",2
+marcher,IR,"Iran (Islamic Republic Of)",6
+marcher,CA,Canada,4
+marcher,KE,Kenya,1
+marcher,RU,"Russian Federation",6
+marcher,DE,Germany,1
+marcher,AU,Australia,14
+marcher,ZM,Zambia,5
+marcher,SE,Sweden,5
+marcher,LU,Luxembourg,1
+marcher,FR,France,4
+marcher,US,"United States",57
+marcher,AT,Austria,1
+mirai,IR,"Iran (Islamic Republic Of)",1543
+mirai,SL,"Sierra Leone",1
+mirai,CO,Colombia,114
+mirai,CH,Switzerland,27
+mirai,PY,Paraguay,44
+mirai,PF,"French Polynesia",16
+mirai,LT,Lithuania,32
+mirai,CV,"Cape Verde",8
+mirai,LC,"Saint Lucia",4
+mirai,BJ,Benin,2
+mirai,CY,Cyprus,34
+mirai,NC,"New Caledonia",1
+mirai,AM,Armenia,54
+mirai,UK,"United Kingdom",523
+mirai,PK,Pakistan,231
+mirai,MZ,Mozambique,7
+mirai,GU,Guam,8
+mirai,PS,"Palestinian Territories",61
+mirai,NL,Netherlands,60
+mirai,MY,Malaysia,457
+mirai,PA,Panama,173
+mirai,ES,Spain,693
+mirai,HR,Croatia,37
+mirai,BE,Belgium,52
+mirai,SG,Singapore,369
+mirai,GP,Guadeloupe,3
+mirai,TN,Tunisia,86
+mirai,MX,Mexico,378
+mirai,LB,Lebanon,79
+mirai,AW,Aruba,2
+mirai,IS,Iceland,1
+mirai,RU,"Russian Federation",2728
+mirai,BB,Barbados,3
+mirai,GA,Gabon,6
+mirai,TJ,Tajikistan,4
+mirai,KE,Kenya,19
+mirai,CA,Canada,503
+mirai,BY,Belarus,31
+mirai,CG,Congo,32
+mirai,CZ,"Czech Republic",45
+mirai,MD,Moldova,38
+mirai,AR,Argentina,648
+mirai,PH,Philippines,50
+mirai,DZ,Algeria,330
+mirai,MK,Macedonia,36
+mirai,SV,"El Salvador",11
+mirai,KR,"South Korea",2376
+mirai,IL,Israel,422
+mirai,DO,"Dominican Republic",76
+mirai,NG,Nigeria,3
+mirai,UA,Ukraine,472
+mirai,NA,Namibia,1
+mirai,ET,Ethiopia,17
+mirai,AF,Afghanistan,5
+mirai,AD,Andorra,1
+mirai,ZW,Zimbabwe,1
+mirai,BA,"Bosnia And Herzegovina",18
+mirai,GH,Ghana,1
+mirai,TR,Turkey,897
+mirai,JP,Japan,358
+mirai,HU,Hungary,161
+mirai,JO,Jordan,62
+mirai,MQ,Martinique,3
+mirai,BS,Bahamas,12
+mirai,BO,Bolivia,28
+mirai,BR,Brazil,3333
+mirai,MU,Mauritius,13
+mirai,YE,Yemen,15
+mirai,LR,Liberia,36
+mirai,GE,Georgia,21
+mirai,RO,Romania,251
+mirai,MV,Maldives,4
+mirai,SR,Suriname,2
+mirai,FK,"Falkland Islands (Malvinas)",1
+mirai,KG,Kyrgyzstan,4
+mirai,BH,Bahrain,7
+mirai,PT,Portugal,121
+mirai,LA,"Lao Peoples Democratic Republic",2
+mirai,GF,"French Guiana",2
+mirai,UY,Uruguay,441
+mirai,NZ,"New Zealand",20
+mirai,CN,China,13895
+mirai,EU,"Europe (Unknown Country)",2
+mirai,GT,Guatemala,1
+mirai,IN,India,5597
+mirai,NO,Norway,130
+mirai,AO,Angola,12
+mirai,SI,Slovenia,28
+mirai,ID,Indonesia,262
+mirai,RS,Serbia,2547
+mirai,HN,Honduras,6
+mirai,TT,"Trinidad And Tobago",25
+mirai,NP,Nepal,5
+mirai,AZ,Azerbaijan,13
+mirai,RE,Reunion,8
+mirai,SY,"Syrian Arab Republic",32
+mirai,FI,Finland,16
+mirai,OM,Oman,207
+mirai,SO,Somalia,1
+mirai,BZ,Belize,5
+mirai,QA,Qatar,49
+mirai,UG,Uganda,4
+mirai,LY,"Libyan Arab Jamahiriya",2
+mirai,MH,"Marshall Islands",2
+mirai,TH,Thailand,456
+mirai,EE,Estonia,3
+mirai,KW,Kuwait,25
+mirai,KH,Cambodia,43
+mirai,CW,Curacao,4
+mirai,KZ,Kazakhstan,146
+mirai,MA,Morocco,358
+mirai,AT,Austria,33
+mirai,PR,"Puerto Rico",10
+mirai,PE,Peru,10
+mirai,VE,Venezuela,369
+mirai,IE,Ireland,26
+mirai,UZ,Uzbekistan,7
+mirai,HK,"Hong Kong",1595
+mirai,EC,Ecuador,101
+mirai,KY,"Cayman Islands",2
+mirai,IQ,Iraq,2
+mirai,BN,"Brunei Darussalam",2
+mirai,CL,Chile,178
+mirai,CI,"Cote D Ivoire",10
+mirai,FJ,Fiji,20
+mirai,BD,Bangladesh,31
+mirai,US,"United States",1839
+mirai,MN,Mongolia,8
+mirai,SA,"Saudi Arabia",111
+mirai,IT,Italy,735
+mirai,ME,Montenegro,3
+mirai,YT,Mayotte,3
+mirai,AU,Australia,262
+mirai,EG,Egypt,6419
+mirai,LK,"Sri Lanka",20
+mirai,CR,"Costa Rica",37
+mirai,DE,Germany,470
+mirai,GR,Greece,474
+mirai,MO,Macau,51
+mirai,JM,Jamaica,50
+mirai,BG,Bulgaria,159
+mirai,SN,Senegal,10
+mirai,TW,"Taiwan Province Of China",2891
+mirai,CK,"Cook Islands",2
+mirai,GD,Grenada,1
+mirai,SD,Sudan,2
+mirai,ZA,"South Africa",156
+mirai,DK,Denmark,43
+mirai,FR,France,425
+mirai,AL,Albania,27
+mirai,PL,Poland,686
+mirai,LU,Luxembourg,3
+mirai,SE,Sweden,895
+mirai,VN,"Viet Nam",2268
+mirai,MT,Malta,18
+mirai,AE,"United Arab Emirates",79
+mirai,CM,Cameroon,2
+mirai,AG,"Antigua And Barbuda",2
+mirai,SK,"Slovakia (Slovak Republic)",19
+mirai,LV,Latvia,48
+mirai,SZ,Swaziland,8
+qsnatch,BG,Bulgaria,2
+qsnatch,SE,Sweden,1
+ssh-brute-force,BT,Bhutan,1
+ssh-brute-force,TR,Turkey,65
+ssh-brute-force,HT,Haiti,1
+ssh-brute-force,MW,Malawi,1
+ssh-brute-force,GH,Ghana,4
+ssh-brute-force,HU,Hungary,25
+ssh-brute-force,JO,Jordan,6
+ssh-brute-force,MQ,Martinique,1
+ssh-brute-force,BS,Bahamas,1
+ssh-brute-force,JP,Japan,168
+ssh-brute-force,CU,Cuba,1
+ssh-brute-force,BO,Bolivia,19
+ssh-brute-force,BR,Brazil,699
+ssh-brute-force,TG,Togo,3
+ssh-brute-force,MV,Maldives,1
+ssh-brute-force,RO,Romania,49
+ssh-brute-force,GN,Guinea,1
+ssh-brute-force,YE,Yemen,4
+ssh-brute-force,MU,Mauritius,1
+ssh-brute-force,GE,Georgia,8
+ssh-brute-force,RW,Rwanda,1
+ssh-brute-force,SR,Suriname,1
+ssh-brute-force,KG,Kyrgyzstan,8
+ssh-brute-force,TZ,Tanzania,7
+ssh-brute-force,MM,Myanmar,9
+ssh-brute-force,BH,Bahrain,3
+ssh-brute-force,PT,Portugal,27
+ssh-brute-force,LA,"Lao Peoples Democratic Republic",8
+ssh-brute-force,UY,Uruguay,9
+ssh-brute-force,NZ,"New Zealand",7
+ssh-brute-force,CN,China,6612
+ssh-brute-force,MK,Macedonia,4
+ssh-brute-force,DZ,Algeria,11
+ssh-brute-force,NI,Nicaragua,4
+ssh-brute-force,SV,"El Salvador",3
+ssh-brute-force,SC,Seychelles,4
+ssh-brute-force,PG,"Papua New Guinea",1
+ssh-brute-force,IL,Israel,8
+ssh-brute-force,CD,"Democratic Republic Of The Congo",1
+ssh-brute-force,KR,"South Korea",726
+ssh-brute-force,DO,"Dominican Republic",14
+ssh-brute-force,ET,Ethiopia,10
+ssh-brute-force,AF,Afghanistan,3
+ssh-brute-force,NG,Nigeria,22
+ssh-brute-force,UA,Ukraine,58
+ssh-brute-force,ZW,Zimbabwe,4
+ssh-brute-force,BA,"Bosnia And Herzegovina",2
+ssh-brute-force,TN,Tunisia,29
+ssh-brute-force,MX,Mexico,224
+ssh-brute-force,IS,Iceland,5
+ssh-brute-force,LB,Lebanon,2
+ssh-brute-force,RU,"Russian Federation",387
+ssh-brute-force,GQ,"Equatorial Guinea",1
+ssh-brute-force,TJ,Tajikistan,1
+ssh-brute-force,KE,Kenya,23
+ssh-brute-force,CA,Canada,144
+ssh-brute-force,BY,Belarus,16
+ssh-brute-force,BW,Botswana,5
+ssh-brute-force,MD,Moldova,13
+ssh-brute-force,BI,Burundi,1
+ssh-brute-force,PH,Philippines,77
+ssh-brute-force,AR,Argentina,135
+ssh-brute-force,CG,Congo,2
+ssh-brute-force,CZ,"Czech Republic",14
+ssh-brute-force,CO,Colombia,142
+ssh-brute-force,CH,Switzerland,22
+ssh-brute-force,IR,"Iran (Islamic Republic Of)",97
+ssh-brute-force,PF,"French Polynesia",1
+ssh-brute-force,PY,Paraguay,30
+ssh-brute-force,CY,Cyprus,2
+ssh-brute-force,LT,Lithuania,18
+ssh-brute-force,CV,"Cape Verde",1
+ssh-brute-force,PK,Pakistan,87
+ssh-brute-force,UK,"United Kingdom",224
+ssh-brute-force,AM,Armenia,8
+ssh-brute-force,MG,Madagascar,2
+ssh-brute-force,NL,Netherlands,270
+ssh-brute-force,PS,"Palestinian Territories",6
+ssh-brute-force,MZ,Mozambique,1
+ssh-brute-force,TL,Timor-Leste,1
+ssh-brute-force,GU,Guam,1
+ssh-brute-force,HR,Croatia,18
+ssh-brute-force,PA,Panama,17
+ssh-brute-force,MY,Malaysia,82
+ssh-brute-force,ES,Spain,93
+ssh-brute-force,BE,Belgium,39
+ssh-brute-force,SG,Singapore,449
+ssh-brute-force,SD,Sudan,8
+ssh-brute-force,ZA,"South Africa",60
+ssh-brute-force,DK,Denmark,14
+ssh-brute-force,AL,Albania,2
+ssh-brute-force,FR,France,283
+ssh-brute-force,BF,"Burkina Faso",2
+ssh-brute-force,PL,Poland,86
+ssh-brute-force,LU,Luxembourg,26
+ssh-brute-force,CM,Cameroon,2
+ssh-brute-force,AE,"United Arab Emirates",27
+ssh-brute-force,ML,Mali,2
+ssh-brute-force,SE,Sweden,64
+ssh-brute-force,VN,"Viet Nam",352
+ssh-brute-force,GI,Gibraltar,1
+ssh-brute-force,SK,"Slovakia (Slovak Republic)",6
+ssh-brute-force,LV,Latvia,5
+ssh-brute-force,SZ,Swaziland,1
+ssh-brute-force,KN,"Saint Kitts And Nevis",1
+ssh-brute-force,MN,Mongolia,18
+ssh-brute-force,SA,"Saudi Arabia",23
+ssh-brute-force,IT,Italy,147
+ssh-brute-force,ZM,Zambia,20
+ssh-brute-force,AU,Australia,61
+ssh-brute-force,NE,Niger,2
+ssh-brute-force,LK,"Sri Lanka",15
+ssh-brute-force,EG,Egypt,35
+ssh-brute-force,CR,"Costa Rica",5
+ssh-brute-force,JM,Jamaica,2
+ssh-brute-force,MO,Macau,2
+ssh-brute-force,GR,Greece,15
+ssh-brute-force,DE,Germany,523
+ssh-brute-force,SN,Senegal,5
+ssh-brute-force,BG,Bulgaria,10
+ssh-brute-force,TW,"Taiwan Province Of China",79
+ssh-brute-force,LY,"Libyan Arab Jamahiriya",4
+ssh-brute-force,MH,"Marshall Islands",1
+ssh-brute-force,TH,Thailand,199
+ssh-brute-force,KW,Kuwait,11
+ssh-brute-force,CW,Curacao,1
+ssh-brute-force,KH,Cambodia,9
+ssh-brute-force,KZ,Kazakhstan,25
+ssh-brute-force,MA,Morocco,27
+ssh-brute-force,PR,"Puerto Rico",3
+ssh-brute-force,PE,Peru,35
+ssh-brute-force,AT,Austria,28
+ssh-brute-force,VE,Venezuela,41
+ssh-brute-force,IE,Ireland,18
+ssh-brute-force,HK,"Hong Kong",603
+ssh-brute-force,KY,"Cayman Islands",1
+ssh-brute-force,EC,Ecuador,23
+ssh-brute-force,IQ,Iraq,5
+ssh-brute-force,CL,Chile,48
+ssh-brute-force,UZ,Uzbekistan,13
+ssh-brute-force,BD,Bangladesh,50
+ssh-brute-force,US,"United States",3417
+ssh-brute-force,CI,"Cote D Ivoire",7
+ssh-brute-force,EU,"Europe (Unknown Country)",4
+ssh-brute-force,GT,Guatemala,14
+ssh-brute-force,LS,Lesotho,1
+ssh-brute-force,NO,Norway,26
+ssh-brute-force,IN,India,595
+ssh-brute-force,AO,Angola,1
+ssh-brute-force,SI,Slovenia,6
+ssh-brute-force,ID,Indonesia,411
+ssh-brute-force,TT,"Trinidad And Tobago",4
+ssh-brute-force,NP,Nepal,16
+ssh-brute-force,HN,Honduras,3
+ssh-brute-force,RS,Serbia,14
+ssh-brute-force,FI,Finland,23
+ssh-brute-force,RE,Reunion,2
+ssh-brute-force,AZ,Azerbaijan,4
+ssh-brute-force,SY,"Syrian Arab Republic",3
+ssh-brute-force,OM,Oman,2
+ssh-brute-force,QA,Qatar,8
+ssh-brute-force,UG,Uganda,10
+ssh-brute-force,BZ,Belize,6
+ssh-brute-force,SO,Somalia,3
+telnet-brute-force,GR,Greece,214
+telnet-brute-force,MO,Macau,8
+telnet-brute-force,JM,Jamaica,12
+telnet-brute-force,DE,Germany,69
+telnet-brute-force,LK,"Sri Lanka",8
+telnet-brute-force,EG,Egypt,395
+telnet-brute-force,CR,"Costa Rica",33
+telnet-brute-force,TW,"Taiwan Province Of China",1283
+telnet-brute-force,CK,"Cook Islands",2
+telnet-brute-force,SN,Senegal,5
+telnet-brute-force,BG,Bulgaria,115
+telnet-brute-force,MN,Mongolia,5
+telnet-brute-force,SA,"Saudi Arabia",30
+telnet-brute-force,AU,Australia,108
+telnet-brute-force,ME,Montenegro,3
+telnet-brute-force,YT,Mayotte,1
+telnet-brute-force,IT,Italy,341
+telnet-brute-force,SK,"Slovakia (Slovak Republic)",28
+telnet-brute-force,MT,Malta,5
+telnet-brute-force,CM,Cameroon,39
+telnet-brute-force,AE,"United Arab Emirates",15
+telnet-brute-force,ML,Mali,1
+telnet-brute-force,SE,Sweden,179
+telnet-brute-force,VN,"Viet Nam",781
+telnet-brute-force,SZ,Swaziland,1
+telnet-brute-force,LV,Latvia,25
+telnet-brute-force,DK,Denmark,8
+telnet-brute-force,ZA,"South Africa",121
+telnet-brute-force,SD,Sudan,1
+telnet-brute-force,BF,"Burkina Faso",2
+telnet-brute-force,PL,Poland,197
+telnet-brute-force,LU,Luxembourg,6
+telnet-brute-force,AL,Albania,35
+telnet-brute-force,FR,France,135
+telnet-brute-force,FI,Finland,6
+telnet-brute-force,RE,Reunion,5
+telnet-brute-force,AZ,Azerbaijan,22
+telnet-brute-force,SY,"Syrian Arab Republic",3
+telnet-brute-force,TT,"Trinidad And Tobago",8
+telnet-brute-force,HN,Honduras,26
+telnet-brute-force,NP,Nepal,20
+telnet-brute-force,RS,Serbia,370
+telnet-brute-force,SX,"Sint Maarten",1
+telnet-brute-force,QA,Qatar,8
+telnet-brute-force,UG,Uganda,13
+telnet-brute-force,BZ,Belize,3
+telnet-brute-force,SO,Somalia,2
+telnet-brute-force,OM,Oman,1
+telnet-brute-force,NO,Norway,24
+telnet-brute-force,IN,India,2723
+telnet-brute-force,EU,"Europe (Unknown Country)",1
+telnet-brute-force,GT,Guatemala,5
+telnet-brute-force,LS,Lesotho,1
+telnet-brute-force,ID,Indonesia,318
+telnet-brute-force,AO,Angola,3
+telnet-brute-force,SI,Slovenia,11
+telnet-brute-force,IE,Ireland,16
+telnet-brute-force,VE,Venezuela,122
+telnet-brute-force,MA,Morocco,48
+telnet-brute-force,PR,"Puerto Rico",9
+telnet-brute-force,AT,Austria,13
+telnet-brute-force,PE,Peru,16
+telnet-brute-force,FJ,Fiji,2
+telnet-brute-force,MF,"Saint Martin",1
+telnet-brute-force,US,"United States",1338
+telnet-brute-force,BD,Bangladesh,124
+telnet-brute-force,CI,"Cote D Ivoire",2
+telnet-brute-force,HK,"Hong Kong",92
+telnet-brute-force,KY,"Cayman Islands",2
+telnet-brute-force,IQ,Iraq,19
+telnet-brute-force,BN,"Brunei Darussalam",1
+telnet-brute-force,EC,Ecuador,53
+telnet-brute-force,CL,Chile,60
+telnet-brute-force,UZ,Uzbekistan,1
+telnet-brute-force,TH,Thailand,170
+telnet-brute-force,LY,"Libyan Arab Jamahiriya",5
+telnet-brute-force,KZ,Kazakhstan,107
+telnet-brute-force,KH,Cambodia,112
+telnet-brute-force,KW,Kuwait,8
+telnet-brute-force,CW,Curacao,2
+telnet-brute-force,ET,Ethiopia,8
+telnet-brute-force,AF,Afghanistan,13
+telnet-brute-force,NG,Nigeria,19
+telnet-brute-force,UA,Ukraine,427
+telnet-brute-force,DO,"Dominican Republic",409
+telnet-brute-force,BA,"Bosnia And Herzegovina",19
+telnet-brute-force,ZW,Zimbabwe,7
+telnet-brute-force,AD,Andorra,1
+telnet-brute-force,MK,Macedonia,17
+telnet-brute-force,DZ,Algeria,5
+telnet-brute-force,IL,Israel,141
+telnet-brute-force,CD,"Democratic Republic Of The Congo",4
+telnet-brute-force,KR,"South Korea",819
+telnet-brute-force,SV,"El Salvador",3
+telnet-brute-force,TZ,Tanzania,8
+telnet-brute-force,MM,Myanmar,1
+telnet-brute-force,DM,Dominica,1
+telnet-brute-force,SR,Suriname,11
+telnet-brute-force,KG,Kyrgyzstan,4
+telnet-brute-force,UY,Uruguay,41
+telnet-brute-force,NZ,"New Zealand",10
+telnet-brute-force,CN,China,6082
+telnet-brute-force,BH,Bahrain,52
+telnet-brute-force,LA,"Lao Peoples Democratic Republic",4
+telnet-brute-force,PT,Portugal,25
+telnet-brute-force,HU,Hungary,62
+telnet-brute-force,MQ,Martinique,3
+telnet-brute-force,JO,Jordan,10
+telnet-brute-force,BS,Bahamas,6
+telnet-brute-force,JP,Japan,85
+telnet-brute-force,TR,Turkey,368
+telnet-brute-force,MW,Malawi,2
+telnet-brute-force,GH,Ghana,7
+telnet-brute-force,MV,Maldives,9
+telnet-brute-force,RO,Romania,150
+telnet-brute-force,MU,Mauritius,5
+telnet-brute-force,GN,Guinea,1
+telnet-brute-force,GE,Georgia,43
+telnet-brute-force,RW,Rwanda,7
+telnet-brute-force,BR,Brazil,1649
+telnet-brute-force,BO,Bolivia,19
+telnet-brute-force,HR,Croatia,16
+telnet-brute-force,MY,Malaysia,136
+telnet-brute-force,PA,Panama,16
+telnet-brute-force,ES,Spain,168
+telnet-brute-force,PS,"Palestinian Territories",37
+telnet-brute-force,NL,Netherlands,51
+telnet-brute-force,SB,"Solomon Islands",1
+telnet-brute-force,MZ,Mozambique,8
+telnet-brute-force,GU,Guam,1
+telnet-brute-force,SG,Singapore,37
+telnet-brute-force,GP,Guadeloupe,1
+telnet-brute-force,CF,"Central African Republic",1
+telnet-brute-force,BE,Belgium,57
+telnet-brute-force,PY,Paraguay,31
+telnet-brute-force,CO,Colombia,101
+telnet-brute-force,CH,Switzerland,7
+telnet-brute-force,IR,"Iran (Islamic Republic Of)",1157
+telnet-brute-force,UK,"United Kingdom",188
+telnet-brute-force,PK,Pakistan,93
+telnet-brute-force,AM,Armenia,22
+telnet-brute-force,MG,Madagascar,1
+telnet-brute-force,CY,Cyprus,10
+telnet-brute-force,NC,"New Caledonia",1
+telnet-brute-force,LT,Lithuania,38
+telnet-brute-force,LC,"Saint Lucia",1
+telnet-brute-force,BJ,Benin,4
+telnet-brute-force,CA,Canada,78
+telnet-brute-force,BY,Belarus,15
+telnet-brute-force,BW,Botswana,4
+telnet-brute-force,KE,Kenya,56
+telnet-brute-force,MD,Moldova,44
+telnet-brute-force,BI,Burundi,10
+telnet-brute-force,AR,Argentina,252
+telnet-brute-force,PH,Philippines,23
+telnet-brute-force,CG,Congo,2
+telnet-brute-force,CZ,"Czech Republic",47
+telnet-brute-force,MX,Mexico,2023
+telnet-brute-force,TN,Tunisia,25
+telnet-brute-force,GQ,"Equatorial Guinea",3
+telnet-brute-force,TJ,Tajikistan,2
+telnet-brute-force,AW,Aruba,1
+telnet-brute-force,LB,Lebanon,17
+telnet-brute-force,IS,Iceland,1
+telnet-brute-force,RU,"Russian Federation",1955
+trickbot-iot-c2,PL,Poland,1
+trickbot-iot-c2,VN,"Viet Nam",2
+trickbot-iot-c2,ME,Montenegro,1
+trickbot-iot-c2,MN,Mongolia,2
+trickbot-iot-c2,BG,Bulgaria,4
+trickbot-iot-c2,CR,"Costa Rica",1
+trickbot-iot-c2,KH,Cambodia,2
+trickbot-iot-c2,BD,Bangladesh,3
+trickbot-iot-c2,US,"United States",3
+trickbot-iot-c2,CL,Chile,1
+trickbot-iot-c2,EC,Ecuador,2
+trickbot-iot-c2,VE,Venezuela,1
+trickbot-iot-c2,PE,Peru,3
+trickbot-iot-c2,ID,Indonesia,11
+trickbot-iot-c2,IN,India,2
+trickbot-iot-c2,RS,Serbia,2
+trickbot-iot-c2,NP,Nepal,1
+trickbot-iot-c2,GE,Georgia,1
+trickbot-iot-c2,RO,Romania,1
+trickbot-iot-c2,BO,Bolivia,2
+trickbot-iot-c2,BR,Brazil,6
+trickbot-iot-c2,HU,Hungary,1
+trickbot-iot-c2,KG,Kyrgyzstan,1
+trickbot-iot-c2,CD,"Democratic Republic Of The Congo",1
+trickbot-iot-c2,UA,Ukraine,3
+trickbot-iot-c2,RU,"Russian Federation",17
+trickbot-iot-c2,CZ,"Czech Republic",1
+trickbot-iot-c2,KE,Kenya,2
+trickbot-iot-c2,PK,Pakistan,1
+trickbot-iot-c2,IR,"Iran (Islamic Republic Of)",2
+trickbot-iot-c2,CO,Colombia,5
+unityminer,MT,Malta,1
+unityminer,AE,"United Arab Emirates",3
+unityminer,VN,"Viet Nam",7
+unityminer,SE,Sweden,48
+unityminer,SK,"Slovakia (Slovak Republic)",3
+unityminer,LV,Latvia,1
+unityminer,ZA,"South Africa",12
+unityminer,DK,Denmark,11
+unityminer,FR,France,461
+unityminer,PL,Poland,98
+unityminer,LU,Luxembourg,1
+unityminer,GR,Greece,26
+unityminer,MO,Macau,6
+unityminer,DE,Germany,180
+unityminer,BG,Bulgaria,15
+unityminer,TW,"Taiwan Province Of China",1989
+unityminer,SA,"Saudi Arabia",6
+unityminer,IT,Italy,122
+unityminer,AU,Australia,133
+unityminer,PR,"Puerto Rico",5
+unityminer,AT,Austria,18
+unityminer,PE,Peru,2
+unityminer,VE,Venezuela,7
+unityminer,HK,"Hong Kong",153
+unityminer,CL,Chile,74
+unityminer,US,"United States",2167
+unityminer,TH,Thailand,45
+unityminer,HN,Honduras,1
+unityminer,RS,Serbia,9
+unityminer,FI,Finland,105
+unityminer,RE,Reunion,2
+unityminer,QA,Qatar,8
+unityminer,NO,Norway,18
+unityminer,IN,India,56
+unityminer,SI,Slovenia,7
+unityminer,ID,Indonesia,128
+unityminer,PT,Portugal,89
+unityminer,NZ,"New Zealand",16
+unityminer,CN,China,374
+unityminer,TR,Turkey,9
+unityminer,HU,Hungary,8
+unityminer,JP,Japan,375
+unityminer,BR,Brazil,37
+unityminer,RO,Romania,9
+unityminer,UA,Ukraine,5
+unityminer,IL,Israel,26
+unityminer,KR,"South Korea",145
+unityminer,CA,Canada,243
+unityminer,PH,Philippines,1
+unityminer,AR,Argentina,4
+unityminer,CZ,"Czech Republic",23
+unityminer,MX,Mexico,13
+unityminer,AW,Aruba,2
+unityminer,RU,"Russian Federation",57
+unityminer,NL,Netherlands,234
+unityminer,MY,Malaysia,9
+unityminer,ES,Spain,65
+unityminer,MC,Monaco,2
+unityminer,BE,Belgium,144
+unityminer,SG,Singapore,229
+unityminer,CH,Switzerland,35
+unityminer,CO,Colombia,10
+unityminer,IR,"Iran (Islamic Republic Of)",9
+unityminer,PY,Paraguay,1
+unityminer,LT,Lithuania,5
+unityminer,UK,"United Kingdom",311
+vpnfilter,NP,Nepal,1
+vpnfilter,RS,Serbia,2
+vpnfilter,FI,Finland,2
+vpnfilter,SI,Slovenia,6
+vpnfilter,ID,Indonesia,14
+vpnfilter,NO,Norway,1
+vpnfilter,IN,India,4
+vpnfilter,CL,Chile,5
+vpnfilter,HK,"Hong Kong",62
+vpnfilter,BD,Bangladesh,15
+vpnfilter,US,"United States",513
+vpnfilter,PR,"Puerto Rico",1
+vpnfilter,AT,Austria,35
+vpnfilter,IE,Ireland,1
+vpnfilter,KW,Kuwait,6
+vpnfilter,KZ,Kazakhstan,2
+vpnfilter,LY,"Libyan Arab Jamahiriya",5
+vpnfilter,EE,Estonia,2
+vpnfilter,TH,Thailand,10
+vpnfilter,BG,Bulgaria,7
+vpnfilter,TW,"Taiwan Province Of China",203
+vpnfilter,CR,"Costa Rica",1
+vpnfilter,EG,Egypt,4
+vpnfilter,GR,Greece,1
+vpnfilter,DE,Germany,137
+vpnfilter,IT,Italy,361
+vpnfilter,AU,Australia,115
+vpnfilter,LV,Latvia,2
+vpnfilter,AE,"United Arab Emirates",4
+vpnfilter,SE,Sweden,21
+vpnfilter,SK,"Slovakia (Slovak Republic)",8
+vpnfilter,FR,France,275
+vpnfilter,LU,Luxembourg,2
+vpnfilter,PL,Poland,67
+vpnfilter,ZA,"South Africa",13
+vpnfilter,DK,Denmark,21
+vpnfilter,BE,Belgium,111
+vpnfilter,GP,Guadeloupe,2
+vpnfilter,SG,Singapore,10
+vpnfilter,NL,Netherlands,71
+vpnfilter,PS,"Palestinian Territories",1
+vpnfilter,MZ,Mozambique,1
+vpnfilter,HR,Croatia,1
+vpnfilter,ES,Spain,43
+vpnfilter,MY,Malaysia,1
+vpnfilter,NC,"New Caledonia",3
+vpnfilter,CY,Cyprus,1
+vpnfilter,LT,Lithuania,1
+vpnfilter,UK,"United Kingdom",253
+vpnfilter,CH,Switzerland,28
+vpnfilter,IR,"Iran (Islamic Republic Of)",1
+vpnfilter,AR,Argentina,2
+vpnfilter,PH,Philippines,2
+vpnfilter,IM,"Isle Of Man",1
+vpnfilter,CZ,"Czech Republic",24
+vpnfilter,BY,Belarus,2
+vpnfilter,CA,Canada,133
+vpnfilter,RU,"Russian Federation",79
+vpnfilter,IS,Iceland,1
+vpnfilter,BM,Bermuda,1
+vpnfilter,MX,Mexico,3
+vpnfilter,AD,Andorra,1
+vpnfilter,UA,Ukraine,698
+vpnfilter,IL,Israel,11
+vpnfilter,GY,Guyana,1
+vpnfilter,KR,"South Korea",46
+vpnfilter,PT,Portugal,14
+vpnfilter,CN,China,7
+vpnfilter,NZ,"New Zealand",4
+vpnfilter,BR,Brazil,5
+vpnfilter,RO,Romania,9
+vpnfilter,GE,Georgia,1
+vpnfilter,TR,Turkey,4
+vpnfilter,HU,Hungary,15
+vpnfilter,JP,Japan,69
+xcodeghost,LB,Lebanon,3
+xcodeghost,RU,"Russian Federation",18
+xcodeghost,MX,Mexico,2
+xcodeghost,PH,Philippines,1
+xcodeghost,CZ,"Czech Republic",3
+xcodeghost,CA,Canada,20
+xcodeghost,BY,Belarus,1
+xcodeghost,CY,Cyprus,2
+xcodeghost,PK,Pakistan,1
+xcodeghost,UK,"United Kingdom",37
+xcodeghost,CH,Switzerland,20
+xcodeghost,IR,"Iran (Islamic Republic Of)",6
+xcodeghost,BE,Belgium,23
+xcodeghost,SG,Singapore,57
+xcodeghost,NL,Netherlands,71
+xcodeghost,PA,Panama,1
+xcodeghost,MY,Malaysia,13
+xcodeghost,ES,Spain,3
+xcodeghost,BR,Brazil,4
+xcodeghost,RO,Romania,1
+xcodeghost,YE,Yemen,1
+xcodeghost,JP,Japan,129
+xcodeghost,NZ,"New Zealand",7
+xcodeghost,CN,China,6595
+xcodeghost,IL,Israel,2
+xcodeghost,KR,"South Korea",4
+xcodeghost,GG,Guernsey,1
+xcodeghost,ZW,Zimbabwe,2
+xcodeghost,ET,Ethiopia,1
+xcodeghost,UA,Ukraine,1
+xcodeghost,KZ,Kazakhstan,2
+xcodeghost,LY,"Libyan Arab Jamahiriya",1
+xcodeghost,TH,Thailand,5
+xcodeghost,HK,"Hong Kong",35
+xcodeghost,CL,Chile,4
+xcodeghost,IQ,Iraq,1
+xcodeghost,EC,Ecuador,2
+xcodeghost,UZ,Uzbekistan,1
+xcodeghost,US,"United States",822
+xcodeghost,AT,Austria,2
+xcodeghost,IE,Ireland,2
+xcodeghost,NO,Norway,1
+xcodeghost,IN,India,9
+xcodeghost,UG,Uganda,1
+xcodeghost,RS,Serbia,1
+xcodeghost,FI,Finland,5
+xcodeghost,FR,France,56
+xcodeghost,DK,Denmark,1
+xcodeghost,ZA,"South Africa",7
+xcodeghost,VN,"Viet Nam",25
+xcodeghost,SE,Sweden,1
+xcodeghost,IT,Italy,15
+xcodeghost,AU,Australia,13
+xcodeghost,SA,"Saudi Arabia",9
+xcodeghost,BG,Bulgaria,2
+xcodeghost,TW,"Taiwan Province Of China",95
+xcodeghost,EG,Egypt,1
+xcodeghost,CR,"Costa Rica",1
+xcodeghost,MO,Macau,2
+xcodeghost,GR,Greece,1
+xcodeghost,DE,Germany,18
+CVE-2009-0545,CN,China,3
+CVE-2009-0545,US,"United States",2
+CVE-2014-2321,LT,Lithuania,1
+CVE-2014-8361,AR,Argentina,1
+CVE-2014-8361,AU,Australia,1
+CVE-2014-8361,BD,Bangladesh,1
+CVE-2014-8361,BG,Bulgaria,1
+CVE-2014-8361,BR,Brazil,32
+CVE-2014-8361,CN,China,174
+CVE-2014-8361,DE,Germany,1
+CVE-2014-8361,ES,Spain,1
+CVE-2014-8361,GR,Greece,1
+CVE-2014-8361,HK,"Hong Kong",4
+CVE-2014-8361,HU,Hungary,1
+CVE-2014-8361,ID,Indonesia,5
+CVE-2014-8361,IN,India,61
+CVE-2014-8361,IR,"Iran (Islamic Republic Of)",4
+CVE-2014-8361,IT,Italy,6
+CVE-2014-8361,JP,Japan,67
+CVE-2014-8361,KH,Cambodia,1
+CVE-2014-8361,KR,"South Korea",19
+CVE-2014-8361,KZ,Kazakhstan,2
+CVE-2014-8361,LR,Liberia,2
+CVE-2014-8361,MK,Macedonia,1
+CVE-2014-8361,MY,Malaysia,2
+CVE-2014-8361,NL,Netherlands,5
+CVE-2014-8361,NZ,"New Zealand",1
+CVE-2014-8361,PL,Poland,1
+CVE-2014-8361,PT,Portugal,1
+CVE-2014-8361,PY,Paraguay,1
+CVE-2014-8361,RS,Serbia,25
+CVE-2014-8361,RU,"Russian Federation",17
+CVE-2014-8361,SA,"Saudi Arabia",3
+CVE-2014-8361,SE,Sweden,3
+CVE-2014-8361,TH,Thailand,5
+CVE-2014-8361,TN,Tunisia,1
+CVE-2014-8361,TR,Turkey,7
+CVE-2014-8361,TW,"Taiwan Province Of China",7
+CVE-2014-8361,UA,Ukraine,3
+CVE-2014-8361,UK,"United Kingdom",3
+CVE-2014-8361,US,"United States",13
+CVE-2014-8361,VE,Venezuela,2
+CVE-2014-8361,VN,"Viet Nam",1
+CVE-2015-2051,AU,Australia,1
+CVE-2015-2051,BG,Bulgaria,1
+CVE-2015-2051,BR,Brazil,11
+CVE-2015-2051,CN,China,91
+CVE-2015-2051,GE,Georgia,1
+CVE-2015-2051,ID,Indonesia,1
+CVE-2015-2051,IN,India,45
+CVE-2015-2051,IT,Italy,2
+CVE-2015-2051,KR,"South Korea",5
+CVE-2015-2051,RS,Serbia,21
+CVE-2015-2051,RU,"Russian Federation",4
+CVE-2015-2051,TR,Turkey,1
+CVE-2015-2051,UA,Ukraine,1
+CVE-2015-2051,UK,"United Kingdom",1
+CVE-2015-2051,US,"United States",1
+CVE-2015-2051,VN,"Viet Nam",1
+CVE-2016-10372,AU,Australia,1
+CVE-2016-10372,BR,Brazil,18
+CVE-2016-10372,CN,China,167
+CVE-2016-10372,DE,Germany,1
+CVE-2016-10372,FR,France,1
+CVE-2016-10372,HR,Croatia,1
+CVE-2016-10372,IN,India,57
+CVE-2016-10372,JP,Japan,1
+CVE-2016-10372,KR,"South Korea",7
+CVE-2016-10372,LR,Liberia,1
+CVE-2016-10372,PL,Poland,1
+CVE-2016-10372,RS,Serbia,29
+CVE-2016-10372,RU,"Russian Federation",7
+CVE-2016-10372,SG,Singapore,1
+CVE-2016-10372,TH,Thailand,2
+CVE-2016-10372,TW,"Taiwan Province Of China",1
+CVE-2016-6277,BR,Brazil,2
+CVE-2016-6277,CN,China,16
+CVE-2016-6277,IN,India,1
+CVE-2017-17215,AL,Albania,1
+CVE-2017-17215,AO,Angola,1
+CVE-2017-17215,AR,Argentina,6
+CVE-2017-17215,AT,Austria,1
+CVE-2017-17215,BD,Bangladesh,1
+CVE-2017-17215,BE,Belgium,2
+CVE-2017-17215,BG,Bulgaria,1
+CVE-2017-17215,BR,Brazil,27
+CVE-2017-17215,CN,China,137
+CVE-2017-17215,CO,Colombia,1
+CVE-2017-17215,DK,Denmark,1
+CVE-2017-17215,EC,Ecuador,1
+CVE-2017-17215,EG,Egypt,2
+CVE-2017-17215,FR,France,3
+CVE-2017-17215,GR,Greece,1
+CVE-2017-17215,HK,"Hong Kong",2
+CVE-2017-17215,ID,Indonesia,3
+CVE-2017-17215,IN,India,59
+CVE-2017-17215,IR,"Iran (Islamic Republic Of)",4
+CVE-2017-17215,IT,Italy,7
+CVE-2017-17215,JP,Japan,14
+CVE-2017-17215,KE,Kenya,1
+CVE-2017-17215,KH,Cambodia,7
+CVE-2017-17215,KR,"South Korea",20
+CVE-2017-17215,KZ,Kazakhstan,3
+CVE-2017-17215,MD,Moldova,1
+CVE-2017-17215,MK,Macedonia,13
+CVE-2017-17215,MX,Mexico,2
+CVE-2017-17215,MY,Malaysia,2
+CVE-2017-17215,NL,Netherlands,11
+CVE-2017-17215,NO,Norway,1
+CVE-2017-17215,NP,Nepal,1
+CVE-2017-17215,PA,Panama,3
+CVE-2017-17215,PK,Pakistan,2
+CVE-2017-17215,PL,Poland,2
+CVE-2017-17215,PS,"Palestinian Territories",1
+CVE-2017-17215,PY,Paraguay,1
+CVE-2017-17215,QA,Qatar,2
+CVE-2017-17215,RO,Romania,3
+CVE-2017-17215,RS,Serbia,17
+CVE-2017-17215,RU,"Russian Federation",20
+CVE-2017-17215,SA,"Saudi Arabia",1
+CVE-2017-17215,SE,Sweden,1
+CVE-2017-17215,SO,Somalia,1
+CVE-2017-17215,TH,Thailand,1
+CVE-2017-17215,TN,Tunisia,1
+CVE-2017-17215,TR,Turkey,6
+CVE-2017-17215,TW,"Taiwan Province Of China",6
+CVE-2017-17215,UA,Ukraine,7
+CVE-2017-17215,UK,"United Kingdom",3
+CVE-2017-17215,US,"United States",18
+CVE-2017-17215,VE,Venezuela,3
+CVE-2017-17215,VN,"Viet Nam",63
+CVE-2017-18368,AL,Albania,1
+CVE-2017-18368,AR,Argentina,2
+CVE-2017-18368,BD,Bangladesh,1
+CVE-2017-18368,BO,Bolivia,1
+CVE-2017-18368,BR,Brazil,1
+CVE-2017-18368,CN,China,23
+CVE-2017-18368,CO,Colombia,3
+CVE-2017-18368,EC,Ecuador,2
+CVE-2017-18368,GR,Greece,1
+CVE-2017-18368,IL,Israel,1
+CVE-2017-18368,IN,India,1
+CVE-2017-18368,JP,Japan,11
+CVE-2017-18368,KZ,Kazakhstan,41
+CVE-2017-18368,LV,Latvia,1
+CVE-2017-18368,MA,Morocco,1
+CVE-2017-18368,MX,Mexico,3
+CVE-2017-18368,NG,Nigeria,1
+CVE-2017-18368,PL,Poland,1
+CVE-2017-18368,RU,"Russian Federation",3
+CVE-2017-18368,RW,Rwanda,1
+CVE-2017-18368,TR,Turkey,1
+CVE-2017-18368,TW,"Taiwan Province Of China",1
+CVE-2017-18368,UA,Ukraine,12
+CVE-2017-18368,US,"United States",6
+CVE-2017-18368,VE,Venezuela,3
+CVE-2017-18368,VN,"Viet Nam",97
+CVE-2017-18368,ZA,"South Africa",1
+CVE-2018-10562,AU,Australia,1
+CVE-2018-10562,BD,Bangladesh,1
+CVE-2018-10562,BR,Brazil,20
+CVE-2018-10562,CH,Switzerland,1
+CVE-2018-10562,CN,China,158
+CVE-2018-10562,DE,Germany,1
+CVE-2018-10562,DO,"Dominican Republic",2
+CVE-2018-10562,FR,France,2
+CVE-2018-10562,ID,Indonesia,1
+CVE-2018-10562,IN,India,74
+CVE-2018-10562,JP,Japan,3
+CVE-2018-10562,KR,"South Korea",6
+CVE-2018-10562,KZ,Kazakhstan,19
+CVE-2018-10562,MA,Morocco,1
+CVE-2018-10562,MX,Mexico,1
+CVE-2018-10562,RS,Serbia,41
+CVE-2018-10562,RU,"Russian Federation",15
+CVE-2018-10562,TH,Thailand,2
+CVE-2018-10562,TW,"Taiwan Province Of China",1
+CVE-2018-10562,UA,Ukraine,1
+CVE-2018-10562,US,"United States",7
+CVE-2018-10562,VE,Venezuela,1
+CVE-2018-10562,VN,"Viet Nam",33
+CVE-2020-5722,DE,Germany,1
+CVE-2020-5722,IN,India,1
+CVE-2020-5722,TR,Turkey,1
+CVE-2020-5722,US,"United States",1
+CVE-2020-8515,TR,Turkey,2
+CVE-2020-8515,US,"United States",1
+CVE-2020-8958,US,"United States",1
+EDB-25978,BR,Brazil,21
+EDB-25978,CA,Canada,2
+EDB-25978,CN,China,157
+EDB-25978,CZ,"Czech Republic",2
+EDB-25978,DE,Germany,1
+EDB-25978,FI,Finland,1
+EDB-25978,GE,Georgia,1
+EDB-25978,IN,India,58
+EDB-25978,KR,"South Korea",10
+EDB-25978,LR,Liberia,1
+EDB-25978,NO,Norway,1
+EDB-25978,PK,Pakistan,2
+EDB-25978,RS,Serbia,34
+EDB-25978,RU,"Russian Federation",10
+EDB-25978,UA,Ukraine,2
+EDB-25978,VE,Venezuela,1
+EDB-31683,AR,Argentina,1
+EDB-31683,BG,Bulgaria,1
+EDB-31683,BR,Brazil,1
+EDB-31683,CN,China,12
+EDB-31683,HK,"Hong Kong",1
+EDB-31683,IN,India,3
+EDB-31683,IT,Italy,4
+EDB-31683,JP,Japan,1
+EDB-31683,KR,"South Korea",1
+EDB-31683,NL,Netherlands,1
+EDB-31683,PT,Portugal,1
+EDB-31683,SA,"Saudi Arabia",2
+EDB-31683,TR,Turkey,1
+EDB-31683,TW,"Taiwan Province Of China",1
+EDB-31683,UK,"United Kingdom",4
+EDB-31683,US,"United States",2
+EDB-31683,VE,Venezuela,2
+EDB-39596,BG,Bulgaria,1
+EDB-39596,BR,Brazil,9
+EDB-39596,CN,China,93
+EDB-39596,FR,France,1
+EDB-39596,GE,Georgia,1
+EDB-39596,IN,India,31
+EDB-39596,JP,Japan,1
+EDB-39596,KR,"South Korea",5
+EDB-39596,RS,Serbia,13
+EDB-39596,RU,"Russian Federation",4
+EDB-39596,TH,Thailand,1
+EDB-39596,TR,Turkey,1
+EDB-39596,US,"United States",1
+EDB-41471,BR,Brazil,15
+EDB-41471,CA,Canada,1
+EDB-41471,CL,Chile,1
+EDB-41471,CN,China,95
+EDB-41471,CO,Colombia,1
+EDB-41471,CZ,"Czech Republic",1
+EDB-41471,DE,Germany,2
+EDB-41471,FR,France,1
+EDB-41471,HK,"Hong Kong",4
+EDB-41471,HU,Hungary,1
+EDB-41471,IN,India,40
+EDB-41471,IR,"Iran (Islamic Republic Of)",1
+EDB-41471,KR,"South Korea",4
+EDB-41471,MD,Moldova,1
+EDB-41471,NL,Netherlands,1
+EDB-41471,PA,Panama,1
+EDB-41471,QA,Qatar,1
+EDB-41471,RO,Romania,2
+EDB-41471,RS,Serbia,15
+EDB-41471,RU,"Russian Federation",19
+EDB-41471,SA,"Saudi Arabia",1
+EDB-41471,SE,Sweden,1
+EDB-41471,UK,"United Kingdom",1
+EDB-41471,US,"United States",10
+EDB-41471,VE,Venezuela,2
+EDB-41471,VN,"Viet Nam",1
+OPENVAS-1361412562310107187,BR,Brazil,1
+OPENVAS-1361412562310107187,CN,China,15
+OPENVAS-1361412562310107187,IN,India,7
+OPENVAS-1361412562310107187,KR,"South Korea",4
+OPENVAS-1361412562310107187,RU,"Russian Federation",1
+SSV-97217,CO,Colombia,1

@@ -1,0 +1,1313 @@
+"infection","geo","country","count"
+"android_spams","BR","Brazil",2
+"android_spams","US","United States",14
+"android_spams","HK","Hong Kong",2
+"android_spams","LU","Luxembourg",1
+"android_spams","RU","Russian Federation",2
+"android_spams","IN","India",3
+"android_spams","UK","United Kingdom",3
+"android_spams","BO","Bolivia",1
+"android_spams","VN","Viet Nam",1
+"android_spams","AU","Australia",1
+"android_spams","KR","South Korea",2
+"android_spams","BE","Belgium",2
+"android_spams","DE","Germany",1
+"android_spams","IR","Iran (Islamic Republic Of)",3
+"android_spams","CN","China",4
+"android_spams","BG","Bulgaria",1
+"android_spams","TR","Turkey",1
+"android_spams","RO","Romania",2
+"android_spams","TW","Taiwan Province Of China",1
+"android_spams","NL","Netherlands",2
+"android.bakdoor.prizmes","LT","Lithuania",1
+"android.digitime.fota","RU","Russian Federation",1
+"android.fakebank","UZ","Uzbekistan",78
+"android.fakebank","RU","Russian Federation",17
+"android.fakebank","SG","Singapore",1
+"android.fakebank","US","United States",1
+"android.fakebank","TJ","Tajikistan",134
+"android.fakebank","BY","Belarus",1
+"android.fakebank","KG","Kyrgyzstan",15
+"android.gopl","DE","Germany",1
+"android.iop","US","United States",2
+"android.iop","DE","Germany",1
+"android.rootnik","CL","Chile",10
+"android.rootnik","MN","Mongolia",6
+"android.rootnik","CA","Canada",6
+"android.rootnik","OM","Oman",4
+"android.rootnik","ES","Spain",11
+"android.rootnik","FR","France",27
+"android.rootnik","UY","Uruguay",2
+"android.rootnik","SY","Syrian Arab Republic",283
+"android.rootnik","TD","Chad",2
+"android.rootnik","DE","Germany",15
+"android.rootnik","MZ","Mozambique",3
+"android.rootnik","CG","Congo",13
+"android.rootnik","TH","Thailand",72
+"android.rootnik","ET","Ethiopia",432
+"android.rootnik","LT","Lithuania",1
+"android.rootnik","SN","Senegal",12
+"android.rootnik","GH","Ghana",30
+"android.rootnik","PH","Philippines",191
+"android.rootnik","BT","Bhutan",1
+"android.rootnik","KH","Cambodia",2
+"android.rootnik","BF","Burkina Faso",4
+"android.rootnik","GN","Guinea",4
+"android.rootnik","SR","Suriname",1
+"android.rootnik","EG","Egypt",143
+"android.rootnik","TG","Togo",23
+"android.rootnik","AU","Australia",4
+"android.rootnik","CN","China",48
+"android.rootnik","ID","Indonesia",650
+"android.rootnik","TT","Trinidad And Tobago",2
+"android.rootnik","AO","Angola",26
+"android.rootnik","ME","Montenegro",1
+"android.rootnik","HR","Croatia",1
+"android.rootnik","AZ","Azerbaijan",5
+"android.rootnik","SV","El Salvador",4
+"android.rootnik","CZ","Czech Republic",2
+"android.rootnik","SB","Solomon Islands",4
+"android.rootnik","TZ","Tanzania",37
+"android.rootnik","LK","Sri Lanka",47
+"android.rootnik","RS","Serbia",2
+"android.rootnik","HU","Hungary",3
+"android.rootnik","HK","Hong Kong",2
+"android.rootnik","BZ","Belize",1
+"android.rootnik","BJ","Benin",2
+"android.rootnik","SO","Somalia",2
+"android.rootnik","RO","Romania",11
+"android.rootnik","VE","Venezuela",87
+"android.rootnik","ML","Mali",8
+"android.rootnik","SE","Sweden",1
+"android.rootnik","ZA","South Africa",85
+"android.rootnik","LA","Lao Peoples Democratic Republic",8
+"android.rootnik","RE","Reunion",1
+"android.rootnik","HT","Haiti",17
+"android.rootnik","BG","Bulgaria",8
+"android.rootnik","PG","Papua New Guinea",8
+"android.rootnik","IN","India",487
+"android.rootnik","UZ","Uzbekistan",62
+"android.rootnik","IT","Italy",3
+"android.rootnik","BI","Burundi",3
+"android.rootnik","GM","Gambia",1
+"android.rootnik","BR","Brazil",112
+"android.rootnik","YE","Yemen",170
+"android.rootnik","GQ","Equatorial Guinea",1
+"android.rootnik","DZ","Algeria",165
+"android.rootnik","IR","Iran (Islamic Republic Of)",915
+"android.rootnik","KE","Kenya",104
+"android.rootnik","CO","Colombia",52
+"android.rootnik","IQ","Iraq",59
+"android.rootnik","BW","Botswana",3
+"android.rootnik","MX","Mexico",423
+"android.rootnik","NP","Nepal",30
+"android.rootnik","LV","Latvia",2
+"android.rootnik","UK","United Kingdom",15
+"android.rootnik","CU","Cuba",171
+"android.rootnik","NA","Namibia",2
+"android.rootnik","MG","Madagascar",7
+"android.rootnik","BY","Belarus",12
+"android.rootnik","CI","Cote D Ivoire",44
+"android.rootnik","LS","Lesotho",29
+"android.rootnik","MW","Malawi",9
+"android.rootnik","PK","Pakistan",187
+"android.rootnik","AL","Albania",4
+"android.rootnik","BB","Barbados",3
+"android.rootnik","RU","Russian Federation",129
+"android.rootnik","SL","Sierra Leone",4
+"android.rootnik","UG","Uganda",14
+"android.rootnik","KZ","Kazakhstan",6
+"android.rootnik","CR","Costa Rica",7
+"android.rootnik","PE","Peru",38
+"android.rootnik","PY","Paraguay",5
+"android.rootnik","CY","Cyprus",2
+"android.rootnik","NI","Nicaragua",7
+"android.rootnik","NZ","New Zealand",2
+"android.rootnik","AF","Afghanistan",231
+"android.rootnik","BD","Bangladesh",453
+"android.rootnik","ZW","Zimbabwe",9
+"android.rootnik","ZM","Zambia",4
+"android.rootnik","MY","Malaysia",33
+"android.rootnik","CD","Democratic Republic Of The Congo",64
+"android.rootnik","AM","Armenia",3
+"android.rootnik","NG","Nigeria",234
+"android.rootnik","GA","Gabon",5
+"android.rootnik","MM","Myanmar",375
+"android.rootnik","EC","Ecuador",93
+"android.rootnik","QA","Qatar",6
+"android.rootnik","AE","United Arab Emirates",5
+"android.rootnik","BA","Bosnia And Herzegovina",2
+"android.rootnik","TN","Tunisia",20
+"android.rootnik","NE","Niger",40
+"android.rootnik","TR","Turkey",68
+"android.rootnik","TW","Taiwan Province Of China",4
+"android.rootnik","PT","Portugal",5
+"android.rootnik","KR","South Korea",3
+"android.rootnik","SZ","Swaziland",8
+"android.rootnik","PA","Panama",2
+"android.rootnik","RW","Rwanda",1
+"android.rootnik","VN","Viet Nam",11
+"android.rootnik","DO","Dominican Republic",2
+"android.rootnik","MA","Morocco",22
+"android.rootnik","SG","Singapore",13
+"android.rootnik","MD","Moldova",4
+"android.rootnik","US","United States",49
+"android.rootnik","TJ","Tajikistan",45
+"android.rootnik","CM","Cameroon",8
+"android.rootnik","CV","Cape Verde",6
+"android.rootnik","AR","Argentina",41
+"android.rootnik","GE","Georgia",14
+"android.rootnik","KG","Kyrgyzstan",3
+"android.rootnik","HN","Honduras",2
+"android.rootnik","SD","Sudan",265
+"android.rootnik","NL","Netherlands",4
+"android.rootnik","LY","Libyan Arab Jamahiriya",54
+"android.rootnik","GT","Guatemala",29
+"android.rootnik","PL","Poland",6
+"android.rootnik","MU","Mauritius",3
+"android.rootnik","IL","Israel",1
+"android.rootnik","LB","Lebanon",34
+"android.rootnik","JO","Jordan",2
+"android.rootnik","SA","Saudi Arabia",20
+"android.rootnik","BO","Bolivia",41
+"android.rootnik","UA","Ukraine",117
+"android.rootnik","JM","Jamaica",1
+"android.rootnik","KW","Kuwait",1
+"android.smsspy","NL","Netherlands",2
+"android.smsspy","KG","Kyrgyzstan",7
+"android.smsspy","LB","Lebanon",245
+"android.smsspy","SA","Saudi Arabia",1
+"android.smsspy","TJ","Tajikistan",229
+"android.smsspy","US","United States",3
+"android.smsspy","AE","United Arab Emirates",3
+"android.smsspy","AF","Afghanistan",1060
+"android.smsspy","RU","Russian Federation",31
+"android.smsspy","KZ","Kazakhstan",2
+"android.smsspy","IR","Iran (Islamic Republic Of)",80
+"android.smsspy","UZ","Uzbekistan",931
+"android.smsspy","YE","Yemen",11
+"android.smsspy","LU","Luxembourg",1
+"android.smsspy","DE","Germany",2
+"android.smsspy.be24","IR","Iran (Islamic Republic Of)",2
+"android.smsspy.be24","YE","Yemen",1
+"android.smsspy.be24","UZ","Uzbekistan",30
+"android.smsspy.be24","CN","China",6
+"android.smsspy.be24","LT","Lithuania",5
+"android.smsspy.be24","AM","Armenia",2
+"android.smsspy.be24","LB","Lebanon",14
+"android.smsspy.be24","UA","Ukraine",4
+"android.smsspy.be24","KG","Kyrgyzstan",1
+"android.smsspy.be24","TJ","Tajikistan",43
+"android.smsspy.be24","US","United States",2
+"android.smsspy.be24","BY","Belarus",1
+"android.smsspy.be24","AF","Afghanistan",38
+"android.smsspy.be24","KZ","Kazakhstan",10
+"android.smsspy.be24","RU","Russian Federation",42
+"android.sssaaa","US","United States",1
+"android.teleplus","FI","Finland",2
+"android.teleplus","MY","Malaysia",1
+"android.teleplus","NG","Nigeria",4
+"android.teleplus","TR","Turkey",2
+"android.teleplus","TW","Taiwan Province Of China",3
+"android.teleplus","KR","South Korea",1
+"android.teleplus","SG","Singapore",4
+"android.teleplus","US","United States",130
+"android.teleplus","TJ","Tajikistan",1
+"android.teleplus","SD","Sudan",5
+"android.teleplus","NL","Netherlands",7
+"android.teleplus","KW","Kuwait",1
+"android.teleplus","IQ","Iraq",8
+"android.teleplus","UK","United Kingdom",37
+"android.teleplus","CH","Switzerland",2
+"android.teleplus","IE","Ireland",1
+"android.teleplus","RU","Russian Federation",12
+"android.teleplus","AF","Afghanistan",5
+"android.teleplus","LU","Luxembourg",3
+"android.teleplus","HU","Hungary",1
+"android.teleplus","HK","Hong Kong",6
+"android.teleplus","JP","Japan",13
+"android.teleplus","SE","Sweden",4
+"android.teleplus","UZ","Uzbekistan",109
+"android.teleplus","IT","Italy",1
+"android.teleplus","YE","Yemen",16
+"android.teleplus","BE","Belgium",1
+"android.teleplus","IR","Iran (Islamic Republic Of)",21
+"android.teleplus","CA","Canada",8
+"android.teleplus","FR","France",11
+"android.teleplus","DE","Germany",29
+"android.teleplus","ET","Ethiopia",98
+"android.teleplus","LT","Lithuania",1
+"android.teleplus","BF","Burkina Faso",3
+"android.teleplus","AU","Australia",1
+"android.teleplus","ID","Indonesia",1
+"android.teleplus","CN","China",449
+"avalanche-marcher","FR","France",1
+"avalanche-marcher","CN","China",1
+"avalanche-marcher","AU","Australia",1
+"avalanche-marcher","SE","Sweden",1
+"avalanche-marcher","BR","Brazil",1
+"avalanche-marcher","RU","Russian Federation",2
+"avalanche-marcher","NZ","New Zealand",4
+"avalanche-marcher","FI","Finland",1
+"avalanche-marcher","MY","Malaysia",1
+"avalanche-marcher","ZM","Zambia",3
+"avalanche-marcher","TR","Turkey",2
+"avalanche-marcher","US","United States",28
+"avalanche-marcher","SG","Singapore",1
+"avalanche-marcher","NL","Netherlands",1
+"avalanche-smartapp","SE","Sweden",1
+"avalanche-smartapp","US","United States",2
+"avalanche-trusteer","US","United States",4
+"avalanche-trusteer","CA","Canada",5
+"avalanche-trusteer","FR","France",3
+"avalanche-trusteer","ID","Indonesia",1
+"avalanche-trusteer-app","FI","Finland",1
+"avalanche-trusteer-app","TR","Turkey",1
+"avalanche-trusteer-app","US","United States",4
+"avalanche-trusteer-app","NL","Netherlands",3
+"avalanche-trusteer-app","CH","Switzerland",1
+"avalanche-trusteer-app","BR","Brazil",1
+"dresscode","CG","Congo",1
+"dresscode","ID","Indonesia",1
+"dresscode","IN","India",1
+"dresscode","IR","Iran (Islamic Republic Of)",2
+"dresscode","UK","United Kingdom",1
+"dresscode","PK","Pakistan",1
+"dresscode","RU","Russian Federation",5
+"dresscode","AF","Afghanistan",7
+"dresscode","BD","Bangladesh",2
+"dresscode","NE","Niger",168
+"dresscode","US","United States",1
+"dresscode","GE","Georgia",1
+"dresscode","PL","Poland",4
+"flubot","NZ","New Zealand",27
+"flubot","DK","Denmark",5
+"flubot","MT","Malta",1
+"flubot","PE","Peru",3
+"flubot","CY","Cyprus",2
+"flubot","AT","Austria",131
+"flubot","RU","Russian Federation",105
+"flubot","GR","Greece",3
+"flubot","PK","Pakistan",14
+"flubot","IE","Ireland",78
+"flubot","BY","Belarus",3
+"flubot","CO","Colombia",1
+"flubot","CH","Switzerland",121
+"flubot","UK","United Kingdom",283
+"flubot","LV","Latvia",2
+"flubot","MX","Mexico",10
+"flubot","SA","Saudi Arabia",4
+"flubot","IL","Israel",13
+"flubot","BO","Bolivia",2
+"flubot","UA","Ukraine",8
+"flubot","AR","Argentina",25
+"flubot","SD","Sudan",1
+"flubot","HN","Honduras",1
+"flubot","KG","Kyrgyzstan",1
+"flubot","NL","Netherlands",135
+"flubot","GT","Guatemala",3
+"flubot","PL","Poland",29
+"flubot","US","United States",511
+"flubot","VG","British Virgin Islands",1
+"flubot","MD","Moldova",3
+"flubot","CM","Cameroon",1
+"flubot","MA","Morocco",33
+"flubot","SG","Singapore",33
+"flubot","PA","Panama",2
+"flubot","KR","South Korea",6
+"flubot","SZ","Swaziland",1
+"flubot","VN","Viet Nam",4
+"flubot","DO","Dominican Republic",10
+"flubot","TN","Tunisia",2
+"flubot","TR","Turkey",31
+"flubot","BA","Bosnia And Herzegovina",2
+"flubot","TW","Taiwan Province Of China",1
+"flubot","PT","Portugal",17
+"flubot","EC","Ecuador",11
+"flubot","QA","Qatar",3
+"flubot","AE","United Arab Emirates",2
+"flubot","MY","Malaysia",1
+"flubot","SI","Slovenia",4
+"flubot","FI","Finland",4
+"flubot","NG","Nigeria",10
+"flubot","SK","Slovakia (Slovak Republic)",2
+"flubot","AU","Australia",165
+"flubot","CN","China",25
+"flubot","ID","Indonesia",4
+"flubot","KH","Cambodia",1
+"flubot","EG","Egypt",3
+"flubot","SR","Suriname",1
+"flubot","PH","Philippines",6
+"flubot","LT","Lithuania",11
+"flubot","ET","Ethiopia",1
+"flubot","SN","Senegal",19
+"flubot","GH","Ghana",1
+"flubot","BH","Bahrain",3
+"flubot","LI","Liechtenstein",1
+"flubot","DE","Germany",2561
+"flubot","TH","Thailand",4
+"flubot","UY","Uruguay",5
+"flubot","FR","France",136
+"flubot","NO","Norway",14
+"flubot","IS","Iceland",4
+"flubot","MK","Macedonia",5
+"flubot","ES","Spain",2692
+"flubot","CA","Canada",33
+"flubot","BE","Belgium",77
+"flubot","IR","Iran (Islamic Republic Of)",4
+"flubot","DZ","Algeria",2
+"flubot","GM","Gambia",5
+"flubot","BR","Brazil",15
+"flubot","IN","India",35
+"flubot","IT","Italy",912
+"flubot","JP","Japan",13
+"flubot","ZA","South Africa",35
+"flubot","SE","Sweden",31
+"flubot","BG","Bulgaria",2
+"flubot","EE","Estonia",3
+"flubot","VE","Venezuela",4
+"flubot","RO","Romania",53
+"flubot","LK","Sri Lanka",4
+"flubot","HK","Hong Kong",24
+"flubot","RS","Serbia",2
+"flubot","HU","Hungary",4
+"flubot","HR","Croatia",60
+"flubot","LU","Luxembourg",10
+"flubot","AO","Angola",1
+"flubot","CZ","Czech Republic",8
+"flubot","SV","El Salvador",4
+"ghost-push","KE","Kenya",2
+"kasidet","DE","Germany",1
+"kasidet","TH","Thailand",1
+"kasidet","MN","Mongolia",3
+"kasidet","OM","Oman",2
+"kasidet","CL","Chile",4
+"kasidet","CN","China",1
+"kasidet","ID","Indonesia",11
+"kasidet","PH","Philippines",2
+"kasidet","LT","Lithuania",1
+"kasidet","BH","Bahrain",2
+"kasidet","LA","Lao Peoples Democratic Republic",2
+"kasidet","ZA","South Africa",1
+"kasidet","SE","Sweden",2
+"kasidet","JP","Japan",1
+"kasidet","LK","Sri Lanka",4
+"kasidet","AO","Angola",1
+"kasidet","IR","Iran (Islamic Republic Of)",15
+"kasidet","DZ","Algeria",4
+"kasidet","BR","Brazil",1
+"kasidet","IN","India",11
+"kasidet","IT","Italy",1
+"kasidet","PK","Pakistan",2
+"kasidet","CO","Colombia",1
+"kasidet","IQ","Iraq",3
+"kasidet","MX","Mexico",5
+"kasidet","BD","Bangladesh",1
+"kasidet","KZ","Kazakhstan",6
+"kasidet","PS","Palestinian Territories",1
+"kasidet","RU","Russian Federation",24
+"kasidet","TR","Turkey",1
+"kasidet","MM","Myanmar",3
+"kasidet","QA","Qatar",1
+"kasidet","MY","Malaysia",10
+"kasidet","BO","Bolivia",1
+"kasidet","JO","Jordan",4
+"kasidet","SA","Saudi Arabia",4
+"kasidet","UA","Ukraine",5
+"kasidet","KG","Kyrgyzstan",1
+"kasidet","AR","Argentina",18
+"kasidet","GE","Georgia",3
+"kasidet","LY","Libyan Arab Jamahiriya",2
+"kasidet","PL","Poland",1
+"kasidet","MD","Moldova",2
+"kasidet","US","United States",6
+"kasidet","MA","Morocco",1
+"marcher","ZM","Zambia",3
+"marcher","MY","Malaysia",1
+"marcher","US","United States",5
+"marcher","NZ","New Zealand",4
+"marcher","RU","Russian Federation",1
+"marcher","SE","Sweden",1
+"marcher","AU","Australia",1
+"mirai","CI","Cote D Ivoire",20
+"mirai","PF","French Polynesia",7
+"mirai","FJ","Fiji",9
+"mirai","BN","Brunei Darussalam",6
+"mirai","PK","Pakistan",1477
+"mirai","CO","Colombia",162
+"mirai","IQ","Iraq",1
+"mirai","MP","Northern Mariana Islands",1
+"mirai","KN","Saint Kitts And Nevis",3
+"mirai","MX","Mexico",979
+"mirai","NP","Nepal",11
+"mirai","UK","United Kingdom",582
+"mirai","CH","Switzerland",54
+"mirai","LV","Latvia",89
+"mirai","MV","Maldives",72
+"mirai","NA","Namibia",1
+"mirai","MG","Madagascar",1
+"mirai","BY","Belarus",42
+"mirai","IE","Ireland",864
+"mirai","CW","Curacao",2
+"mirai","PE","Peru",13
+"mirai","LC","Saint Lucia",1
+"mirai","PY","Paraguay",21
+"mirai","NI","Nicaragua",27
+"mirai","CY","Cyprus",22
+"mirai","NZ","New Zealand",35
+"mirai","DK","Denmark",36
+"mirai","EU","Europe (Unknown Country)",1
+"mirai","BD","Bangladesh",72
+"mirai","MT","Malta",15
+"mirai","AL","Albania",15
+"mirai","BB","Barbados",3
+"mirai","RU","Russian Federation",3043
+"mirai","GR","Greece",700
+"mirai","AT","Austria",51
+"mirai","KZ","Kazakhstan",119
+"mirai","PS","Palestinian Territories",16
+"mirai","CR","Costa Rica",169
+"mirai","BA","Bosnia And Herzegovina",14
+"mirai","TN","Tunisia",203
+"mirai","TR","Turkey",787
+"mirai","TW","Taiwan Province Of China",1398
+"mirai","PT","Portugal",133
+"mirai","GD","Grenada",4
+"mirai","KR","South Korea",2113
+"mirai","SZ","Swaziland",2
+"mirai","PA","Panama",112
+"mirai","VI","Us Virgin Islands",1
+"mirai","VN","Viet Nam",821
+"mirai","RW","Rwanda",2
+"mirai","DO","Dominican Republic",33
+"mirai","AW","Aruba",1
+"mirai","ZW","Zimbabwe",1
+"mirai","ZM","Zambia",2
+"mirai","SI","Slovenia",22
+"mirai","FI","Finland",82
+"mirai","MY","Malaysia",593
+"mirai","AM","Armenia",95
+"mirai","GU","Guam",4
+"mirai","CD","Democratic Republic Of The Congo",2
+"mirai","GY","Guyana",8
+"mirai","NG","Nigeria",3
+"mirai","GA","Gabon",2
+"mirai","EC","Ecuador",305
+"mirai","MM","Myanmar",1
+"mirai","QA","Qatar",15
+"mirai","TM","Turkmenistan",4
+"mirai","AE","United Arab Emirates",58
+"mirai","CV","Cape Verde",2
+"mirai","GE","Georgia",41
+"mirai","AR","Argentina",1059
+"mirai","KG","Kyrgyzstan",10
+"mirai","HN","Honduras",12
+"mirai","SD","Sudan",3
+"mirai","NL","Netherlands",306
+"mirai","LY","Libyan Arab Jamahiriya",1
+"mirai","GT","Guatemala",4
+"mirai","PL","Poland",427
+"mirai","JO","Jordan",27
+"mirai","MU","Mauritius",10
+"mirai","LB","Lebanon",21
+"mirai","IL","Israel",273
+"mirai","SX","Sint Maarten",5
+"mirai","SA","Saudi Arabia",133
+"mirai","BO","Bolivia",1234
+"mirai","MO","Macau",65
+"mirai","JM","Jamaica",14
+"mirai","UA","Ukraine",604
+"mirai","KW","Kuwait",31
+"mirai","MA","Morocco",180
+"mirai","SG","Singapore",725
+"mirai","MD","Moldova",50
+"mirai","US","United States",3340
+"mirai","TJ","Tajikistan",3
+"mirai","CM","Cameroon",1
+"mirai","BS","Bahamas",7
+"mirai","FR","France",789
+"mirai","UY","Uruguay",591
+"mirai","SY","Syrian Arab Republic",27
+"mirai","AD","Andorra",5
+"mirai","NO","Norway",71
+"mirai","DE","Germany",2169
+"mirai","MZ","Mozambique",2
+"mirai","CG","Congo",33
+"mirai","TH","Thailand",665
+"mirai","LR","Liberia",38
+"mirai","CL","Chile",389
+"mirai","IS","Iceland",1
+"mirai","MN","Mongolia",2
+"mirai","CA","Canada",487
+"mirai","ES","Spain",857
+"mirai","MK","Macedonia",24
+"mirai","KH","Cambodia",98
+"mirai","BF","Burkina Faso",2
+"mirai","SR","Suriname",8
+"mirai","EG","Egypt",3291
+"mirai","GF","French Guiana",2
+"mirai","SK","Slovakia (Slovak Republic)",19
+"mirai","AU","Australia",243
+"mirai","ID","Indonesia",283
+"mirai","CN","China",17269
+"mirai","ET","Ethiopia",83
+"mirai","LT","Lithuania",44
+"mirai","BH","Bahrain",11
+"mirai","GH","Ghana",2
+"mirai","SN","Senegal",13
+"mirai","PH","Philippines",76
+"mirai","BZ","Belize",1
+"mirai","RO","Romania",328
+"mirai","VE","Venezuela",151
+"mirai","SE","Sweden",350
+"mirai","ZA","South Africa",192
+"mirai","JP","Japan",452
+"mirai","RE","Reunion",21
+"mirai","HT","Haiti",2
+"mirai","EE","Estonia",5
+"mirai","BG","Bulgaria",145
+"mirai","TT","Trinidad And Tobago",30
+"mirai","ME","Montenegro",4
+"mirai","HR","Croatia",17
+"mirai","LU","Luxembourg",4
+"mirai","AO","Angola",4
+"mirai","AZ","Azerbaijan",13
+"mirai","SV","El Salvador",9
+"mirai","CZ","Czech Republic",120
+"mirai","PR","Puerto Rico",5
+"mirai","TZ","Tanzania",1
+"mirai","LK","Sri Lanka",25
+"mirai","RS","Serbia",29
+"mirai","HU","Hungary",87
+"mirai","HK","Hong Kong",1055
+"mirai","NC","New Caledonia",1
+"mirai","DZ","Algeria",127
+"mirai","BE","Belgium",223
+"mirai","GP","Guadeloupe",5
+"mirai","IR","Iran (Islamic Republic Of)",887
+"mirai","PM","St. Pierre And Miquelon",1
+"mirai","KE","Kenya",8
+"mirai","IN","India",3032
+"mirai","UZ","Uzbekistan",12
+"mirai","IT","Italy",971
+"mirai","GM","Gambia",1
+"mirai","BR","Brazil",2628
+"mirai","MQ","Martinique",4
+"mirai","YE","Yemen",2
+"mkero","TJ","Tajikistan",76
+"mkero","US","United States",3
+"mkero","UA","Ukraine",33
+"mkero","LB","Lebanon",15
+"mkero","PL","Poland",1
+"mkero","NL","Netherlands",1
+"mkero","SD","Sudan",7
+"mkero","KG","Kyrgyzstan",8
+"mkero","AM","Armenia",1
+"mkero","KZ","Kazakhstan",22
+"mkero","RU","Russian Federation",133
+"mkero","AF","Afghanistan",59
+"mkero","BY","Belarus",12
+"mkero","CU","Cuba",55
+"mkero","UZ","Uzbekistan",194
+"mkero","IR","Iran (Islamic Republic Of)",12
+"mkero","AZ","Azerbaijan",2
+"mkero","ET","Ethiopia",2
+"mkero","DE","Germany",1
+"mkero","FR","France",1
+"poseidon","RU","Russian Federation",2
+"poseidon","TW","Taiwan Province Of China",1
+"poseidon","NL","Netherlands",4
+"poseidon","SG","Singapore",1
+"poseidon","US","United States",8
+"poseidon","DE","Germany",1
+"poseidon","SE","Sweden",1
+"qsnatch","SC","Seychelles",1
+"ssh-brute-force","MD","Moldova",10
+"ssh-brute-force","US","United States",2006
+"ssh-brute-force","CM","Cameroon",5
+"ssh-brute-force","MA","Morocco",7
+"ssh-brute-force","SG","Singapore",477
+"ssh-brute-force","MU","Mauritius",2
+"ssh-brute-force","IL","Israel",10
+"ssh-brute-force","LB","Lebanon",3
+"ssh-brute-force","JO","Jordan",2
+"ssh-brute-force","SA","Saudi Arabia",5
+"ssh-brute-force","BO","Bolivia",15
+"ssh-brute-force","MO","Macau",32
+"ssh-brute-force","JM","Jamaica",1
+"ssh-brute-force","UA","Ukraine",57
+"ssh-brute-force","SS","South Sudan",1
+"ssh-brute-force","KW","Kuwait",5
+"ssh-brute-force","CV","Cape Verde",4
+"ssh-brute-force","GE","Georgia",11
+"ssh-brute-force","AR","Argentina",84
+"ssh-brute-force","KG","Kyrgyzstan",4
+"ssh-brute-force","HN","Honduras",4
+"ssh-brute-force","SD","Sudan",1
+"ssh-brute-force","NL","Netherlands",224
+"ssh-brute-force","LY","Libyan Arab Jamahiriya",2
+"ssh-brute-force","GT","Guatemala",6
+"ssh-brute-force","PL","Poland",61
+"ssh-brute-force","MM","Myanmar",6
+"ssh-brute-force","EC","Ecuador",13
+"ssh-brute-force","QA","Qatar",2
+"ssh-brute-force","AE","United Arab Emirates",7
+"ssh-brute-force","ZW","Zimbabwe",5
+"ssh-brute-force","ZM","Zambia",7
+"ssh-brute-force","FI","Finland",7
+"ssh-brute-force","SI","Slovenia",2
+"ssh-brute-force","AM","Armenia",3
+"ssh-brute-force","MY","Malaysia",46
+"ssh-brute-force","NG","Nigeria",13
+"ssh-brute-force","KR","South Korea",429
+"ssh-brute-force","PA","Panama",6
+"ssh-brute-force","VN","Viet Nam",201
+"ssh-brute-force","RW","Rwanda",4
+"ssh-brute-force","DO","Dominican Republic",6
+"ssh-brute-force","BA","Bosnia And Herzegovina",5
+"ssh-brute-force","TN","Tunisia",11
+"ssh-brute-force","TR","Turkey",37
+"ssh-brute-force","NE","Niger",2
+"ssh-brute-force","TW","Taiwan Province Of China",46
+"ssh-brute-force","PT","Portugal",26
+"ssh-brute-force","UG","Uganda",5
+"ssh-brute-force","AT","Austria",15
+"ssh-brute-force","KZ","Kazakhstan",15
+"ssh-brute-force","PS","Palestinian Territories",4
+"ssh-brute-force","CR","Costa Rica",2
+"ssh-brute-force","AL","Albania",2
+"ssh-brute-force","RU","Russian Federation",372
+"ssh-brute-force","GR","Greece",9
+"ssh-brute-force","NZ","New Zealand",2
+"ssh-brute-force","AF","Afghanistan",1
+"ssh-brute-force","EU","Europe (Unknown Country)",1
+"ssh-brute-force","DK","Denmark",16
+"ssh-brute-force","BD","Bangladesh",41
+"ssh-brute-force","CW","Curacao",1
+"ssh-brute-force","PE","Peru",30
+"ssh-brute-force","PY","Paraguay",15
+"ssh-brute-force","BY","Belarus",30
+"ssh-brute-force","IE","Ireland",16
+"ssh-brute-force","CO","Colombia",108
+"ssh-brute-force","IQ","Iraq",5
+"ssh-brute-force","BW","Botswana",1
+"ssh-brute-force","NP","Nepal",14
+"ssh-brute-force","MX","Mexico",83
+"ssh-brute-force","UK","United Kingdom",182
+"ssh-brute-force","LV","Latvia",5
+"ssh-brute-force","CH","Switzerland",29
+"ssh-brute-force","PK","Pakistan",29
+"ssh-brute-force","GG","Guernsey",1
+"ssh-brute-force","CI","Cote D Ivoire",1
+"ssh-brute-force","MW","Malawi",15
+"ssh-brute-force","BR","Brazil",452
+"ssh-brute-force","MQ","Martinique",2
+"ssh-brute-force","UZ","Uzbekistan",9
+"ssh-brute-force","IN","India",527
+"ssh-brute-force","IT","Italy",103
+"ssh-brute-force","BE","Belgium",28
+"ssh-brute-force","GP","Guadeloupe",1
+"ssh-brute-force","IR","Iran (Islamic Republic Of)",56
+"ssh-brute-force","KE","Kenya",37
+"ssh-brute-force","GQ","Equatorial Guinea",3
+"ssh-brute-force","DZ","Algeria",5
+"ssh-brute-force","LK","Sri Lanka",5
+"ssh-brute-force","HU","Hungary",18
+"ssh-brute-force","RS","Serbia",5
+"ssh-brute-force","HK","Hong Kong",531
+"ssh-brute-force","TT","Trinidad And Tobago",2
+"ssh-brute-force","LU","Luxembourg",10
+"ssh-brute-force","AZ","Azerbaijan",3
+"ssh-brute-force","HR","Croatia",14
+"ssh-brute-force","CZ","Czech Republic",14
+"ssh-brute-force","PR","Puerto Rico",1
+"ssh-brute-force","SB","Solomon Islands",1
+"ssh-brute-force","TZ","Tanzania",6
+"ssh-brute-force","ZA","South Africa",37
+"ssh-brute-force","SE","Sweden",45
+"ssh-brute-force","JP","Japan",110
+"ssh-brute-force","AX","Aland Islands",1
+"ssh-brute-force","LA","Lao Peoples Democratic Republic",20
+"ssh-brute-force","RE","Reunion",2
+"ssh-brute-force","HT","Haiti",2
+"ssh-brute-force","EE","Estonia",1
+"ssh-brute-force","BG","Bulgaria",12
+"ssh-brute-force","PG","Papua New Guinea",1
+"ssh-brute-force","BZ","Belize",2
+"ssh-brute-force","SO","Somalia",2
+"ssh-brute-force","RO","Romania",27
+"ssh-brute-force","VE","Venezuela",8
+"ssh-brute-force","PH","Philippines",28
+"ssh-brute-force","KY","Cayman Islands",1
+"ssh-brute-force","ET","Ethiopia",1
+"ssh-brute-force","LT","Lithuania",17
+"ssh-brute-force","BH","Bahrain",2
+"ssh-brute-force","KM","Comoros",1
+"ssh-brute-force","SN","Senegal",5
+"ssh-brute-force","GH","Ghana",7
+"ssh-brute-force","SK","Slovakia (Slovak Republic)",4
+"ssh-brute-force","AU","Australia",37
+"ssh-brute-force","CN","China",3011
+"ssh-brute-force","ID","Indonesia",172
+"ssh-brute-force","KH","Cambodia",48
+"ssh-brute-force","GN","Guinea",1
+"ssh-brute-force","EG","Egypt",19
+"ssh-brute-force","GF","French Guiana",1
+"ssh-brute-force","IS","Iceland",4
+"ssh-brute-force","MN","Mongolia",14
+"ssh-brute-force","CA","Canada",95
+"ssh-brute-force","OM","Oman",2
+"ssh-brute-force","ES","Spain",61
+"ssh-brute-force","CL","Chile",40
+"ssh-brute-force","DE","Germany",429
+"ssh-brute-force","TH","Thailand",64
+"ssh-brute-force","CG","Congo",2
+"ssh-brute-force","FR","France",222
+"ssh-brute-force","UY","Uruguay",6
+"ssh-brute-force","SY","Syrian Arab Republic",3
+"ssh-brute-force","NO","Norway",7
+"ssh-brute-force","SC","Seychelles",1
+"telnet-brute-force","AF","Afghanistan",6
+"telnet-brute-force","NZ","New Zealand",13
+"telnet-brute-force","EU","Europe (Unknown Country)",1
+"telnet-brute-force","DK","Denmark",15
+"telnet-brute-force","MT","Malta",5
+"telnet-brute-force","BD","Bangladesh",94
+"telnet-brute-force","PE","Peru",11
+"telnet-brute-force","PY","Paraguay",7
+"telnet-brute-force","CY","Cyprus",7
+"telnet-brute-force","NI","Nicaragua",23
+"telnet-brute-force","UG","Uganda",1
+"telnet-brute-force","AT","Austria",16
+"telnet-brute-force","KZ","Kazakhstan",8
+"telnet-brute-force","PS","Palestinian Territories",46
+"telnet-brute-force","CR","Costa Rica",49
+"telnet-brute-force","BB","Barbados",1
+"telnet-brute-force","AL","Albania",14
+"telnet-brute-force","RU","Russian Federation",1338
+"telnet-brute-force","GR","Greece",64
+"telnet-brute-force","PW","Palau",12
+"telnet-brute-force","BN","Brunei Darussalam",3
+"telnet-brute-force","PK","Pakistan",228
+"telnet-brute-force","CI","Cote D Ivoire",2
+"telnet-brute-force","MW","Malawi",1
+"telnet-brute-force","MV","Maldives",2
+"telnet-brute-force","NA","Namibia",2
+"telnet-brute-force","BY","Belarus",6
+"telnet-brute-force","MG","Madagascar",3
+"telnet-brute-force","IE","Ireland",9
+"telnet-brute-force","CO","Colombia",68
+"telnet-brute-force","IQ","Iraq",9
+"telnet-brute-force","MP","Northern Mariana Islands",1
+"telnet-brute-force","KN","Saint Kitts And Nevis",1
+"telnet-brute-force","BW","Botswana",2
+"telnet-brute-force","NP","Nepal",9
+"telnet-brute-force","MX","Mexico",879
+"telnet-brute-force","CH","Switzerland",13
+"telnet-brute-force","UK","United Kingdom",188
+"telnet-brute-force","LV","Latvia",25
+"telnet-brute-force","MU","Mauritius",2
+"telnet-brute-force","LB","Lebanon",4
+"telnet-brute-force","IL","Israel",54
+"telnet-brute-force","JO","Jordan",6
+"telnet-brute-force","SX","Sint Maarten",2
+"telnet-brute-force","SA","Saudi Arabia",13
+"telnet-brute-force","BO","Bolivia",651
+"telnet-brute-force","MO","Macau",12
+"telnet-brute-force","UA","Ukraine",170
+"telnet-brute-force","JM","Jamaica",4
+"telnet-brute-force","SS","South Sudan",1
+"telnet-brute-force","KW","Kuwait",9
+"telnet-brute-force","CV","Cape Verde",2
+"telnet-brute-force","AR","Argentina",192
+"telnet-brute-force","GE","Georgia",8
+"telnet-brute-force","KG","Kyrgyzstan",4
+"telnet-brute-force","HN","Honduras",11
+"telnet-brute-force","NL","Netherlands",106
+"telnet-brute-force","DM","Dominica",1
+"telnet-brute-force","PL","Poland",128
+"telnet-brute-force","GT","Guatemala",6
+"telnet-brute-force","MD","Moldova",20
+"telnet-brute-force","US","United States",1281
+"telnet-brute-force","CM","Cameroon",15
+"telnet-brute-force","TJ","Tajikistan",3
+"telnet-brute-force","MA","Morocco",12
+"telnet-brute-force","SG","Singapore",71
+"telnet-brute-force","KR","South Korea",834
+"telnet-brute-force","PA","Panama",21
+"telnet-brute-force","VI","Us Virgin Islands",1
+"telnet-brute-force","VN","Viet Nam",174
+"telnet-brute-force","RW","Rwanda",1
+"telnet-brute-force","DO","Dominican Republic",11
+"telnet-brute-force","AW","Aruba",1
+"telnet-brute-force","BA","Bosnia And Herzegovina",5
+"telnet-brute-force","TN","Tunisia",20
+"telnet-brute-force","TR","Turkey",202
+"telnet-brute-force","TW","Taiwan Province Of China",358
+"telnet-brute-force","PT","Portugal",38
+"telnet-brute-force","GD","Grenada",1
+"telnet-brute-force","EC","Ecuador",25
+"telnet-brute-force","QA","Qatar",1
+"telnet-brute-force","AE","United Arab Emirates",18
+"telnet-brute-force","ZW","Zimbabwe",1
+"telnet-brute-force","ZM","Zambia",1
+"telnet-brute-force","SI","Slovenia",6
+"telnet-brute-force","FI","Finland",6
+"telnet-brute-force","MY","Malaysia",91
+"telnet-brute-force","GU","Guam",1
+"telnet-brute-force","AM","Armenia",11
+"telnet-brute-force","CD","Democratic Republic Of The Congo",1
+"telnet-brute-force","GY","Guyana",2
+"telnet-brute-force","NG","Nigeria",3
+"telnet-brute-force","GA","Gabon",1
+"telnet-brute-force","SK","Slovakia (Slovak Republic)",13
+"telnet-brute-force","AU","Australia",66
+"telnet-brute-force","ID","Indonesia",151
+"telnet-brute-force","CN","China",2937
+"telnet-brute-force","KH","Cambodia",49
+"telnet-brute-force","BF","Burkina Faso",2
+"telnet-brute-force","SR","Suriname",6
+"telnet-brute-force","EG","Egypt",375
+"telnet-brute-force","PH","Philippines",18
+"telnet-brute-force","ET","Ethiopia",42
+"telnet-brute-force","LT","Lithuania",24
+"telnet-brute-force","BH","Bahrain",10
+"telnet-brute-force","GH","Ghana",2
+"telnet-brute-force","DE","Germany",115
+"telnet-brute-force","MZ","Mozambique",2
+"telnet-brute-force","CG","Congo",1
+"telnet-brute-force","TH","Thailand",118
+"telnet-brute-force","FR","France",174
+"telnet-brute-force","UY","Uruguay",56
+"telnet-brute-force","SY","Syrian Arab Republic",1
+"telnet-brute-force","AD","Andorra",3
+"telnet-brute-force","NO","Norway",25
+"telnet-brute-force","IS","Iceland",1
+"telnet-brute-force","MN","Mongolia",4
+"telnet-brute-force","CA","Canada",118
+"telnet-brute-force","ES","Spain",159
+"telnet-brute-force","MK","Macedonia",7
+"telnet-brute-force","CL","Chile",105
+"telnet-brute-force","BE","Belgium",55
+"telnet-brute-force","GP","Guadeloupe",3
+"telnet-brute-force","IR","Iran (Islamic Republic Of)",354
+"telnet-brute-force","KE","Kenya",17
+"telnet-brute-force","GQ","Equatorial Guinea",1
+"telnet-brute-force","DZ","Algeria",4
+"telnet-brute-force","BR","Brazil",755
+"telnet-brute-force","MQ","Martinique",2
+"telnet-brute-force","UZ","Uzbekistan",3
+"telnet-brute-force","IN","India",630
+"telnet-brute-force","IT","Italy",294
+"telnet-brute-force","BI","Burundi",5
+"telnet-brute-force","ML","Mali",2
+"telnet-brute-force","ZA","South Africa",65
+"telnet-brute-force","SE","Sweden",70
+"telnet-brute-force","JP","Japan",107
+"telnet-brute-force","RE","Reunion",8
+"telnet-brute-force","HT","Haiti",2
+"telnet-brute-force","EE","Estonia",1
+"telnet-brute-force","BG","Bulgaria",57
+"telnet-brute-force","BZ","Belize",7
+"telnet-brute-force","SO","Somalia",3
+"telnet-brute-force","RO","Romania",87
+"telnet-brute-force","VE","Venezuela",59
+"telnet-brute-force","LK","Sri Lanka",4
+"telnet-brute-force","RS","Serbia",23
+"telnet-brute-force","HU","Hungary",32
+"telnet-brute-force","HK","Hong Kong",134
+"telnet-brute-force","NC","New Caledonia",1
+"telnet-brute-force","TT","Trinidad And Tobago",3
+"telnet-brute-force","LU","Luxembourg",4
+"telnet-brute-force","AZ","Azerbaijan",7
+"telnet-brute-force","HR","Croatia",7
+"telnet-brute-force","SV","El Salvador",6
+"telnet-brute-force","CZ","Czech Republic",47
+"telnet-brute-force","PR","Puerto Rico",4
+"telnet-brute-force","TZ","Tanzania",1
+"trickbot-iot-c2","ID","Indonesia",5
+"trickbot-iot-c2","SK","Slovakia (Slovak Republic)",1
+"trickbot-iot-c2","KH","Cambodia",2
+"trickbot-iot-c2","CL","Chile",1
+"trickbot-iot-c2","TH","Thailand",2
+"trickbot-iot-c2","UY","Uruguay",1
+"trickbot-iot-c2","BR","Brazil",11
+"trickbot-iot-c2","IN","India",2
+"trickbot-iot-c2","IR","Iran (Islamic Republic Of)",3
+"trickbot-iot-c2","AO","Angola",1
+"trickbot-iot-c2","BG","Bulgaria",3
+"trickbot-iot-c2","ZA","South Africa",1
+"trickbot-iot-c2","RU","Russian Federation",5
+"trickbot-iot-c2","BD","Bangladesh",1
+"trickbot-iot-c2","PE","Peru",1
+"trickbot-iot-c2","CO","Colombia",13
+"trickbot-iot-c2","US","United States",4
+"trickbot-iot-c2","BO","Bolivia",1
+"trickbot-iot-c2","AR","Argentina",2
+"trickbot-iot-c2","GE","Georgia",1
+"trickbot-iot-c2","EC","Ecuador",3
+"trickbot-iot-c2","DO","Dominican Republic",1
+"trickbot-iot-c2","VN","Viet Nam",2
+"trickbot-iot-c2","TW","Taiwan Province Of China",1
+"unityminer","AU","Australia",66
+"unityminer","SK","Slovakia (Slovak Republic)",2
+"unityminer","ID","Indonesia",50
+"unityminer","CN","China",257
+"unityminer","LT","Lithuania",3
+"unityminer","PH","Philippines",2
+"unityminer","FR","France",192
+"unityminer","NO","Norway",8
+"unityminer","DE","Germany",116
+"unityminer","TH","Thailand",33
+"unityminer","CL","Chile",56
+"unityminer","CA","Canada",121
+"unityminer","ES","Spain",46
+"unityminer","BE","Belgium",97
+"unityminer","IR","Iran (Islamic Republic Of)",3
+"unityminer","IN","India",59
+"unityminer","IT","Italy",73
+"unityminer","RE","Reunion",1
+"unityminer","SE","Sweden",10
+"unityminer","JP","Japan",125
+"unityminer","LU","Luxembourg",1
+"unityminer","CZ","Czech Republic",2
+"unityminer","HU","Hungary",2
+"unityminer","HK","Hong Kong",89
+"unityminer","PE","Peru",3
+"unityminer","NZ","New Zealand",13
+"unityminer","DK","Denmark",4
+"unityminer","RU","Russian Federation",28
+"unityminer","GR","Greece",19
+"unityminer","AT","Austria",12
+"unityminer","CO","Colombia",14
+"unityminer","MX","Mexico",4
+"unityminer","UK","United Kingdom",187
+"unityminer","CH","Switzerland",18
+"unityminer","LV","Latvia",1
+"unityminer","IE","Ireland",1
+"unityminer","PL","Poland",61
+"unityminer","NL","Netherlands",53
+"unityminer","MO","Macau",6
+"unityminer","IL","Israel",16
+"unityminer","UA","Ukraine",4
+"unityminer","SG","Singapore",135
+"unityminer","US","United States",858
+"unityminer","TR","Turkey",5
+"unityminer","PT","Portugal",45
+"unityminer","TW","Taiwan Province Of China",575
+"unityminer","VN","Viet Nam",2
+"unityminer","KR","South Korea",74
+"unityminer","AW","Aruba",2
+"unityminer","FI","Finland",64
+"unityminer","SI","Slovenia",4
+"unityminer","MY","Malaysia",2
+"vpnfilter","AT","Austria",24
+"vpnfilter","KZ","Kazakhstan",1
+"vpnfilter","PS","Palestinian Territories",1
+"vpnfilter","RU","Russian Federation",72
+"vpnfilter","GR","Greece",3
+"vpnfilter","NZ","New Zealand",2
+"vpnfilter","DK","Denmark",18
+"vpnfilter","BD","Bangladesh",25
+"vpnfilter","CY","Cyprus",2
+"vpnfilter","IE","Ireland",2
+"vpnfilter","BY","Belarus",2
+"vpnfilter","IQ","Iraq",1
+"vpnfilter","CH","Switzerland",19
+"vpnfilter","UK","United Kingdom",186
+"vpnfilter","LV","Latvia",2
+"vpnfilter","MX","Mexico",1
+"vpnfilter","US","United States",386
+"vpnfilter","SG","Singapore",8
+"vpnfilter","IL","Israel",14
+"vpnfilter","UA","Ukraine",530
+"vpnfilter","AR","Argentina",1
+"vpnfilter","NL","Netherlands",67
+"vpnfilter","PL","Poland",50
+"vpnfilter","LY","Libyan Arab Jamahiriya",2
+"vpnfilter","AE","United Arab Emirates",2
+"vpnfilter","MY","Malaysia",1
+"vpnfilter","SI","Slovenia",5
+"vpnfilter","FI","Finland",2
+"vpnfilter","IM","Isle Of Man",1
+"vpnfilter","GY","Guyana",1
+"vpnfilter","KR","South Korea",34
+"vpnfilter","TR","Turkey",1
+"vpnfilter","TW","Taiwan Province Of China",142
+"vpnfilter","PT","Portugal",11
+"vpnfilter","PH","Philippines",1
+"vpnfilter","LT","Lithuania",1
+"vpnfilter","SK","Slovakia (Slovak Republic)",7
+"vpnfilter","AU","Australia",85
+"vpnfilter","CN","China",4
+"vpnfilter","ID","Indonesia",16
+"vpnfilter","BM","Bermuda",1
+"vpnfilter","EG","Egypt",2
+"vpnfilter","IS","Iceland",1
+"vpnfilter","ES","Spain",29
+"vpnfilter","CA","Canada",95
+"vpnfilter","CL","Chile",2
+"vpnfilter","DE","Germany",109
+"vpnfilter","MZ","Mozambique",1
+"vpnfilter","TH","Thailand",6
+"vpnfilter","FR","France",203
+"vpnfilter","AD","Andorra",1
+"vpnfilter","NO","Norway",1
+"vpnfilter","BR","Brazil",3
+"vpnfilter","IN","India",5
+"vpnfilter","IT","Italy",297
+"vpnfilter","BE","Belgium",7
+"vpnfilter","GP","Guadeloupe",2
+"vpnfilter","HK","Hong Kong",44
+"vpnfilter","RS","Serbia",3
+"vpnfilter","HU","Hungary",11
+"vpnfilter","NC","New Caledonia",3
+"vpnfilter","LU","Luxembourg",1
+"vpnfilter","HR","Croatia",1
+"vpnfilter","PR","Puerto Rico",2
+"vpnfilter","CZ","Czech Republic",20
+"vpnfilter","JP","Japan",55
+"vpnfilter","ZA","South Africa",12
+"vpnfilter","SE","Sweden",19
+"vpnfilter","BG","Bulgaria",4
+"vpnfilter","EE","Estonia",1
+"vpnfilter","RO","Romania",6
+"CVE-2014-2321","NL","Netherlands",1
+"CVE-2014-2321","UK","United Kingdom",1
+"CVE-2014-8361","BG","Bulgaria",2
+"CVE-2014-8361","BO","Bolivia",3
+"CVE-2014-8361","BR","Brazil",16
+"CVE-2014-8361","BY","Belarus",1
+"CVE-2014-8361","CL","Chile",1
+"CVE-2014-8361","CN","China",86
+"CVE-2014-8361","CO","Colombia",3
+"CVE-2014-8361","CZ","Czech Republic",1
+"CVE-2014-8361","EG","Egypt",163
+"CVE-2014-8361","ES","Spain",4
+"CVE-2014-8361","ET","Ethiopia",12
+"CVE-2014-8361","FI","Finland",1
+"CVE-2014-8361","FR","France",2
+"CVE-2014-8361","HK","Hong Kong",3
+"CVE-2014-8361","ID","Indonesia",2
+"CVE-2014-8361","IE","Ireland",1
+"CVE-2014-8361","IL","Israel",2
+"CVE-2014-8361","IN","India",13
+"CVE-2014-8361","IR","Iran (Islamic Republic Of)",3
+"CVE-2014-8361","IT","Italy",7
+"CVE-2014-8361","JP","Japan",17
+"CVE-2014-8361","KR","South Korea",23
+"CVE-2014-8361","KW","Kuwait",1
+"CVE-2014-8361","KZ","Kazakhstan",2
+"CVE-2014-8361","LV","Latvia",2
+"CVE-2014-8361","MA","Morocco",1
+"CVE-2014-8361","MX","Mexico",3
+"CVE-2014-8361","MY","Malaysia",1
+"CVE-2014-8361","NL","Netherlands",2
+"CVE-2014-8361","NO","Norway",1
+"CVE-2014-8361","NZ","New Zealand",1
+"CVE-2014-8361","PK","Pakistan",1
+"CVE-2014-8361","PL","Poland",2
+"CVE-2014-8361","PS","Palestinian Territories",1
+"CVE-2014-8361","RO","Romania",3
+"CVE-2014-8361","RS","Serbia",2
+"CVE-2014-8361","RU","Russian Federation",9
+"CVE-2014-8361","SE","Sweden",1
+"CVE-2014-8361","SG","Singapore",1
+"CVE-2014-8361","SI","Slovenia",2
+"CVE-2014-8361","SK","Slovakia (Slovak Republic)",1
+"CVE-2014-8361","TH","Thailand",1
+"CVE-2014-8361","TN","Tunisia",5
+"CVE-2014-8361","TR","Turkey",19
+"CVE-2014-8361","TW","Taiwan Province Of China",12
+"CVE-2014-8361","UA","Ukraine",2
+"CVE-2014-8361","UK","United Kingdom",1
+"CVE-2014-8361","US","United States",35
+"CVE-2014-8361","VN","Viet Nam",1
+"CVE-2015-2051","BO","Bolivia",2
+"CVE-2015-2051","CL","Chile",1
+"CVE-2015-2051","CN","China",17
+"CVE-2015-2051","IE","Ireland",1
+"CVE-2015-2051","IN","India",9
+"CVE-2015-2051","IT","Italy",1
+"CVE-2015-2051","KR","South Korea",1
+"CVE-2015-2051","NL","Netherlands",1
+"CVE-2015-2051","PK","Pakistan",2
+"CVE-2015-2051","TW","Taiwan Province Of China",1
+"CVE-2015-2051","UK","United Kingdom",1
+"CVE-2016-10372","BO","Bolivia",3
+"CVE-2016-10372","CN","China",48
+"CVE-2016-10372","IN","India",15
+"CVE-2016-10372","KR","South Korea",1
+"CVE-2016-10372","PA","Panama",1
+"CVE-2016-10372","PK","Pakistan",3
+"CVE-2016-10372","PL","Poland",1
+"CVE-2016-10372","RO","Romania",1
+"CVE-2016-10372","RU","Russian Federation",2
+"CVE-2016-10372","TW","Taiwan Province Of China",1
+"CVE-2016-10372","US","United States",1
+"CVE-2016-6277","CN","China",7
+"CVE-2016-6277","IN","India",4
+"CVE-2017-17215","AD","Andorra",1
+"CVE-2017-17215","AE","United Arab Emirates",5
+"CVE-2017-17215","AL","Albania",1
+"CVE-2017-17215","AR","Argentina",2
+"CVE-2017-17215","AU","Australia",4
+"CVE-2017-17215","BA","Bosnia And Herzegovina",1
+"CVE-2017-17215","BD","Bangladesh",4
+"CVE-2017-17215","BE","Belgium",1
+"CVE-2017-17215","BG","Bulgaria",5
+"CVE-2017-17215","BO","Bolivia",4
+"CVE-2017-17215","BR","Brazil",58
+"CVE-2017-17215","BY","Belarus",1
+"CVE-2017-17215","CA","Canada",4
+"CVE-2017-17215","CL","Chile",5
+"CVE-2017-17215","CN","China",145
+"CVE-2017-17215","CO","Colombia",3
+"CVE-2017-17215","CZ","Czech Republic",1
+"CVE-2017-17215","DE","Germany",3
+"CVE-2017-17215","DK","Denmark",2
+"CVE-2017-17215","EC","Ecuador",1
+"CVE-2017-17215","EG","Egypt",2
+"CVE-2017-17215","ES","Spain",14
+"CVE-2017-17215","ET","Ethiopia",18
+"CVE-2017-17215","FR","France",4
+"CVE-2017-17215","GE","Georgia",1
+"CVE-2017-17215","GR","Greece",2
+"CVE-2017-17215","HK","Hong Kong",18
+"CVE-2017-17215","HN","Honduras",1
+"CVE-2017-17215","HU","Hungary",3
+"CVE-2017-17215","ID","Indonesia",4
+"CVE-2017-17215","IE","Ireland",1
+"CVE-2017-17215","IL","Israel",2
+"CVE-2017-17215","IN","India",55
+"CVE-2017-17215","IQ","Iraq",1
+"CVE-2017-17215","IR","Iran (Islamic Republic Of)",10
+"CVE-2017-17215","IT","Italy",24
+"CVE-2017-17215","JP","Japan",26
+"CVE-2017-17215","KR","South Korea",222
+"CVE-2017-17215","KZ","Kazakhstan",1
+"CVE-2017-17215","LV","Latvia",2
+"CVE-2017-17215","MD","Moldova",2
+"CVE-2017-17215","MO","Macau",1
+"CVE-2017-17215","MU","Mauritius",4
+"CVE-2017-17215","MX","Mexico",38
+"CVE-2017-17215","MY","Malaysia",11
+"CVE-2017-17215","NL","Netherlands",7
+"CVE-2017-17215","NO","Norway",2
+"CVE-2017-17215","NP","Nepal",3
+"CVE-2017-17215","PA","Panama",1
+"CVE-2017-17215","PK","Pakistan",1
+"CVE-2017-17215","PL","Poland",7
+"CVE-2017-17215","PS","Palestinian Territories",1
+"CVE-2017-17215","PT","Portugal",1
+"CVE-2017-17215","RO","Romania",24
+"CVE-2017-17215","RU","Russian Federation",32
+"CVE-2017-17215","SA","Saudi Arabia",3
+"CVE-2017-17215","SE","Sweden",11
+"CVE-2017-17215","SG","Singapore",2
+"CVE-2017-17215","SI","Slovenia",2
+"CVE-2017-17215","TH","Thailand",10
+"CVE-2017-17215","TN","Tunisia",6
+"CVE-2017-17215","TR","Turkey",24
+"CVE-2017-17215","TW","Taiwan Province Of China",88
+"CVE-2017-17215","UA","Ukraine",5
+"CVE-2017-17215","UK","United Kingdom",14
+"CVE-2017-17215","US","United States",154
+"CVE-2017-17215","UY","Uruguay",6
+"CVE-2017-17215","UZ","Uzbekistan",1
+"CVE-2017-17215","VE","Venezuela",10
+"CVE-2017-17215","VN","Viet Nam",9
+"CVE-2017-17215","ZA","South Africa",8
+"CVE-2017-18368","CA","Canada",1
+"CVE-2017-18368","CO","Colombia",1
+"CVE-2017-18368","US","United States",1
+"CVE-2018-10562","BO","Bolivia",4
+"CVE-2018-10562","CA","Canada",1
+"CVE-2018-10562","CN","China",50
+"CVE-2018-10562","DE","Germany",3
+"CVE-2018-10562","ES","Spain",2
+"CVE-2018-10562","FR","France",1
+"CVE-2018-10562","IN","India",13
+"CVE-2018-10562","KR","South Korea",2
+"CVE-2018-10562","NO","Norway",2
+"CVE-2018-10562","PK","Pakistan",2
+"CVE-2018-10562","RU","Russian Federation",1
+"CVE-2018-10562","TW","Taiwan Province Of China",1
+"CVE-2018-10562","US","United States",8
+"EDB-25978","BO","Bolivia",8
+"EDB-25978","BR","Brazil",4
+"EDB-25978","CN","China",49
+"EDB-25978","IN","India",15
+"EDB-25978","KR","South Korea",2
+"EDB-25978","RU","Russian Federation",3
+"EDB-25978","TR","Turkey",1
+"EDB-31683","CA","Canada",1
+"EDB-31683","CN","China",3
+"EDB-31683","KR","South Korea",10
+"EDB-31683","MX","Mexico",3
+"EDB-31683","MY","Malaysia",1
+"EDB-31683","SE","Sweden",1
+"EDB-31683","TW","Taiwan Province Of China",2
+"EDB-31683","UK","United Kingdom",1
+"EDB-31683","US","United States",7
+"EDB-39596","BO","Bolivia",2
+"EDB-39596","CN","China",17
+"EDB-39596","HK","Hong Kong",1
+"EDB-39596","IN","India",5
+"EDB-39596","KH","Cambodia",1
+"EDB-39596","KR","South Korea",1
+"EDB-39596","RU","Russian Federation",2
+"EDB-39596","US","United States",1
+"EDB-41471","BD","Bangladesh",2
+"EDB-41471","BR","Brazil",16
+"EDB-41471","CA","Canada",1
+"EDB-41471","CH","Switzerland",1
+"EDB-41471","CL","Chile",1
+"EDB-41471","CN","China",40
+"EDB-41471","CR","Costa Rica",1
+"EDB-41471","EC","Ecuador",2
+"EDB-41471","EG","Egypt",20
+"EDB-41471","ES","Spain",14
+"EDB-41471","ET","Ethiopia",11
+"EDB-41471","FR","France",1
+"EDB-41471","GE","Georgia",1
+"EDB-41471","HK","Hong Kong",1
+"EDB-41471","ID","Indonesia",1
+"EDB-41471","IL","Israel",1
+"EDB-41471","IN","India",27
+"EDB-41471","IT","Italy",4
+"EDB-41471","JP","Japan",5
+"EDB-41471","KH","Cambodia",1
+"EDB-41471","KR","South Korea",15
+"EDB-41471","LT","Lithuania",2
+"EDB-41471","LU","Luxembourg",1
+"EDB-41471","MA","Morocco",1
+"EDB-41471","MD","Moldova",2
+"EDB-41471","MX","Mexico",4
+"EDB-41471","MY","Malaysia",1
+"EDB-41471","NL","Netherlands",1
+"EDB-41471","NO","Norway",1
+"EDB-41471","NZ","New Zealand",1
+"EDB-41471","PH","Philippines",1
+"EDB-41471","PK","Pakistan",1
+"EDB-41471","PL","Poland",2
+"EDB-41471","PS","Palestinian Territories",1
+"EDB-41471","QA","Qatar",1
+"EDB-41471","RO","Romania",1
+"EDB-41471","RS","Serbia",1
+"EDB-41471","RU","Russian Federation",6
+"EDB-41471","SA","Saudi Arabia",1
+"EDB-41471","SE","Sweden",1
+"EDB-41471","SI","Slovenia",1
+"EDB-41471","TN","Tunisia",4
+"EDB-41471","TR","Turkey",9
+"EDB-41471","TW","Taiwan Province Of China",4
+"EDB-41471","UA","Ukraine",1
+"EDB-41471","UK","United Kingdom",4
+"EDB-41471","US","United States",14
+"EDB-41471","VE","Venezuela",1
+"EDB-41471","VN","Viet Nam",3
+"EDB-41471","ZA","South Africa",2
+"OPENVAS-1361412562310107187","BO","Bolivia",6
+"OPENVAS-1361412562310107187","CN","China",5
+"OPENVAS-1361412562310107187","IN","India",1

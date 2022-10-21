@@ -1,0 +1,2733 @@
+infection,geo,country,count
+android_spams,SG,Singapore,1
+android_spams,DE,Germany,3
+android_spams,CN,China,7
+android_spams,SE,Sweden,1
+android_spams,TZ,Tanzania,1
+android_spams,CA,Canada,1
+android_spams,FR,France,1
+android_spams,NL,Netherlands,1
+android_spams,HK,"Hong Kong",3
+android_spams,RU,"Russian Federation",4
+android_spams,BR,Brazil,1
+android_spams,BE,Belgium,3
+android_spams,US,"United States",24
+android_spams,UK,"United Kingdom",2
+android.bakdoor.prizmes,BJ,Benin,705
+android.bakdoor.prizmes,CA,Canada,58
+android.bakdoor.prizmes,MN,Mongolia,9
+android.bakdoor.prizmes,SK,"Slovakia (Slovak Republic)",45
+android.bakdoor.prizmes,CL,Chile,4
+android.bakdoor.prizmes,EG,Egypt,1063
+android.bakdoor.prizmes,BZ,Belize,4
+android.bakdoor.prizmes,HK,"Hong Kong",28
+android.bakdoor.prizmes,GQ,"Equatorial Guinea",29
+android.bakdoor.prizmes,IL,Israel,29
+android.bakdoor.prizmes,HT,Haiti,8
+android.bakdoor.prizmes,SY,"Syrian Arab Republic",1702
+android.bakdoor.prizmes,TR,Turkey,1550
+android.bakdoor.prizmes,PE,Peru,46
+android.bakdoor.prizmes,SL,"Sierra Leone",70
+android.bakdoor.prizmes,CI,"Cote D Ivoire",354
+android.bakdoor.prizmes,MO,Macau,2
+android.bakdoor.prizmes,CG,Congo,234
+android.bakdoor.prizmes,UA,Ukraine,289
+android.bakdoor.prizmes,NP,Nepal,115
+android.bakdoor.prizmes,ZM,Zambia,223
+android.bakdoor.prizmes,MQ,Martinique,7
+android.bakdoor.prizmes,MM,Myanmar,285
+android.bakdoor.prizmes,MD,Moldova,32
+android.bakdoor.prizmes,KW,Kuwait,30
+android.bakdoor.prizmes,SI,Slovenia,10
+android.bakdoor.prizmes,RE,Reunion,10
+android.bakdoor.prizmes,KN,"Saint Kitts And Nevis",1
+android.bakdoor.prizmes,NL,Netherlands,126
+android.bakdoor.prizmes,BI,Burundi,12
+android.bakdoor.prizmes,VN,"Viet Nam",51
+android.bakdoor.prizmes,MG,Madagascar,461
+android.bakdoor.prizmes,LT,Lithuania,15
+android.bakdoor.prizmes,PG,"Papua New Guinea",56
+android.bakdoor.prizmes,DZ,Algeria,2207
+android.bakdoor.prizmes,NE,Niger,1928
+android.bakdoor.prizmes,DJ,Djibouti,1
+android.bakdoor.prizmes,DK,Denmark,14
+android.bakdoor.prizmes,ET,Ethiopia,2016
+android.bakdoor.prizmes,NZ,"New Zealand",3
+android.bakdoor.prizmes,FR,France,246
+android.bakdoor.prizmes,AU,Australia,17
+android.bakdoor.prizmes,NA,Namibia,2
+android.bakdoor.prizmes,PH,Philippines,429
+android.bakdoor.prizmes,CV,"Cape Verde",1
+android.bakdoor.prizmes,ST,"Sao Tome And Principe",4
+android.bakdoor.prizmes,TT,"Trinidad And Tobago",1
+android.bakdoor.prizmes,MC,Monaco,1
+android.bakdoor.prizmes,HU,Hungary,32
+android.bakdoor.prizmes,BO,Bolivia,14
+android.bakdoor.prizmes,ME,Montenegro,2
+android.bakdoor.prizmes,PS,"Palestinian Territories",57
+android.bakdoor.prizmes,GT,Guatemala,12
+android.bakdoor.prizmes,IN,India,4338
+android.bakdoor.prizmes,BW,Botswana,25
+android.bakdoor.prizmes,DE,Germany,472
+android.bakdoor.prizmes,KE,Kenya,351
+android.bakdoor.prizmes,AL,Albania,62
+android.bakdoor.prizmes,IE,Ireland,7
+android.bakdoor.prizmes,RS,Serbia,59
+android.bakdoor.prizmes,LR,Liberia,75
+android.bakdoor.prizmes,AR,Argentina,117
+android.bakdoor.prizmes,AT,Austria,16
+android.bakdoor.prizmes,BR,Brazil,180
+android.bakdoor.prizmes,KR,"South Korea",19
+android.bakdoor.prizmes,UY,Uruguay,759
+android.bakdoor.prizmes,SN,Senegal,99
+android.bakdoor.prizmes,LV,Latvia,3
+android.bakdoor.prizmes,TL,Timor-Leste,2
+android.bakdoor.prizmes,BY,Belarus,45
+android.bakdoor.prizmes,GR,Greece,448
+android.bakdoor.prizmes,BH,Bahrain,52
+android.bakdoor.prizmes,CU,Cuba,197
+android.bakdoor.prizmes,IT,Italy,333
+android.bakdoor.prizmes,EC,Ecuador,26
+android.bakdoor.prizmes,AO,Angola,1809
+android.bakdoor.prizmes,MK,Macedonia,15
+android.bakdoor.prizmes,CD,"Democratic Republic Of The Congo",1688
+android.bakdoor.prizmes,SB,"Solomon Islands",1
+android.bakdoor.prizmes,LK,"Sri Lanka",170
+android.bakdoor.prizmes,LY,"Libyan Arab Jamahiriya",1259
+android.bakdoor.prizmes,KG,Kyrgyzstan,28
+android.bakdoor.prizmes,SS,"South Sudan",12
+android.bakdoor.prizmes,JO,Jordan,36
+android.bakdoor.prizmes,PK,Pakistan,6899
+android.bakdoor.prizmes,SZ,Swaziland,2
+android.bakdoor.prizmes,FJ,Fiji,2
+android.bakdoor.prizmes,SD,Sudan,342
+android.bakdoor.prizmes,MV,Maldives,10
+android.bakdoor.prizmes,MZ,Mozambique,12
+android.bakdoor.prizmes,SC,Seychelles,1
+android.bakdoor.prizmes,BA,"Bosnia And Herzegovina",62
+android.bakdoor.prizmes,BF,"Burkina Faso",248
+android.bakdoor.prizmes,TW,"Taiwan Province Of China",48
+android.bakdoor.prizmes,ML,Mali,421
+android.bakdoor.prizmes,MX,Mexico,1229
+android.bakdoor.prizmes,BE,Belgium,38
+android.bakdoor.prizmes,JM,Jamaica,19
+android.bakdoor.prizmes,CN,China,610
+android.bakdoor.prizmes,KM,Comoros,1
+android.bakdoor.prizmes,KZ,Kazakhstan,23
+android.bakdoor.prizmes,AF,Afghanistan,2148
+android.bakdoor.prizmes,MT,Malta,7
+android.bakdoor.prizmes,BG,Bulgaria,34
+android.bakdoor.prizmes,NI,Nicaragua,5
+android.bakdoor.prizmes,LU,Luxembourg,9
+android.bakdoor.prizmes,GM,Gambia,26
+android.bakdoor.prizmes,GN,Guinea,52
+android.bakdoor.prizmes,NC,"New Caledonia",2
+android.bakdoor.prizmes,CF,"Central African Republic",21
+android.bakdoor.prizmes,ZW,Zimbabwe,1733
+android.bakdoor.prizmes,TH,Thailand,518
+android.bakdoor.prizmes,GH,Ghana,3447
+android.bakdoor.prizmes,CM,Cameroon,282
+android.bakdoor.prizmes,SG,Singapore,55
+android.bakdoor.prizmes,IQ,Iraq,920
+android.bakdoor.prizmes,PA,Panama,3
+android.bakdoor.prizmes,CZ,"Czech Republic",160
+android.bakdoor.prizmes,ZA,"South Africa",241
+android.bakdoor.prizmes,AE,"United Arab Emirates",132
+android.bakdoor.prizmes,KH,Cambodia,94
+android.bakdoor.prizmes,DO,"Dominican Republic",16
+android.bakdoor.prizmes,BN,"Brunei Darussalam",27
+android.bakdoor.prizmes,TJ,Tajikistan,53
+android.bakdoor.prizmes,CY,Cyprus,20
+android.bakdoor.prizmes,SO,Somalia,221
+android.bakdoor.prizmes,PL,Poland,49
+android.bakdoor.prizmes,CO,Colombia,344
+android.bakdoor.prizmes,MA,Morocco,635
+android.bakdoor.prizmes,LC,"Saint Lucia",1
+android.bakdoor.prizmes,EU,"Europe (Unknown Country)",2
+android.bakdoor.prizmes,UK,"United Kingdom",413
+android.bakdoor.prizmes,GY,Guyana,13
+android.bakdoor.prizmes,SV,"El Salvador",26
+android.bakdoor.prizmes,MY,Malaysia,172
+android.bakdoor.prizmes,BB,Barbados,1
+android.bakdoor.prizmes,TZ,Tanzania,161
+android.bakdoor.prizmes,OM,Oman,43
+android.bakdoor.prizmes,SE,Sweden,20
+android.bakdoor.prizmes,UG,Uganda,157
+android.bakdoor.prizmes,HR,Croatia,4
+android.bakdoor.prizmes,CH,Switzerland,14
+android.bakdoor.prizmes,YE,Yemen,455
+android.bakdoor.prizmes,MU,Mauritius,48
+android.bakdoor.prizmes,GP,Guadeloupe,3
+android.bakdoor.prizmes,TG,Togo,341
+android.bakdoor.prizmes,QA,Qatar,51
+android.bakdoor.prizmes,PT,Portugal,89
+android.bakdoor.prizmes,SR,Suriname,11
+android.bakdoor.prizmes,TN,Tunisia,75
+android.bakdoor.prizmes,IM,"Isle Of Man",1
+android.bakdoor.prizmes,MR,Mauritania,39
+android.bakdoor.prizmes,NG,Nigeria,3275
+android.bakdoor.prizmes,SA,"Saudi Arabia",253
+android.bakdoor.prizmes,GE,Georgia,33
+android.bakdoor.prizmes,HN,Honduras,11
+android.bakdoor.prizmes,US,"United States",513
+android.bakdoor.prizmes,ES,Spain,146
+android.bakdoor.prizmes,VE,Venezuela,141
+android.bakdoor.prizmes,AM,Armenia,57
+android.bakdoor.prizmes,LB,Lebanon,277
+android.bakdoor.prizmes,PY,Paraguay,17
+android.bakdoor.prizmes,ID,Indonesia,3815
+android.bakdoor.prizmes,RO,Romania,153
+android.bakdoor.prizmes,JP,Japan,32
+android.bakdoor.prizmes,CR,"Costa Rica",4
+android.bakdoor.prizmes,BD,Bangladesh,590
+android.bakdoor.prizmes,GF,"French Guiana",2
+android.bakdoor.prizmes,GA,Gabon,133
+android.bakdoor.prizmes,IR,"Iran (Islamic Republic Of)",388
+android.bakdoor.prizmes,LA,"Lao Peoples Democratic Republic",9
+android.bakdoor.prizmes,UZ,Uzbekistan,188
+android.bakdoor.prizmes,CW,Curacao,1
+android.bakdoor.prizmes,RU,"Russian Federation",604
+android.bakdoor.prizmes,AZ,Azerbaijan,240
+android.bakdoor.prizmes,TD,Chad,118
+android.bakdoor.prizmes,MW,Malawi,110
+android.bakdoor.prizmes,RW,Rwanda,53
+android.bankbot,RU,"Russian Federation",2
+android.bankbot,US,"United States",10
+android.bankbot,SG,Singapore,1
+android.bankbot,BE,Belgium,12
+android.bankbot,CN,China,1
+android.bankbot,HK,"Hong Kong",10
+android.banker.anubis,RU,"Russian Federation",35
+android.banker.anubis,US,"United States",1
+android.darksilent,CG,Congo,5
+android.darksilent,SL,"Sierra Leone",2
+android.darksilent,PE,Peru,59
+android.darksilent,CI,"Cote D Ivoire",1
+android.darksilent,MQ,Martinique,1
+android.darksilent,NP,Nepal,22
+android.darksilent,UA,Ukraine,38
+android.darksilent,SY,"Syrian Arab Republic",21
+android.darksilent,TR,Turkey,23
+android.darksilent,HK,"Hong Kong",5
+android.darksilent,HT,Haiti,2
+android.darksilent,IL,Israel,6
+android.darksilent,CA,Canada,6
+android.darksilent,BJ,Benin,1
+android.darksilent,EG,Egypt,15
+android.darksilent,CL,Chile,10
+android.darksilent,PH,Philippines,59
+android.darksilent,TT,"Trinidad And Tobago",3
+android.darksilent,NE,Niger,9
+android.darksilent,FR,France,118
+android.darksilent,NZ,"New Zealand",2
+android.darksilent,AU,Australia,11
+android.darksilent,ET,Ethiopia,58
+android.darksilent,PG,"Papua New Guinea",1
+android.darksilent,MG,Madagascar,49
+android.darksilent,VN,"Viet Nam",407
+android.darksilent,DZ,Algeria,27
+android.darksilent,MM,Myanmar,80
+android.darksilent,NL,Netherlands,36
+android.darksilent,BR,Brazil,1273
+android.darksilent,AT,Austria,5
+android.darksilent,LR,Liberia,2
+android.darksilent,AR,Argentina,149
+android.darksilent,UY,Uruguay,18
+android.darksilent,KR,"South Korea",38
+android.darksilent,IE,Ireland,1
+android.darksilent,AL,Albania,2
+android.darksilent,KE,Kenya,15
+android.darksilent,DE,Germany,21
+android.darksilent,RS,Serbia,5
+android.darksilent,PS,"Palestinian Territories",1
+android.darksilent,BW,Botswana,3
+android.darksilent,IN,India,262
+android.darksilent,GT,Guatemala,8
+android.darksilent,BO,Bolivia,5
+android.darksilent,HU,Hungary,3
+android.darksilent,PK,Pakistan,34
+android.darksilent,JO,Jordan,5
+android.darksilent,SB,"Solomon Islands",1
+android.darksilent,CD,"Democratic Republic Of The Congo",34
+android.darksilent,LY,"Libyan Arab Jamahiriya",10
+android.darksilent,CU,Cuba,2
+android.darksilent,GR,Greece,7
+android.darksilent,MK,Macedonia,3
+android.darksilent,IT,Italy,47
+android.darksilent,EC,Ecuador,8
+android.darksilent,AO,Angola,15
+android.darksilent,BY,Belarus,1
+android.darksilent,TH,Thailand,15380
+android.darksilent,NI,Nicaragua,5
+android.darksilent,BG,Bulgaria,6
+android.darksilent,AF,Afghanistan,27
+android.darksilent,CN,China,24
+android.darksilent,KM,Comoros,4
+android.darksilent,MX,Mexico,440
+android.darksilent,TW,"Taiwan Province Of China",12
+android.darksilent,ML,Mali,3
+android.darksilent,BF,"Burkina Faso",1
+android.darksilent,MZ,Mozambique,5
+android.darksilent,BA,"Bosnia And Herzegovina",4
+android.darksilent,JM,Jamaica,8
+android.darksilent,BE,Belgium,5
+android.darksilent,AD,Andorra,1
+android.darksilent,SD,Sudan,11
+android.darksilent,SV,"El Salvador",17
+android.darksilent,UK,"United Kingdom",26
+android.darksilent,TJ,Tajikistan,1
+android.darksilent,BN,"Brunei Darussalam",2
+android.darksilent,CO,Colombia,75
+android.darksilent,MA,Morocco,4
+android.darksilent,PL,Poland,8
+android.darksilent,ZA,"South Africa",26
+android.darksilent,DO,"Dominican Republic",27
+android.darksilent,AE,"United Arab Emirates",6
+android.darksilent,KH,Cambodia,72
+android.darksilent,IQ,Iraq,13
+android.darksilent,CM,Cameroon,10
+android.darksilent,SG,Singapore,15
+android.darksilent,GH,Ghana,8
+android.darksilent,CZ,"Czech Republic",2
+android.darksilent,NG,Nigeria,165
+android.darksilent,SA,"Saudi Arabia",5
+android.darksilent,ES,Spain,39
+android.darksilent,BT,Bhutan,1
+android.darksilent,US,"United States",103
+android.darksilent,HN,Honduras,1
+android.darksilent,TN,Tunisia,4
+android.darksilent,AG,"Antigua And Barbuda",10
+android.darksilent,MU,Mauritius,5
+android.darksilent,YE,Yemen,19
+android.darksilent,PT,Portugal,5
+android.darksilent,TG,Togo,5
+android.darksilent,SE,Sweden,1
+android.darksilent,TZ,Tanzania,1
+android.darksilent,MY,Malaysia,317
+android.darksilent,HR,Croatia,6
+android.darksilent,UG,Uganda,1
+android.darksilent,CH,Switzerland,5
+android.darksilent,RU,"Russian Federation",68
+android.darksilent,AZ,Azerbaijan,7
+android.darksilent,MW,Malawi,1
+android.darksilent,FI,Finland,1
+android.darksilent,GA,Gabon,4
+android.darksilent,BD,Bangladesh,98
+android.darksilent,CR,"Costa Rica",2
+android.darksilent,JP,Japan,8
+android.darksilent,RO,Romania,6
+android.darksilent,UZ,Uzbekistan,10
+android.darksilent,IR,"Iran (Islamic Republic Of)",30
+android.darksilent,LA,"Lao Peoples Democratic Republic",185
+android.darksilent,ID,Indonesia,205
+android.darksilent,LB,Lebanon,5
+android.darksilent,VE,Venezuela,30
+android.darksilent,AM,Armenia,1
+android.digitime.fota,US,"United States",2
+android.fakeav,LB,Lebanon,30
+android.fakeav,AM,Armenia,2
+android.fakeav,RU,"Russian Federation",318
+android.fakeav,AZ,Azerbaijan,20
+android.fakeav,UZ,Uzbekistan,1573
+android.fakeav,IR,"Iran (Islamic Republic Of)",64
+android.fakeav,SE,Sweden,3
+android.fakeav,GE,Georgia,1
+android.fakeav,US,"United States",13
+android.fakeav,SG,Singapore,2
+android.fakeav,UK,"United Kingdom",2
+android.fakeav,TJ,Tajikistan,320
+android.fakeav,LU,Luxembourg,1
+android.fakeav,BG,Bulgaria,1
+android.fakeav,AF,Afghanistan,237
+android.fakeav,KZ,Kazakhstan,52
+android.fakeav,CU,Cuba,175
+android.fakeav,BY,Belarus,35
+android.fakeav,LV,Latvia,1
+android.fakeav,KG,Kyrgyzstan,29
+android.fakeav,EE,Estonia,1
+android.fakeav,IE,Ireland,1
+android.fakeav,DE,Germany,4
+android.fakeav,MD,Moldova,1
+android.fakeav,NL,Netherlands,1
+android.fakeav,NA,Namibia,1
+android.fakeav,UA,Ukraine,82
+android.fakeav,TR,Turkey,1
+android.fakebank,BY,Belarus,1
+android.fakebank,KG,Kyrgyzstan,7
+android.fakebank,IE,Ireland,1
+android.fakebank,SG,Singapore,2
+android.fakebank,UK,"United Kingdom",1
+android.fakebank,TJ,Tajikistan,367
+android.fakebank,KZ,Kazakhstan,12
+android.fakebank,CN,China,1
+android.fakebank,RU,"Russian Federation",43
+android.fakebank,UZ,Uzbekistan,254
+android.fakebank,US,"United States",5
+android.fakebank,ES,Spain,1
+android.fobus,DE,Germany,2
+android.fobus,US,"United States",4
+android.fobus,RU,"Russian Federation",1
+android.fobus,SG,Singapore,1
+android.fungram,CH,Switzerland,2
+android.fungram,US,"United States",13
+android.fungram,ES,Spain,1
+android.fungram,RU,"Russian Federation",3
+android.fungram,JP,Japan,1
+android.fungram,IR,"Iran (Islamic Republic Of)",258
+android.fungram,AF,Afghanistan,2
+android.fungram,SG,Singapore,1
+android.fungram,UK,"United Kingdom",6
+android.fungram,PL,Poland,1
+android.fungram,IN,India,3
+android.fungram,KR,"South Korea",2
+android.fungram,DE,Germany,7
+android.fungram,IE,Ireland,4
+android.fungram,HK,"Hong Kong",1
+android.fungram,CA,Canada,4
+android.fungram,TR,Turkey,3
+android.fungram,NL,Netherlands,4
+android.fungram,FR,France,9
+android.fungram,AU,Australia,1
+android.gopl,RU,"Russian Federation",6
+android.gopl,IR,"Iran (Islamic Republic Of)",16
+android.gopl,UZ,Uzbekistan,11
+android.gopl,BD,Bangladesh,5
+android.gopl,ID,Indonesia,10
+android.gopl,AM,Armenia,1
+android.gopl,US,"United States",19
+android.gopl,ES,Spain,2
+android.gopl,NG,Nigeria,14
+android.gopl,SA,"Saudi Arabia",3
+android.gopl,TN,Tunisia,2
+android.gopl,TG,Togo,1
+android.gopl,YE,Yemen,6
+android.gopl,LS,Lesotho,1
+android.gopl,PL,Poland,1
+android.gopl,CO,Colombia,2
+android.gopl,MA,Morocco,3
+android.gopl,TJ,Tajikistan,2
+android.gopl,ZA,"South Africa",7
+android.gopl,CM,Cameroon,1
+android.gopl,GH,Ghana,7
+android.gopl,IQ,Iraq,5
+android.gopl,ZW,Zimbabwe,1
+android.gopl,TH,Thailand,5
+android.gopl,AF,Afghanistan,4
+android.gopl,CN,China,1
+android.gopl,BE,Belgium,12
+android.gopl,MX,Mexico,22
+android.gopl,ML,Mali,1
+android.gopl,SD,Sudan,1
+android.gopl,FJ,Fiji,1
+android.gopl,PK,Pakistan,1
+android.gopl,LY,"Libyan Arab Jamahiriya",2
+android.gopl,AO,Angola,1
+android.gopl,EC,Ecuador,3
+android.gopl,BY,Belarus,4
+android.gopl,AR,Argentina,4
+android.gopl,BR,Brazil,9
+android.gopl,KE,Kenya,8
+android.gopl,DE,Germany,1
+android.gopl,IE,Ireland,1
+android.gopl,IN,India,14
+android.gopl,GT,Guatemala,1
+android.gopl,BO,Bolivia,1
+android.gopl,PH,Philippines,9
+android.gopl,FR,France,2
+android.gopl,AU,Australia,1
+android.gopl,ET,Ethiopia,17
+android.gopl,DZ,Algeria,5
+android.gopl,VN,"Viet Nam",1
+android.gopl,LT,Lithuania,1
+android.gopl,MG,Madagascar,1
+android.gopl,KN,"Saint Kitts And Nevis",1
+android.gopl,MM,Myanmar,24
+android.gopl,MD,Moldova,2
+android.gopl,ZM,Zambia,2
+android.gopl,UA,Ukraine,1
+android.gopl,NP,Nepal,1
+android.gopl,PE,Peru,5
+android.gopl,TR,Turkey,9
+android.gopl,GQ,"Equatorial Guinea",1
+android.gopl,HT,Haiti,1
+android.gopl,HK,"Hong Kong",8
+android.gopl,EG,Egypt,1
+android.hqwar,KG,Kyrgyzstan,1
+android.hqwar,DE,Germany,1
+android.hqwar,NL,Netherlands,1
+android.hqwar,TR,Turkey,1
+android.hqwar,UA,Ukraine,1
+android.hqwar,HK,"Hong Kong",2
+android.hqwar,UZ,Uzbekistan,19
+android.hqwar,RU,"Russian Federation",55
+android.hqwar,US,"United States",8
+android.hqwar,BG,Bulgaria,1
+android.hqwar,KZ,Kazakhstan,1
+android.hummer,TT,"Trinidad And Tobago",84
+android.hummer,ST,"Sao Tome And Principe",10
+android.hummer,PH,Philippines,10092
+android.hummer,BM,Bermuda,1
+android.hummer,CV,"Cape Verde",36
+android.hummer,NZ,"New Zealand",21
+android.hummer,AU,Australia,75
+android.hummer,FR,France,3082
+android.hummer,ET,Ethiopia,3882
+android.hummer,NA,Namibia,87
+android.hummer,NE,Niger,935
+android.hummer,DJ,Djibouti,25
+android.hummer,DK,Denmark,3
+android.hummer,CK,"Cook Islands",1
+android.hummer,DZ,Algeria,7433
+android.hummer,VN,"Viet Nam",1419
+android.hummer,DM,Dominica,5
+android.hummer,PG,"Papua New Guinea",162
+android.hummer,LT,Lithuania,179
+android.hummer,MG,Madagascar,841
+android.hummer,RE,Reunion,69
+android.hummer,SI,Slovenia,19
+android.hummer,BI,Burundi,491
+android.hummer,NL,Netherlands,372
+android.hummer,KN,"Saint Kitts And Nevis",1
+android.hummer,GD,Grenada,8
+android.hummer,KW,Kuwait,131
+android.hummer,MM,Myanmar,1696
+android.hummer,MD,Moldova,121
+android.hummer,MQ,Martinique,87
+android.hummer,ZM,Zambia,1607
+android.hummer,UA,Ukraine,5205
+android.hummer,NP,Nepal,1393
+android.hummer,PE,Peru,10215
+android.hummer,SL,"Sierra Leone",581
+android.hummer,CI,"Cote D Ivoire",2721
+android.hummer,CG,Congo,370
+android.hummer,MO,Macau,1
+android.hummer,SY,"Syrian Arab Republic",2838
+android.hummer,TR,Turkey,1518
+android.hummer,GQ,"Equatorial Guinea",36
+android.hummer,IL,Israel,100
+android.hummer,HT,Haiti,247
+android.hummer,HK,"Hong Kong",84
+android.hummer,SK,"Slovakia (Slovak Republic)",50
+android.hummer,MN,Mongolia,130
+android.hummer,BZ,Belize,5
+android.hummer,EG,Egypt,4906
+android.hummer,CL,Chile,305
+android.hummer,BJ,Benin,976
+android.hummer,CA,Canada,495
+android.hummer,SX,"Sint Maarten",3
+android.hummer,JO,Jordan,410
+android.hummer,KG,Kyrgyzstan,347
+android.hummer,SS,"South Sudan",172
+android.hummer,PK,Pakistan,3434
+android.hummer,LY,"Libyan Arab Jamahiriya",1820
+android.hummer,LK,"Sri Lanka",1150
+android.hummer,CD,"Democratic Republic Of The Congo",2060
+android.hummer,SB,"Solomon Islands",18
+android.hummer,EC,Ecuador,1330
+android.hummer,IT,Italy,644
+android.hummer,AO,Angola,1529
+android.hummer,MK,Macedonia,47
+android.hummer,GG,Guernsey,4
+android.hummer,GR,Greece,230
+android.hummer,CU,Cuba,2865
+android.hummer,BH,Bahrain,130
+android.hummer,TL,Timor-Leste,58
+android.hummer,LV,Latvia,98
+android.hummer,BY,Belarus,507
+android.hummer,BQ,"Bonaire/Sint Eustatius/Saba",1
+android.hummer,SN,Senegal,2864
+android.hummer,UY,Uruguay,117
+android.hummer,KR,"South Korea",157
+android.hummer,VU,Vanuatu,1
+android.hummer,LR,Liberia,187
+android.hummer,GW,Guinea-Bissau,89
+android.hummer,AR,Argentina,2212
+android.hummer,EE,Estonia,2
+android.hummer,AT,Austria,51
+android.hummer,BR,Brazil,3122
+android.hummer,RS,Serbia,412
+android.hummer,KE,Kenya,12881
+android.hummer,DE,Germany,965
+android.hummer,IE,Ireland,38
+android.hummer,AL,Albania,167
+android.hummer,IN,India,76640
+android.hummer,GT,Guatemala,488
+android.hummer,BW,Botswana,114
+android.hummer,PS,"Palestinian Territories",150
+android.hummer,ME,Montenegro,89
+android.hummer,BO,Bolivia,6068
+android.hummer,HU,Hungary,135
+android.hummer,SV,"El Salvador",373
+android.hummer,UK,"United Kingdom",714
+android.hummer,GY,Guyana,498
+android.hummer,LC,"Saint Lucia",3
+android.hummer,LS,Lesotho,163
+android.hummer,PL,Poland,272
+android.hummer,CO,Colombia,1915
+android.hummer,MA,Morocco,4043
+android.hummer,CY,Cyprus,15
+android.hummer,TJ,Tajikistan,621
+android.hummer,SO,Somalia,332
+android.hummer,BN,"Brunei Darussalam",55
+android.hummer,ER,Eritrea,2
+android.hummer,DO,"Dominican Republic",263
+android.hummer,AE,"United Arab Emirates",1369
+android.hummer,KH,Cambodia,264
+android.hummer,ZA,"South Africa",4126
+android.hummer,PA,Panama,31
+android.hummer,IS,Iceland,1
+android.hummer,CZ,"Czech Republic",137
+android.hummer,CM,Cameroon,2018
+android.hummer,SG,Singapore,294
+android.hummer,GH,Ghana,6075
+android.hummer,PR,"Puerto Rico",30
+android.hummer,IQ,Iraq,3907
+android.hummer,CF,"Central African Republic",30
+android.hummer,ZW,Zimbabwe,702
+android.hummer,TH,Thailand,1018
+android.hummer,NC,"New Caledonia",4
+android.hummer,GN,Guinea,606
+android.hummer,GM,Gambia,396
+android.hummer,VC,"Saint Vincent And The Grenadines",3
+android.hummer,MT,Malta,8
+android.hummer,KY,"Cayman Islands",2
+android.hummer,KZ,Kazakhstan,649
+android.hummer,AF,Afghanistan,2607
+android.hummer,CN,China,2263
+android.hummer,KM,Comoros,38
+android.hummer,NI,Nicaragua,1590
+android.hummer,LU,Luxembourg,57
+android.hummer,BG,Bulgaria,120
+android.hummer,BE,Belgium,88
+android.hummer,AD,Andorra,3
+android.hummer,JM,Jamaica,133
+android.hummer,MX,Mexico,11717
+android.hummer,TW,"Taiwan Province Of China",594
+android.hummer,ML,Mali,1666
+android.hummer,BF,"Burkina Faso",59
+android.hummer,FM,"Federated States Of Micronesia",2
+android.hummer,SC,Seychelles,10
+android.hummer,BA,"Bosnia And Herzegovina",278
+android.hummer,MZ,Mozambique,1744
+android.hummer,MV,Maldives,22
+android.hummer,SD,Sudan,2232
+android.hummer,SZ,Swaziland,299
+android.hummer,FJ,Fiji,77
+android.hummer,TD,Chad,179
+android.hummer,YT,Mayotte,4
+android.hummer,RW,Rwanda,1083
+android.hummer,FI,Finland,433
+android.hummer,MW,Malawi,491
+android.hummer,CW,Curacao,14
+android.hummer,RU,"Russian Federation",9792
+android.hummer,AZ,Azerbaijan,594
+android.hummer,LA,"Lao Peoples Democratic Republic",218
+android.hummer,IR,"Iran (Islamic Republic Of)",25617
+android.hummer,UZ,Uzbekistan,1538
+android.hummer,JP,Japan,131
+android.hummer,RO,Romania,847
+android.hummer,GA,Gabon,1752
+android.hummer,CR,"Costa Rica",115
+android.hummer,GF,"French Guiana",19
+android.hummer,BD,Bangladesh,6775
+android.hummer,LB,Lebanon,432
+android.hummer,PY,Paraguay,429
+android.hummer,ID,Indonesia,70737
+android.hummer,MF,"Saint Martin",2
+android.hummer,AM,Armenia,215
+android.hummer,PF,"French Polynesia",6
+android.hummer,VE,Venezuela,2927
+android.hummer,BT,Bhutan,13
+android.hummer,HN,Honduras,1043
+android.hummer,US,"United States",2630
+android.hummer,ES,Spain,784
+android.hummer,MR,Mauritania,1057
+android.hummer,GE,Georgia,380
+android.hummer,NG,Nigeria,6642
+android.hummer,SA,"Saudi Arabia",1013
+android.hummer,BS,Bahamas,8
+android.hummer,AW,Aruba,1
+android.hummer,AG,"Antigua And Barbuda",10
+android.hummer,TN,Tunisia,1642
+android.hummer,SR,Suriname,21
+android.hummer,GP,Guadeloupe,29
+android.hummer,PT,Portugal,474
+android.hummer,TG,Togo,3541
+android.hummer,QA,Qatar,178
+android.hummer,YE,Yemen,1595
+android.hummer,NO,Norway,19
+android.hummer,MU,Mauritius,118
+android.hummer,UG,Uganda,2015
+android.hummer,HR,Croatia,375
+android.hummer,CH,Switzerland,43
+android.hummer,MY,Malaysia,909
+android.hummer,SE,Sweden,20
+android.hummer,OM,Oman,349
+android.hummer,TZ,Tanzania,3922
+android.hummer,BB,Barbados,8
+android.iop,BE,Belgium,7
+android.iop,JM,Jamaica,8
+android.iop,ML,Mali,1
+android.iop,TW,"Taiwan Province Of China",2
+android.iop,MX,Mexico,266
+android.iop,BA,"Bosnia And Herzegovina",1
+android.iop,MZ,Mozambique,14
+android.iop,MV,Maldives,1
+android.iop,SD,Sudan,505
+android.iop,SZ,Swaziland,47
+android.iop,ZW,Zimbabwe,67
+android.iop,TH,Thailand,14
+android.iop,NC,"New Caledonia",1
+android.iop,GN,Guinea,1
+android.iop,GM,Gambia,1
+android.iop,KZ,Kazakhstan,7
+android.iop,AF,Afghanistan,78
+android.iop,CN,China,5
+android.iop,LU,Luxembourg,2
+android.iop,BG,Bulgaria,2
+android.iop,ER,Eritrea,1
+android.iop,KH,Cambodia,18
+android.iop,AE,"United Arab Emirates",11
+android.iop,ZA,"South Africa",688
+android.iop,PA,Panama,1
+android.iop,CZ,"Czech Republic",17
+android.iop,SG,Singapore,1
+android.iop,CM,Cameroon,21
+android.iop,GH,Ghana,7
+android.iop,PR,"Puerto Rico",1
+android.iop,IQ,Iraq,54
+android.iop,SV,"El Salvador",12
+android.iop,UK,"United Kingdom",41
+android.iop,LS,Lesotho,70
+android.iop,PL,Poland,2
+android.iop,MA,Morocco,22
+android.iop,CO,Colombia,54
+android.iop,SO,Somalia,25
+android.iop,TJ,Tajikistan,26
+android.iop,BN,"Brunei Darussalam",3
+android.iop,PT,Portugal,2
+android.iop,YE,Yemen,413
+android.iop,MU,Mauritius,3
+android.iop,HR,Croatia,2
+android.iop,UG,Uganda,42
+android.iop,MY,Malaysia,12
+android.iop,OM,Oman,2
+android.iop,TZ,Tanzania,29
+android.iop,BB,Barbados,2
+android.iop,HN,Honduras,7
+android.iop,US,"United States",154
+android.iop,ES,Spain,9
+android.iop,MR,Mauritania,4
+android.iop,GE,Georgia,1
+android.iop,NG,Nigeria,213
+android.iop,SA,"Saudi Arabia",17
+android.iop,TN,Tunisia,5
+android.iop,SR,Suriname,1
+android.iop,LB,Lebanon,6
+android.iop,ID,Indonesia,354
+android.iop,PY,Paraguay,2
+android.iop,PF,"French Polynesia",2
+android.iop,VE,Venezuela,94
+android.iop,RW,Rwanda,8
+android.iop,MW,Malawi,69
+android.iop,RU,"Russian Federation",112
+android.iop,AZ,Azerbaijan,36
+android.iop,IR,"Iran (Islamic Republic Of)",837
+android.iop,UZ,Uzbekistan,48
+android.iop,JP,Japan,5
+android.iop,RO,Romania,14
+android.iop,CR,"Costa Rica",1
+android.iop,BD,Bangladesh,153
+android.iop,HT,Haiti,1
+android.iop,HK,"Hong Kong",2
+android.iop,SK,"Slovakia (Slovak Republic)",1
+android.iop,MN,Mongolia,1
+android.iop,CL,Chile,4
+android.iop,EG,Egypt,76
+android.iop,CA,Canada,13
+android.iop,ZM,Zambia,72
+android.iop,NP,Nepal,16
+android.iop,UA,Ukraine,32
+android.iop,PE,Peru,30
+android.iop,SL,"Sierra Leone",6
+android.iop,CI,"Cote D Ivoire",1
+android.iop,CG,Congo,13
+android.iop,SY,"Syrian Arab Republic",160
+android.iop,TR,Turkey,3
+android.iop,DZ,Algeria,193
+android.iop,VN,"Viet Nam",3
+android.iop,PG,"Papua New Guinea",10
+android.iop,MG,Madagascar,31
+android.iop,SI,Slovenia,1
+android.iop,NL,Netherlands,4
+android.iop,KW,Kuwait,6
+android.iop,MM,Myanmar,147
+android.iop,TT,"Trinidad And Tobago",1
+android.iop,BM,Bermuda,1
+android.iop,PH,Philippines,172
+android.iop,FR,France,16
+android.iop,AU,Australia,1
+android.iop,ET,Ethiopia,207
+android.iop,NA,Namibia,1
+android.iop,NE,Niger,128
+android.iop,IN,India,617
+android.iop,GT,Guatemala,7
+android.iop,PS,"Palestinian Territories",1
+android.iop,ME,Montenegro,1
+android.iop,BO,Bolivia,37
+android.iop,HU,Hungary,5
+android.iop,AR,Argentina,23
+android.iop,BR,Brazil,71
+android.iop,RS,Serbia,3
+android.iop,KE,Kenya,96
+android.iop,DE,Germany,27
+android.iop,AL,Albania,1
+android.iop,IE,Ireland,1
+android.iop,IT,Italy,16
+android.iop,AO,Angola,46
+android.iop,EC,Ecuador,6
+android.iop,MK,Macedonia,1
+android.iop,CU,Cuba,314
+android.iop,GR,Greece,7
+android.iop,BY,Belarus,11
+android.iop,BQ,"Bonaire/Sint Eustatius/Saba",1
+android.iop,SN,Senegal,20
+android.iop,JO,Jordan,3
+android.iop,KG,Kyrgyzstan,1
+android.iop,PK,Pakistan,149
+android.iop,LY,"Libyan Arab Jamahiriya",122
+android.iop,LK,"Sri Lanka",8
+android.iop,CD,"Democratic Republic Of The Congo",98
+android.iop,SB,"Solomon Islands",38
+android.provar,CD,"Democratic Republic Of The Congo",9
+android.provar,LY,"Libyan Arab Jamahiriya",190
+android.provar,AO,Angola,459
+android.provar,DE,Germany,5
+android.provar,IE,Ireland,1
+android.provar,FR,France,2
+android.provar,CG,Congo,5
+android.provar,TR,Turkey,1
+android.provar,HK,"Hong Kong",1
+android.provar,IL,Israel,2
+android.provar,CA,Canada,3
+android.provar,RU,"Russian Federation",5
+android.provar,IR,"Iran (Islamic Republic Of)",24
+android.provar,UZ,Uzbekistan,134
+android.provar,LB,Lebanon,181
+android.provar,US,"United States",22
+android.provar,SE,Sweden,2
+android.provar,UK,"United Kingdom",7
+android.provar,TJ,Tajikistan,27
+android.provar,SG,Singapore,3
+android.provar,AF,Afghanistan,743
+android.provar,BE,Belgium,1
+android.provar,SD,Sudan,18
+android.rootnik,ID,Indonesia,1984
+android.rootnik,PY,Paraguay,13
+android.rootnik,LB,Lebanon,145
+android.rootnik,VE,Venezuela,296
+android.rootnik,PF,"French Polynesia",1
+android.rootnik,AM,Armenia,11
+android.rootnik,MF,"Saint Martin",1
+android.rootnik,RU,"Russian Federation",382
+android.rootnik,AZ,Azerbaijan,83
+android.rootnik,MW,Malawi,104
+android.rootnik,RW,Rwanda,71
+android.rootnik,TD,Chad,37
+android.rootnik,BD,Bangladesh,1691
+android.rootnik,CR,"Costa Rica",5
+android.rootnik,GA,Gabon,23
+android.rootnik,JP,Japan,3
+android.rootnik,RO,Romania,33
+android.rootnik,UZ,Uzbekistan,495
+android.rootnik,IR,"Iran (Islamic Republic Of)",4518
+android.rootnik,LA,"Lao Peoples Democratic Republic",2
+android.rootnik,MU,Mauritius,22
+android.rootnik,YE,Yemen,1294
+android.rootnik,QA,Qatar,4
+android.rootnik,TG,Togo,62
+android.rootnik,PT,Portugal,17
+android.rootnik,TZ,Tanzania,149
+android.rootnik,OM,Oman,32
+android.rootnik,BB,Barbados,4
+android.rootnik,MY,Malaysia,118
+android.rootnik,CH,Switzerland,2
+android.rootnik,UG,Uganda,109
+android.rootnik,HR,Croatia,4
+android.rootnik,NG,Nigeria,1182
+android.rootnik,SA,"Saudi Arabia",59
+android.rootnik,GE,Georgia,22
+android.rootnik,MR,Mauritania,38
+android.rootnik,ES,Spain,16
+android.rootnik,US,"United States",203
+android.rootnik,HN,Honduras,18
+android.rootnik,SR,Suriname,15
+android.rootnik,TN,Tunisia,47
+android.rootnik,AG,"Antigua And Barbuda",3
+android.rootnik,BS,Bahamas,1
+android.rootnik,ZA,"South Africa",598
+android.rootnik,KH,Cambodia,34
+android.rootnik,AE,"United Arab Emirates",23
+android.rootnik,DO,"Dominican Republic",8
+android.rootnik,IQ,Iraq,398
+android.rootnik,PR,"Puerto Rico",14
+android.rootnik,GH,Ghana,188
+android.rootnik,CM,Cameroon,97
+android.rootnik,SG,Singapore,36
+android.rootnik,CZ,"Czech Republic",8
+android.rootnik,PA,Panama,6
+android.rootnik,LS,Lesotho,48
+android.rootnik,EU,"Europe (Unknown Country)",2
+android.rootnik,UK,"United Kingdom",59
+android.rootnik,GY,Guyana,15
+android.rootnik,SV,"El Salvador",44
+android.rootnik,BN,"Brunei Darussalam",1
+android.rootnik,TJ,Tajikistan,126
+android.rootnik,SO,Somalia,12
+android.rootnik,CY,Cyprus,1
+android.rootnik,CO,Colombia,302
+android.rootnik,MA,Morocco,208
+android.rootnik,PL,Poland,24
+android.rootnik,MZ,Mozambique,57
+android.rootnik,BA,"Bosnia And Herzegovina",3
+android.rootnik,MX,Mexico,1319
+android.rootnik,TW,"Taiwan Province Of China",10
+android.rootnik,ML,Mali,147
+android.rootnik,JM,Jamaica,9
+android.rootnik,BE,Belgium,16
+android.rootnik,FJ,Fiji,1
+android.rootnik,SZ,Swaziland,28
+android.rootnik,SD,Sudan,853
+android.rootnik,MV,Maldives,3
+android.rootnik,GN,Guinea,20
+android.rootnik,TH,Thailand,110
+android.rootnik,ZW,Zimbabwe,53
+android.rootnik,CF,"Central African Republic",2
+android.rootnik,BG,Bulgaria,13
+android.rootnik,LU,Luxembourg,16
+android.rootnik,NI,Nicaragua,21
+android.rootnik,KM,Comoros,5
+android.rootnik,CN,China,103
+android.rootnik,KZ,Kazakhstan,25
+android.rootnik,AF,Afghanistan,726
+android.rootnik,GM,Gambia,17
+android.rootnik,GR,Greece,27
+android.rootnik,BH,Bahrain,5
+android.rootnik,CU,Cuba,537
+android.rootnik,MK,Macedonia,9
+android.rootnik,EC,Ecuador,31
+android.rootnik,IT,Italy,30
+android.rootnik,AO,Angola,208
+android.rootnik,SN,Senegal,160
+android.rootnik,BY,Belarus,41
+android.rootnik,LV,Latvia,3
+android.rootnik,TL,Timor-Leste,2
+android.rootnik,PK,Pakistan,787
+android.rootnik,SS,"South Sudan",13
+android.rootnik,KG,Kyrgyzstan,4
+android.rootnik,JO,Jordan,29
+android.rootnik,SX,"Sint Maarten",1
+android.rootnik,CD,"Democratic Republic Of The Congo",308
+android.rootnik,LK,"Sri Lanka",194
+android.rootnik,LY,"Libyan Arab Jamahiriya",334
+android.rootnik,PS,"Palestinian Territories",7
+android.rootnik,BW,Botswana,15
+android.rootnik,GT,Guatemala,92
+android.rootnik,IN,India,2744
+android.rootnik,HU,Hungary,2
+android.rootnik,BO,Bolivia,229
+android.rootnik,ME,Montenegro,2
+android.rootnik,AT,Austria,2
+android.rootnik,BR,Brazil,392
+android.rootnik,EE,Estonia,3
+android.rootnik,AR,Argentina,99
+android.rootnik,LR,Liberia,3
+android.rootnik,KR,"South Korea",3
+android.rootnik,UY,Uruguay,12
+android.rootnik,IE,Ireland,1
+android.rootnik,AL,Albania,8
+android.rootnik,DE,Germany,99
+android.rootnik,KE,Kenya,893
+android.rootnik,RS,Serbia,7
+android.rootnik,MG,Madagascar,59
+android.rootnik,PG,"Papua New Guinea",35
+android.rootnik,LT,Lithuania,3
+android.rootnik,VN,"Viet Nam",94
+android.rootnik,DZ,Algeria,1396
+android.rootnik,MM,Myanmar,1185
+android.rootnik,MD,Moldova,7
+android.rootnik,KW,Kuwait,7
+android.rootnik,KN,"Saint Kitts And Nevis",1
+android.rootnik,NL,Netherlands,25
+android.rootnik,BI,Burundi,28
+android.rootnik,RE,Reunion,7
+android.rootnik,CV,"Cape Verde",9
+android.rootnik,PH,Philippines,598
+android.rootnik,TT,"Trinidad And Tobago",1
+android.rootnik,NE,Niger,141
+android.rootnik,NA,Namibia,17
+android.rootnik,ET,Ethiopia,1626
+android.rootnik,FR,France,192
+android.rootnik,AU,Australia,6
+android.rootnik,HK,"Hong Kong",11
+android.rootnik,IL,Israel,3
+android.rootnik,HT,Haiti,54
+android.rootnik,GQ,"Equatorial Guinea",9
+android.rootnik,CA,Canada,21
+android.rootnik,BJ,Benin,80
+android.rootnik,CL,Chile,16
+android.rootnik,EG,Egypt,739
+android.rootnik,BZ,Belize,1
+android.rootnik,MN,Mongolia,17
+android.rootnik,SK,"Slovakia (Slovak Republic)",1
+android.rootnik,CG,Congo,75
+android.rootnik,CI,"Cote D Ivoire",83
+android.rootnik,SL,"Sierra Leone",32
+android.rootnik,PE,Peru,214
+android.rootnik,NP,Nepal,124
+android.rootnik,UA,Ukraine,383
+android.rootnik,MQ,Martinique,1
+android.rootnik,ZM,Zambia,131
+android.rootnik,TR,Turkey,313
+android.rootnik,SY,"Syrian Arab Republic",1754
+android.skyfin,GR,Greece,1
+android.skyfin,CU,Cuba,205
+android.skyfin,AO,Angola,46
+android.skyfin,EC,Ecuador,2
+android.skyfin,CD,"Democratic Republic Of The Congo",2
+android.skyfin,LY,"Libyan Arab Jamahiriya",7
+android.skyfin,LK,"Sri Lanka",13
+android.skyfin,KG,Kyrgyzstan,1
+android.skyfin,PK,Pakistan,39
+android.skyfin,BO,Bolivia,25
+android.skyfin,HU,Hungary,3
+android.skyfin,IN,India,135
+android.skyfin,GT,Guatemala,8
+android.skyfin,KE,Kenya,42
+android.skyfin,DE,Germany,1
+android.skyfin,AR,Argentina,4
+android.skyfin,AT,Austria,1
+android.skyfin,BR,Brazil,23
+android.skyfin,MM,Myanmar,24
+android.skyfin,NL,Netherlands,2
+android.skyfin,BI,Burundi,3
+android.skyfin,VN,"Viet Nam",1
+android.skyfin,PG,"Papua New Guinea",8
+android.skyfin,MG,Madagascar,11
+android.skyfin,DZ,Algeria,56
+android.skyfin,NE,Niger,17
+android.skyfin,FR,France,4
+android.skyfin,ET,Ethiopia,88
+android.skyfin,PH,Philippines,33
+android.skyfin,CV,"Cape Verde",1
+android.skyfin,EG,Egypt,31
+android.skyfin,HK,"Hong Kong",1
+android.skyfin,SY,"Syrian Arab Republic",83
+android.skyfin,TR,Turkey,21
+android.skyfin,SL,"Sierra Leone",7
+android.skyfin,CI,"Cote D Ivoire",1
+android.skyfin,ZM,Zambia,3
+android.skyfin,NP,Nepal,8
+android.skyfin,UA,Ukraine,5
+android.skyfin,VE,Venezuela,19
+android.skyfin,LB,Lebanon,1
+android.skyfin,ID,Indonesia,49
+android.skyfin,RO,Romania,2
+android.skyfin,BD,Bangladesh,167
+android.skyfin,IR,"Iran (Islamic Republic Of)",313
+android.skyfin,UZ,Uzbekistan,32
+android.skyfin,AZ,Azerbaijan,2
+android.skyfin,RU,"Russian Federation",40
+android.skyfin,TD,Chad,7
+android.skyfin,RW,Rwanda,1
+android.skyfin,MW,Malawi,9
+android.skyfin,MY,Malaysia,1
+android.skyfin,TZ,Tanzania,22
+android.skyfin,UG,Uganda,5
+android.skyfin,YE,Yemen,343
+android.skyfin,MU,Mauritius,1
+android.skyfin,TN,Tunisia,4
+android.skyfin,MR,Mauritania,2
+android.skyfin,GE,Georgia,1
+android.skyfin,SA,"Saudi Arabia",5
+android.skyfin,NG,Nigeria,71
+android.skyfin,HN,Honduras,1
+android.skyfin,US,"United States",27
+android.skyfin,SG,Singapore,3
+android.skyfin,CM,Cameroon,9
+android.skyfin,GH,Ghana,4
+android.skyfin,IQ,Iraq,9
+android.skyfin,ZA,"South Africa",53
+android.skyfin,DO,"Dominican Republic",4
+android.skyfin,AE,"United Arab Emirates",2
+android.skyfin,KH,Cambodia,1
+android.skyfin,TJ,Tajikistan,18
+android.skyfin,PL,Poland,6
+android.skyfin,MA,Morocco,12
+android.skyfin,CO,Colombia,7
+android.skyfin,SV,"El Salvador",1
+android.skyfin,UK,"United Kingdom",3
+android.skyfin,SD,Sudan,32
+android.skyfin,MX,Mexico,35
+android.skyfin,ML,Mali,16
+android.skyfin,MZ,Mozambique,56
+android.skyfin,AF,Afghanistan,79
+android.skyfin,KZ,Kazakhstan,1
+android.skyfin,NI,Nicaragua,2
+android.skyfin,BG,Bulgaria,3
+android.skyfin,GM,Gambia,3
+android.skyfin,NC,"New Caledonia",1
+android.skyfin,ZW,Zimbabwe,2
+android.skyfin,TH,Thailand,1
+android.smsbot,IE,Ireland,1
+android.smsbot,DE,Germany,16
+android.smsbot,AT,Austria,1
+android.smsbot,EE,Estonia,3
+android.smsbot,HU,Hungary,1
+android.smsbot,IN,India,2
+android.smsbot,KG,Kyrgyzstan,42
+android.smsbot,BY,Belarus,111
+android.smsbot,LV,Latvia,12
+android.smsbot,MK,Macedonia,1
+android.smsbot,IT,Italy,3
+android.smsbot,TM,Turkmenistan,1
+android.smsbot,UA,Ukraine,532
+android.smsbot,CA,Canada,2
+android.smsbot,IL,Israel,10
+android.smsbot,HK,"Hong Kong",1
+android.smsbot,FR,France,2
+android.smsbot,DK,Denmark,1
+android.smsbot,NL,Netherlands,1
+android.smsbot,MD,Moldova,14
+android.smsbot,DZ,Algeria,2
+android.smsbot,LT,Lithuania,2
+android.smsbot,ES,Spain,1
+android.smsbot,US,"United States",20
+android.smsbot,GE,Georgia,21
+android.smsbot,SA,"Saudi Arabia",1
+android.smsbot,SE,Sweden,3
+android.smsbot,UZ,Uzbekistan,188
+android.smsbot,IR,"Iran (Islamic Republic Of)",7
+android.smsbot,FI,Finland,1
+android.smsbot,AZ,Azerbaijan,48
+android.smsbot,RU,"Russian Federation",577
+android.smsbot,AM,Armenia,12
+android.smsbot,ID,Indonesia,1
+android.smsbot,KZ,Kazakhstan,214
+android.smsbot,CN,China,3
+android.smsbot,TH,Thailand,1
+android.smsbot,BE,Belgium,3
+android.smsbot,PL,Poland,6
+android.smsbot,TJ,Tajikistan,41
+android.smsbot,UK,"United Kingdom",4
+android.smsbot,CZ,"Czech Republic",2
+android.smsbot,IQ,Iraq,1
+android.smsbot,SG,Singapore,1
+android.smsbot,KH,Cambodia,1
+android.smsbot,ZA,"South Africa",1
+android.smsspy,FR,France,4
+android.smsspy,NL,Netherlands,1
+android.smsspy,TR,Turkey,2
+android.smsspy,UA,Ukraine,8
+android.smsspy,CA,Canada,1
+android.smsspy,EG,Egypt,5
+android.smsspy,PK,Pakistan,3
+android.smsspy,KG,Kyrgyzstan,31
+android.smsspy,IE,Ireland,1
+android.smsspy,DE,Germany,9
+android.smsspy,HU,Hungary,1
+android.smsspy,TJ,Tajikistan,1503
+android.smsspy,UK,"United Kingdom",3
+android.smsspy,AE,"United Arab Emirates",1
+android.smsspy,LU,Luxembourg,1
+android.smsspy,AF,Afghanistan,2604
+android.smsspy,KZ,Kazakhstan,36
+android.smsspy,BE,Belgium,2
+android.smsspy,JP,Japan,2
+android.smsspy,UZ,Uzbekistan,6420
+android.smsspy,IR,"Iran (Islamic Republic Of)",327
+android.smsspy,RU,"Russian Federation",348
+android.smsspy,LB,Lebanon,245
+android.smsspy,SA,"Saudi Arabia",1
+android.smsspy,GE,Georgia,2
+android.smsspy,US,"United States",14
+android.smsspy,YE,Yemen,214
+android.smsspy.be24,LB,Lebanon,190
+android.smsspy.be24,AM,Armenia,6
+android.smsspy.be24,RU,"Russian Federation",514
+android.smsspy.be24,AZ,Azerbaijan,4
+android.smsspy.be24,IR,"Iran (Islamic Republic Of)",25
+android.smsspy.be24,UZ,Uzbekistan,897
+android.smsspy.be24,RO,Romania,1
+android.smsspy.be24,YE,Yemen,28
+android.smsspy.be24,US,"United States",48
+android.smsspy.be24,GE,Georgia,7
+android.smsspy.be24,SA,"Saudi Arabia",1
+android.smsspy.be24,AE,"United Arab Emirates",2
+android.smsspy.be24,SG,Singapore,5
+android.smsspy.be24,UK,"United Kingdom",2
+android.smsspy.be24,TJ,Tajikistan,1078
+android.smsspy.be24,BE,Belgium,29
+android.smsspy.be24,TW,"Taiwan Province Of China",1
+android.smsspy.be24,SD,Sudan,17
+android.smsspy.be24,AF,Afghanistan,741
+android.smsspy.be24,KZ,Kazakhstan,272
+android.smsspy.be24,LU,Luxembourg,1
+android.smsspy.be24,LV,Latvia,1
+android.smsspy.be24,BY,Belarus,19
+android.smsspy.be24,KG,Kyrgyzstan,48
+android.smsspy.be24,KR,"South Korea",1
+android.smsspy.be24,AT,Austria,2
+android.smsspy.be24,DE,Germany,7
+android.smsspy.be24,LT,Lithuania,6
+android.smsspy.be24,NL,Netherlands,1
+android.smsspy.be24,MD,Moldova,1
+android.smsspy.be24,FR,France,2
+android.smsspy.be24,IL,Israel,2
+android.smsspy.be24,HK,"Hong Kong",27
+android.smsspy.be24,MN,Mongolia,14
+android.smsspy.be24,UA,Ukraine,77
+android.smsspy.be24,TR,Turkey,1
+android.sssaaa,IE,Ireland,1
+android.sssaaa,DE,Germany,2
+android.sssaaa,BE,Belgium,3
+android.sssaaa,SG,Singapore,2
+android.sssaaa,US,"United States",4
+android.sssaaa,SA,"Saudi Arabia",1
+android.sssaaa,RU,"Russian Federation",1
+android.sssaaa,JP,Japan,1
+android.teleplus,TJ,Tajikistan,3
+android.teleplus,PL,Poland,4
+android.teleplus,UK,"United Kingdom",127
+android.teleplus,SG,Singapore,38
+android.teleplus,IQ,Iraq,7
+android.teleplus,ZA,"South Africa",1
+android.teleplus,AE,"United Arab Emirates",6
+android.teleplus,CN,China,795
+android.teleplus,KZ,Kazakhstan,2
+android.teleplus,AF,Afghanistan,198
+android.teleplus,LU,Luxembourg,10
+android.teleplus,TH,Thailand,4
+android.teleplus,SD,Sudan,9
+android.teleplus,TW,"Taiwan Province Of China",2
+android.teleplus,BE,Belgium,2
+android.teleplus,JP,Japan,71
+android.teleplus,RO,Romania,3
+android.teleplus,IR,"Iran (Islamic Republic Of)",3957
+android.teleplus,UZ,Uzbekistan,1179
+android.teleplus,RU,"Russian Federation",53
+android.teleplus,LB,Lebanon,2
+android.teleplus,ID,Indonesia,6
+android.teleplus,NG,Nigeria,22
+android.teleplus,US,"United States",472
+android.teleplus,ES,Spain,1
+android.teleplus,MY,Malaysia,2
+android.teleplus,TZ,Tanzania,1
+android.teleplus,SE,Sweden,11
+android.teleplus,CH,Switzerland,10
+android.teleplus,YE,Yemen,79
+android.teleplus,QA,Qatar,1
+android.teleplus,DK,Denmark,2
+android.teleplus,ET,Ethiopia,814
+android.teleplus,AU,Australia,3
+android.teleplus,FR,France,45
+android.teleplus,PH,Philippines,8
+android.teleplus,KW,Kuwait,1
+android.teleplus,NL,Netherlands,34
+android.teleplus,TR,Turkey,22
+android.teleplus,SY,"Syrian Arab Republic",9
+android.teleplus,UA,Ukraine,5
+android.teleplus,CA,Canada,23
+android.teleplus,EG,Egypt,1
+android.teleplus,HK,"Hong Kong",107
+android.teleplus,IL,Israel,2
+android.teleplus,KG,Kyrgyzstan,14
+android.teleplus,PK,Pakistan,1
+android.teleplus,IT,Italy,3
+android.teleplus,DE,Germany,164
+android.teleplus,IE,Ireland,6
+android.teleplus,KR,"South Korea",40
+android.teleplus,HU,Hungary,8
+android.teleplus,IN,India,15
+android.uupay,GH,Ghana,32
+android.uupay,CM,Cameroon,7
+android.uupay,SG,Singapore,9
+android.uupay,IQ,Iraq,14
+android.uupay,CZ,"Czech Republic",1
+android.uupay,ZA,"South Africa",2
+android.uupay,AE,"United Arab Emirates",1
+android.uupay,KH,Cambodia,1
+android.uupay,TJ,Tajikistan,2
+android.uupay,PL,Poland,4
+android.uupay,MA,Morocco,1
+android.uupay,UK,"United Kingdom",10
+android.uupay,SD,Sudan,11
+android.uupay,ML,Mali,3
+android.uupay,TW,"Taiwan Province Of China",27
+android.uupay,CN,China,14233
+android.uupay,AF,Afghanistan,8
+android.uupay,KZ,Kazakhstan,2
+android.uupay,LU,Luxembourg,1
+android.uupay,CF,"Central African Republic",4
+android.uupay,ZW,Zimbabwe,14
+android.uupay,TH,Thailand,1
+android.uupay,VE,Venezuela,4
+android.uupay,PY,Paraguay,1
+android.uupay,ID,Indonesia,34
+android.uupay,JP,Japan,10
+android.uupay,RO,Romania,1
+android.uupay,BD,Bangladesh,36
+android.uupay,LA,"Lao Peoples Democratic Republic",3
+android.uupay,IR,"Iran (Islamic Republic Of)",618
+android.uupay,UZ,Uzbekistan,6
+android.uupay,RU,"Russian Federation",2
+android.uupay,AZ,Azerbaijan,9
+android.uupay,MW,Malawi,2
+android.uupay,RW,Rwanda,18
+android.uupay,MY,Malaysia,45
+android.uupay,TZ,Tanzania,40
+android.uupay,SE,Sweden,1
+android.uupay,UG,Uganda,12
+android.uupay,NO,Norway,1
+android.uupay,TG,Togo,19
+android.uupay,SR,Suriname,1
+android.uupay,TN,Tunisia,1
+android.uupay,SA,"Saudi Arabia",2
+android.uupay,NG,Nigeria,104
+android.uupay,US,"United States",78
+android.uupay,ES,Spain,1
+android.uupay,MM,Myanmar,101
+android.uupay,SI,Slovenia,1
+android.uupay,NL,Netherlands,11
+android.uupay,VN,"Viet Nam",4
+android.uupay,MG,Madagascar,57
+android.uupay,DZ,Algeria,9
+android.uupay,NE,Niger,15
+android.uupay,ET,Ethiopia,13
+android.uupay,FR,France,7
+android.uupay,AU,Australia,4
+android.uupay,PH,Philippines,29
+android.uupay,BJ,Benin,5
+android.uupay,CA,Canada,7
+android.uupay,MN,Mongolia,8
+android.uupay,EG,Egypt,21
+android.uupay,HK,"Hong Kong",24
+android.uupay,SY,"Syrian Arab Republic",6
+android.uupay,TR,Turkey,1
+android.uupay,PE,Peru,1
+android.uupay,CI,"Cote D Ivoire",2
+android.uupay,MO,Macau,3
+android.uupay,CG,Congo,1
+android.uupay,NP,Nepal,3
+android.uupay,UA,Ukraine,13
+android.uupay,ZM,Zambia,8
+android.uupay,LV,Latvia,1
+android.uupay,BY,Belarus,1
+android.uupay,CU,Cuba,4
+android.uupay,IT,Italy,1
+android.uupay,CD,"Democratic Republic Of The Congo",31
+android.uupay,LK,"Sri Lanka",9
+android.uupay,JO,Jordan,3
+android.uupay,PK,Pakistan,40
+android.uupay,IN,India,52
+android.uupay,DE,Germany,15
+android.uupay,KE,Kenya,23
+android.uupay,LR,Liberia,5
+android.uupay,AR,Argentina,4
+android.uupay,KR,"South Korea",1
+avalanche-dofoil,AZ,Azerbaijan,4
+avalanche-dofoil,RU,"Russian Federation",2
+avalanche-dofoil,UZ,Uzbekistan,1
+avalanche-dofoil,ID,Indonesia,1
+avalanche-dofoil,US,"United States",1
+avalanche-dofoil,MD,Moldova,1
+avalanche-dofoil,UA,Ukraine,3
+avalanche-dofoil,BY,Belarus,2
+avalanche-marcher,US,"United States",35
+avalanche-marcher,SE,Sweden,2
+avalanche-marcher,MY,Malaysia,1
+avalanche-marcher,IR,"Iran (Islamic Republic Of)",1
+avalanche-marcher,BD,Bangladesh,17
+avalanche-marcher,RU,"Russian Federation",4
+avalanche-marcher,ID,Indonesia,1
+avalanche-marcher,CN,China,14
+avalanche-marcher,TW,"Taiwan Province Of China",1
+avalanche-marcher,UK,"United Kingdom",2
+avalanche-marcher,SG,Singapore,3
+avalanche-marcher,IT,Italy,1
+avalanche-marcher,TR,Turkey,2
+avalanche-marcher,ZM,Zambia,8
+avalanche-marcher,CA,Canada,2
+avalanche-marcher,NZ,"New Zealand",3
+avalanche-marcher,FR,France,1
+avalanche-marcher,AU,Australia,18
+avalanche-marcher,NL,Netherlands,7
+avalanche-smartapp,CA,Canada,5
+avalanche-smartapp,TR,Turkey,1
+avalanche-smartapp,NL,Netherlands,2
+avalanche-smartapp,US,"United States",25
+avalanche-smartapp,RU,"Russian Federation",2
+avalanche-smartapp,TW,"Taiwan Province Of China",1
+avalanche-smartapp,CN,China,5
+avalanche-smartapp,SG,Singapore,2
+avalanche-smartapp,UK,"United Kingdom",3
+avalanche-trusteer,UK,"United Kingdom",2
+avalanche-trusteer,SG,Singapore,1
+avalanche-trusteer,BG,Bulgaria,1
+avalanche-trusteer,CN,China,24
+avalanche-trusteer,RU,"Russian Federation",4
+avalanche-trusteer,LB,Lebanon,1
+avalanche-trusteer,ES,Spain,1
+avalanche-trusteer,US,"United States",91
+avalanche-trusteer,SE,Sweden,14
+avalanche-trusteer,FR,France,16
+avalanche-trusteer,NL,Netherlands,2
+avalanche-trusteer,TR,Turkey,2
+avalanche-trusteer,HK,"Hong Kong",3
+avalanche-trusteer,CA,Canada,13
+avalanche-trusteer,AT,Austria,1
+avalanche-trusteer,IE,Ireland,4
+avalanche-trusteer,DE,Germany,3
+avalanche-trusteer,ME,Montenegro,1
+avalanche-trusteer-app,CH,Switzerland,3
+avalanche-trusteer-app,US,"United States",11
+avalanche-trusteer-app,FI,Finland,1
+avalanche-trusteer-app,CN,China,4
+avalanche-trusteer-app,SG,Singapore,4
+avalanche-trusteer-app,IN,India,1
+avalanche-trusteer-app,DE,Germany,2
+avalanche-trusteer-app,TR,Turkey,1
+avalanche-trusteer-app,NL,Netherlands,2
+coinminer,SI,Slovenia,1
+coinminer,NL,Netherlands,5
+coinminer,KW,Kuwait,2
+coinminer,MD,Moldova,47
+coinminer,DZ,Algeria,1
+coinminer,VN,"Viet Nam",10
+coinminer,PG,"Papua New Guinea",3
+coinminer,LT,Lithuania,15
+coinminer,MG,Madagascar,2
+coinminer,FR,France,3
+coinminer,AU,Australia,3
+coinminer,ET,Ethiopia,31
+coinminer,DK,Denmark,1
+coinminer,PH,Philippines,33
+coinminer,SK,"Slovakia (Slovak Republic)",1
+coinminer,MN,Mongolia,71
+coinminer,CL,Chile,3
+coinminer,EG,Egypt,10
+coinminer,CA,Canada,11
+coinminer,IL,Israel,6
+coinminer,HK,"Hong Kong",8
+coinminer,TR,Turkey,53
+coinminer,SY,"Syrian Arab Republic",1
+coinminer,ZM,Zambia,2
+coinminer,UA,Ukraine,1596
+coinminer,NP,Nepal,4
+coinminer,CI,"Cote D Ivoire",4
+coinminer,SL,"Sierra Leone",1
+coinminer,LV,Latvia,13
+coinminer,BY,Belarus,364
+coinminer,EC,Ecuador,2
+coinminer,IT,Italy,15
+coinminer,AO,Angola,1
+coinminer,MK,Macedonia,1
+coinminer,CU,Cuba,2
+coinminer,GR,Greece,6
+coinminer,LK,"Sri Lanka",1
+coinminer,CD,"Democratic Republic Of The Congo",1
+coinminer,JO,Jordan,2
+coinminer,KG,Kyrgyzstan,100
+coinminer,PK,Pakistan,256
+coinminer,HU,Hungary,12
+coinminer,IN,India,634
+coinminer,BW,Botswana,2
+coinminer,RS,Serbia,8
+coinminer,KE,Kenya,17
+coinminer,DE,Germany,18
+coinminer,AL,Albania,1
+coinminer,IE,Ireland,3
+coinminer,KR,"South Korea",10
+coinminer,AR,Argentina,6
+coinminer,EE,Estonia,6
+coinminer,BR,Brazil,26
+coinminer,CZ,"Czech Republic",12
+coinminer,CM,Cameroon,1
+coinminer,SG,Singapore,3
+coinminer,GH,Ghana,10
+coinminer,IQ,Iraq,20
+coinminer,AE,"United Arab Emirates",3
+coinminer,ZA,"South Africa",22
+coinminer,PL,Poland,35
+coinminer,MA,Morocco,9
+coinminer,TJ,Tajikistan,22
+coinminer,CY,Cyprus,3
+coinminer,KI,Kiribati,1
+coinminer,UK,"United Kingdom",13
+coinminer,SD,Sudan,22
+coinminer,BE,Belgium,4
+coinminer,MX,Mexico,4
+coinminer,TW,"Taiwan Province Of China",31
+coinminer,MZ,Mozambique,2
+coinminer,AF,Afghanistan,16
+coinminer,KZ,Kazakhstan,664
+coinminer,CN,China,14
+coinminer,BG,Bulgaria,37
+coinminer,ZW,Zimbabwe,1
+coinminer,TH,Thailand,24
+coinminer,AM,Armenia,48
+coinminer,VE,Venezuela,28
+coinminer,LB,Lebanon,5
+coinminer,ID,Indonesia,26
+coinminer,IR,"Iran (Islamic Republic Of)",392
+coinminer,UZ,Uzbekistan,153
+coinminer,JP,Japan,16
+coinminer,RO,Romania,7
+coinminer,BD,Bangladesh,21
+coinminer,RW,Rwanda,1
+coinminer,MW,Malawi,2
+coinminer,AZ,Azerbaijan,55
+coinminer,RU,"Russian Federation",3777
+coinminer,HR,Croatia,2
+coinminer,MY,Malaysia,1
+coinminer,SE,Sweden,2
+coinminer,OM,Oman,3
+coinminer,TZ,Tanzania,9
+coinminer,PT,Portugal,3
+coinminer,QA,Qatar,1
+coinminer,YE,Yemen,14
+coinminer,NO,Norway,3
+coinminer,AG,"Antigua And Barbuda",3
+coinminer,TN,Tunisia,2
+coinminer,BT,Bhutan,2
+coinminer,US,"United States",73
+coinminer,ES,Spain,2
+coinminer,GE,Georgia,90
+coinminer,NG,Nigeria,18
+coinminer,SA,"Saudi Arabia",6
+dresscode,US,"United States",1
+dresscode,NG,Nigeria,1
+dresscode,RU,"Russian Federation",2
+dresscode,ID,Indonesia,10
+dresscode,AF,Afghanistan,6
+dresscode,ZW,Zimbabwe,2
+dresscode,GN,Guinea,1
+dresscode,MZ,Mozambique,1
+dresscode,PL,Poland,2
+dresscode,SG,Singapore,1
+dresscode,GH,Ghana,4
+dresscode,ZA,"South Africa",18
+dresscode,IN,India,2
+dresscode,LY,"Libyan Arab Jamahiriya",2
+dresscode,GQ,"Equatorial Guinea",1
+dresscode,ET,Ethiopia,1
+dresscode,MM,Myanmar,1
+dresscode,DZ,Algeria,2
+flubot,HR,Croatia,133
+flubot,CH,Switzerland,459
+flubot,MY,Malaysia,4
+flubot,SE,Sweden,50
+flubot,PT,Portugal,43
+flubot,NO,Norway,34
+flubot,SR,Suriname,1
+flubot,TN,Tunisia,2
+flubot,US,"United States",719
+flubot,ES,Spain,3792
+flubot,SA,"Saudi Arabia",5
+flubot,NG,Nigeria,7
+flubot,GE,Georgia,4
+flubot,VE,Venezuela,2
+flubot,LB,Lebanon,3
+flubot,ID,Indonesia,14
+flubot,PY,Paraguay,2
+flubot,IR,"Iran (Islamic Republic Of)",25
+flubot,UZ,Uzbekistan,1
+flubot,RO,Romania,50
+flubot,JP,Japan,8
+flubot,BD,Bangladesh,1
+flubot,CR,"Costa Rica",5
+flubot,FI,Finland,12
+flubot,RU,"Russian Federation",102
+flubot,AZ,Azerbaijan,4
+flubot,MV,Maldives,4
+flubot,MH,"Marshall Islands",6
+flubot,BE,Belgium,247
+flubot,MZ,Mozambique,2
+flubot,SC,Seychelles,2
+flubot,BA,"Bosnia And Herzegovina",9
+flubot,TW,"Taiwan Province Of China",4
+flubot,MX,Mexico,6
+flubot,ML,Mali,2
+flubot,GM,Gambia,3
+flubot,CN,China,82
+flubot,KZ,Kazakhstan,1
+flubot,MT,Malta,1
+flubot,BG,Bulgaria,12
+flubot,LU,Luxembourg,7
+flubot,TH,Thailand,8
+flubot,GN,Guinea,1
+flubot,IS,Iceland,4
+flubot,PA,Panama,1
+flubot,LI,Liechtenstein,2
+flubot,CZ,"Czech Republic",4
+flubot,GH,Ghana,3
+flubot,SG,Singapore,46
+flubot,CM,Cameroon,8
+flubot,IQ,Iraq,2
+flubot,AE,"United Arab Emirates",7
+flubot,DO,"Dominican Republic",2
+flubot,ZA,"South Africa",67
+flubot,PL,Poland,72
+flubot,VG,"British Virgin Islands",2
+flubot,CO,Colombia,2
+flubot,MA,Morocco,24
+flubot,CY,Cyprus,1
+flubot,GI,Gibraltar,1
+flubot,UK,"United Kingdom",848
+flubot,SV,"El Salvador",2
+flubot,ME,Montenegro,3
+flubot,BO,Bolivia,4
+flubot,HU,Hungary,43
+flubot,GT,Guatemala,3
+flubot,IN,India,30
+flubot,RS,Serbia,27
+flubot,DE,Germany,8431
+flubot,IE,Ireland,263
+flubot,AL,Albania,7
+flubot,KR,"South Korea",5
+flubot,UY,Uruguay,3
+flubot,EE,Estonia,4
+flubot,AR,Argentina,8
+flubot,BR,Brazil,9
+flubot,AT,Austria,484
+flubot,LV,Latvia,3
+flubot,BY,Belarus,2
+flubot,SN,Senegal,4
+flubot,IT,Italy,770
+flubot,AO,Angola,3
+flubot,EC,Ecuador,5
+flubot,MK,Macedonia,3
+flubot,GR,Greece,2
+flubot,BH,Bahrain,2
+flubot,LK,"Sri Lanka",1
+flubot,CD,"Democratic Republic Of The Congo",2
+flubot,JO,Jordan,2
+flubot,PK,Pakistan,12
+flubot,SK,"Slovakia (Slovak Republic)",6
+flubot,EG,Egypt,10
+flubot,CL,Chile,2
+flubot,CA,Canada,50
+flubot,IL,Israel,5
+flubot,HK,"Hong Kong",47
+flubot,TR,Turkey,61
+flubot,SY,"Syrian Arab Republic",2
+flubot,NP,Nepal,2
+flubot,UA,Ukraine,7
+flubot,PE,Peru,2
+flubot,SI,Slovenia,7
+flubot,NL,Netherlands,579
+flubot,MD,Moldova,7
+flubot,DZ,Algeria,6
+flubot,VN,"Viet Nam",5
+flubot,MG,Madagascar,2
+flubot,LT,Lithuania,8
+flubot,AU,Australia,633
+flubot,NZ,"New Zealand",155
+flubot,FR,France,138
+flubot,NA,Namibia,1
+flubot,NE,Niger,1
+flubot,DK,Denmark,8
+flubot,PH,Philippines,1
+flubot,CV,"Cape Verde",1
+ghost-push,KE,Kenya,2
+kasidet,DE,Germany,14
+kasidet,IE,Ireland,1
+kasidet,KR,"South Korea",1
+kasidet,AR,Argentina,48
+kasidet,BR,Brazil,9
+kasidet,ME,Montenegro,1
+kasidet,BO,Bolivia,9
+kasidet,IN,India,48
+kasidet,LK,"Sri Lanka",2
+kasidet,LY,"Libyan Arab Jamahiriya",5
+kasidet,JO,Jordan,15
+kasidet,BY,Belarus,1
+kasidet,IT,Italy,1
+kasidet,BH,Bahrain,21
+kasidet,TR,Turkey,2
+kasidet,NP,Nepal,1
+kasidet,UA,Ukraine,16
+kasidet,PE,Peru,1
+kasidet,MN,Mongolia,5
+kasidet,CL,Chile,6
+kasidet,EG,Egypt,4
+kasidet,CA,Canada,6
+kasidet,IL,Israel,1
+kasidet,HK,"Hong Kong",3
+kasidet,FR,France,1
+kasidet,AU,Australia,4
+kasidet,NA,Namibia,3
+kasidet,PH,Philippines,9
+kasidet,NL,Netherlands,4
+kasidet,MD,Moldova,3
+kasidet,MM,Myanmar,8
+kasidet,DZ,Algeria,27
+kasidet,VN,"Viet Nam",6
+kasidet,TN,Tunisia,6
+kasidet,US,"United States",23
+kasidet,ES,Spain,2
+kasidet,SA,"Saudi Arabia",15
+kasidet,GE,Georgia,2
+kasidet,MY,Malaysia,33
+kasidet,OM,Oman,4
+kasidet,SE,Sweden,2
+kasidet,QA,Qatar,1
+kasidet,IR,"Iran (Islamic Republic Of)",18
+kasidet,LA,"Lao Peoples Democratic Republic",6
+kasidet,UZ,Uzbekistan,2
+kasidet,JP,Japan,2
+kasidet,RO,Romania,3
+kasidet,RU,"Russian Federation",64
+kasidet,AM,Armenia,1
+kasidet,VE,Venezuela,2
+kasidet,ID,Indonesia,29
+kasidet,PY,Paraguay,4
+kasidet,CN,China,3
+kasidet,KZ,Kazakhstan,2
+kasidet,TH,Thailand,11
+kasidet,SD,Sudan,1
+kasidet,BE,Belgium,2
+kasidet,SC,Seychelles,1
+kasidet,MX,Mexico,15
+kasidet,PL,Poland,1
+kasidet,MA,Morocco,9
+kasidet,CO,Colombia,8
+kasidet,UK,"United Kingdom",1
+kasidet,CZ,"Czech Republic",1
+kasidet,SG,Singapore,2
+kasidet,IQ,Iraq,48
+kasidet,AE,"United Arab Emirates",3
+kasidet,KH,Cambodia,1
+kasidet,ZA,"South Africa",1
+linux.backdoor.setag,US,"United States",1
+marcher,NL,Netherlands,2
+marcher,NZ,"New Zealand",3
+marcher,FR,France,1
+marcher,AU,Australia,18
+marcher,CA,Canada,2
+marcher,ZM,Zambia,8
+marcher,SG,Singapore,3
+marcher,UK,"United Kingdom",2
+marcher,TW,"Taiwan Province Of China",1
+marcher,CN,China,14
+marcher,ID,Indonesia,1
+marcher,RU,"Russian Federation",4
+marcher,BD,Bangladesh,17
+marcher,IR,"Iran (Islamic Republic Of)",1
+marcher,MY,Malaysia,1
+marcher,SE,Sweden,2
+marcher,US,"United States",30
+mirai,LB,Lebanon,21
+mirai,ID,Indonesia,149
+mirai,PY,Paraguay,23
+mirai,AM,Armenia,119
+mirai,PF,"French Polynesia",11
+mirai,VE,Venezuela,147
+mirai,FI,Finland,33
+mirai,CW,Curacao,3
+mirai,RU,"Russian Federation",3463
+mirai,AZ,Azerbaijan,6
+mirai,PM,"St. Pierre And Miquelon",1
+mirai,IR,"Iran (Islamic Republic Of)",1250
+mirai,LA,"Lao Peoples Democratic Republic",2
+mirai,UZ,Uzbekistan,16
+mirai,RO,Romania,246
+mirai,JP,Japan,551
+mirai,GF,"French Guiana",1
+mirai,CR,"Costa Rica",35
+mirai,BD,Bangladesh,33
+mirai,GP,Guadeloupe,2
+mirai,PT,Portugal,136
+mirai,QA,Qatar,21
+mirai,YE,Yemen,13
+mirai,NO,Norway,80
+mirai,MU,Mauritius,9
+mirai,UG,Uganda,1
+mirai,HR,Croatia,4
+mirai,CH,Switzerland,21
+mirai,MY,Malaysia,276
+mirai,SE,Sweden,544
+mirai,TZ,Tanzania,3
+mirai,BB,Barbados,4
+mirai,OM,Oman,1
+mirai,US,"United States",2516
+mirai,HN,Honduras,26
+mirai,ES,Spain,447
+mirai,GE,Georgia,26
+mirai,NG,Nigeria,2
+mirai,SA,"Saudi Arabia",79
+mirai,BS,Bahamas,5
+mirai,TN,Tunisia,114
+mirai,DO,"Dominican Republic",2164
+mirai,KH,Cambodia,237
+mirai,AE,"United Arab Emirates",24
+mirai,ZA,"South Africa",118
+mirai,PA,Panama,137
+mirai,IS,Iceland,3
+mirai,CZ,"Czech Republic",44
+mirai,SG,Singapore,158
+mirai,GH,Ghana,3
+mirai,PR,"Puerto Rico",11
+mirai,IQ,Iraq,4
+mirai,SV,"El Salvador",5
+mirai,UK,"United Kingdom",308
+mirai,PL,Poland,370
+mirai,MA,Morocco,144
+mirai,CO,Colombia,156
+mirai,TJ,Tajikistan,3
+mirai,CY,Cyprus,23
+mirai,BN,"Brunei Darussalam",3
+mirai,BE,Belgium,56
+mirai,AD,Andorra,2
+mirai,JM,Jamaica,12
+mirai,TW,"Taiwan Province Of China",2191
+mirai,BF,"Burkina Faso",3
+mirai,MX,Mexico,874
+mirai,MZ,Mozambique,1
+mirai,BA,"Bosnia And Herzegovina",14
+mirai,GU,Guam,4
+mirai,SD,Sudan,3
+mirai,MV,Maldives,1
+mirai,SZ,Swaziland,1
+mirai,FJ,Fiji,3
+mirai,ZW,Zimbabwe,2
+mirai,TH,Thailand,232
+mirai,MT,Malta,6
+mirai,KZ,Kazakhstan,128
+mirai,CN,China,18740
+mirai,NI,Nicaragua,1
+mirai,LU,Luxembourg,3
+mirai,BG,Bulgaria,149
+mirai,EC,Ecuador,444
+mirai,IT,Italy,590
+mirai,AO,Angola,12
+mirai,MK,Macedonia,143
+mirai,GR,Greece,106
+mirai,CU,Cuba,1
+mirai,BH,Bahrain,6
+mirai,TL,Timor-Leste,1
+mirai,LV,Latvia,54
+mirai,BY,Belarus,21
+mirai,SN,Senegal,4
+mirai,JO,Jordan,27
+mirai,KG,Kyrgyzstan,3
+mirai,PK,Pakistan,1348
+mirai,LY,"Libyan Arab Jamahiriya",16
+mirai,LK,"Sri Lanka",11
+mirai,IN,India,4192
+mirai,GT,Guatemala,6
+mirai,PS,"Palestinian Territories",17
+mirai,ME,Montenegro,6
+mirai,HU,Hungary,88
+mirai,BO,Bolivia,27
+mirai,UY,Uruguay,157
+mirai,KR,"South Korea",2314
+mirai,AR,Argentina,668
+mirai,LR,Liberia,37
+mirai,EE,Estonia,4
+mirai,AT,Austria,17
+mirai,BR,Brazil,2463
+mirai,RS,Serbia,54
+mirai,KE,Kenya,16
+mirai,DE,Germany,1344
+mirai,IE,Ireland,31
+mirai,AL,Albania,18
+mirai,DZ,Algeria,228
+mirai,DM,Dominica,1
+mirai,VN,"Viet Nam",906
+mirai,LT,Lithuania,62
+mirai,MG,Madagascar,1
+mirai,SI,Slovenia,31
+mirai,RE,Reunion,23
+mirai,NL,Netherlands,104
+mirai,KN,"Saint Kitts And Nevis",3
+mirai,GD,Grenada,1
+mirai,MD,Moldova,30
+mirai,KW,Kuwait,19
+mirai,TT,"Trinidad And Tobago",29
+mirai,PH,Philippines,40
+mirai,CV,"Cape Verde",6
+mirai,FR,France,388
+mirai,NZ,"New Zealand",22
+mirai,AU,Australia,178
+mirai,ET,Ethiopia,54
+mirai,NA,Namibia,2
+mirai,DK,Denmark,39
+mirai,IL,Israel,246
+mirai,HK,"Hong Kong",1200
+mirai,SK,"Slovakia (Slovak Republic)",17
+mirai,MN,Mongolia,7
+mirai,CL,Chile,460
+mirai,EG,Egypt,3885
+mirai,BJ,Benin,1
+mirai,CA,Canada,414
+mirai,MQ,Martinique,4
+mirai,ZM,Zambia,2
+mirai,UA,Ukraine,465
+mirai,NP,Nepal,7
+mirai,PE,Peru,11
+mirai,CI,"Cote D Ivoire",12
+mirai,CG,Congo,52
+mirai,MO,Macau,41
+mirai,TR,Turkey,645
+mirai,SY,"Syrian Arab Republic",6
+mirai,TM,Turkmenistan,1
+mkero,NO,Norway,1
+mkero,CH,Switzerland,1
+mkero,SE,Sweden,1
+mkero,ES,Spain,2
+mkero,US,"United States",38
+mkero,SA,"Saudi Arabia",3
+mkero,GE,Georgia,8
+mkero,AG,"Antigua And Barbuda",1
+mkero,LB,Lebanon,147
+mkero,AM,Armenia,12
+mkero,FI,Finland,1
+mkero,AZ,Azerbaijan,61
+mkero,RU,"Russian Federation",2664
+mkero,UZ,Uzbekistan,5102
+mkero,IR,"Iran (Islamic Republic Of)",488
+mkero,RO,Romania,1
+mkero,BE,Belgium,1
+mkero,SD,Sudan,200
+mkero,BG,Bulgaria,1
+mkero,CN,China,3
+mkero,KZ,Kazakhstan,727
+mkero,AF,Afghanistan,880
+mkero,AE,"United Arab Emirates",1
+mkero,ER,Eritrea,3
+mkero,CZ,"Czech Republic",1
+mkero,IQ,Iraq,5
+mkero,UK,"United Kingdom",5
+mkero,PL,Poland,11
+mkero,TJ,Tajikistan,1646
+mkero,IN,India,1
+mkero,AT,Austria,3
+mkero,BR,Brazil,1
+mkero,EE,Estonia,2
+mkero,RS,Serbia,1
+mkero,IE,Ireland,1
+mkero,DE,Germany,26
+mkero,IT,Italy,4
+mkero,GR,Greece,2
+mkero,CU,Cuba,1741
+mkero,BY,Belarus,232
+mkero,LV,Latvia,3
+mkero,PK,Pakistan,1
+mkero,KG,Kyrgyzstan,261
+mkero,LY,"Libyan Arab Jamahiriya",21
+mkero,EG,Egypt,6
+mkero,MN,Mongolia,15
+mkero,SK,"Slovakia (Slovak Republic)",1
+mkero,CA,Canada,4
+mkero,UA,Ukraine,581
+mkero,TM,Turkmenistan,2
+mkero,TR,Turkey,1
+mkero,SY,"Syrian Arab Republic",18
+mkero,LT,Lithuania,1
+mkero,NL,Netherlands,12
+mkero,MD,Moldova,5
+mkero,KW,Kuwait,1
+mkero,ET,Ethiopia,28
+mkero,FR,France,10
+poseidon,IE,Ireland,2
+poseidon,DE,Germany,3
+poseidon,MC,Monaco,1
+poseidon,UA,Ukraine,1
+poseidon,TR,Turkey,1
+poseidon,HK,"Hong Kong",1
+poseidon,EG,Egypt,1
+poseidon,CA,Canada,58
+poseidon,TT,"Trinidad And Tobago",1
+poseidon,FR,France,1
+poseidon,NL,Netherlands,36
+poseidon,ES,Spain,2
+poseidon,US,"United States",490
+poseidon,BS,Bahamas,1
+poseidon,CH,Switzerland,1
+poseidon,SE,Sweden,1
+poseidon,RU,"Russian Federation",13
+poseidon,BE,Belgium,1
+poseidon,TW,"Taiwan Province Of China",1
+poseidon,UK,"United Kingdom",7
+poseidon,PL,Poland,2
+poseidon,LI,Liechtenstein,1
+poseidon,PR,"Puerto Rico",1
+poseidon,SG,Singapore,2
+qsnatch,AF,Afghanistan,1
+qsnatch,SC,Seychelles,1
+qsnatch,TW,"Taiwan Province Of China",1
+qsnatch,BE,Belgium,1
+qsnatch,IR,"Iran (Islamic Republic Of)",1
+qsnatch,US,"United States",9
+qsnatch,CA,Canada,1
+qsnatch,IE,Ireland,1
+qsnatch,DE,Germany,1
+ssh-brute-force,SN,Senegal,2
+ssh-brute-force,LV,Latvia,4
+ssh-brute-force,BY,Belarus,9
+ssh-brute-force,GR,Greece,5
+ssh-brute-force,BH,Bahrain,3
+ssh-brute-force,EC,Ecuador,4
+ssh-brute-force,IT,Italy,74
+ssh-brute-force,LK,"Sri Lanka",2
+ssh-brute-force,KG,Kyrgyzstan,2
+ssh-brute-force,PK,Pakistan,12
+ssh-brute-force,BO,Bolivia,2
+ssh-brute-force,HU,Hungary,9
+ssh-brute-force,PS,"Palestinian Territories",3
+ssh-brute-force,IN,India,113
+ssh-brute-force,GT,Guatemala,1
+ssh-brute-force,BW,Botswana,1
+ssh-brute-force,KE,Kenya,11
+ssh-brute-force,DE,Germany,234
+ssh-brute-force,IE,Ireland,6
+ssh-brute-force,RS,Serbia,1
+ssh-brute-force,AR,Argentina,28
+ssh-brute-force,EE,Estonia,1
+ssh-brute-force,BR,Brazil,241
+ssh-brute-force,AT,Austria,14
+ssh-brute-force,UY,Uruguay,4
+ssh-brute-force,KR,"South Korea",102
+ssh-brute-force,KW,Kuwait,4
+ssh-brute-force,MD,Moldova,5
+ssh-brute-force,RE,Reunion,1
+ssh-brute-force,NL,Netherlands,158
+ssh-brute-force,VN,"Viet Nam",79
+ssh-brute-force,LT,Lithuania,31
+ssh-brute-force,DK,Denmark,13
+ssh-brute-force,NZ,"New Zealand",1
+ssh-brute-force,AU,Australia,32
+ssh-brute-force,FR,France,126
+ssh-brute-force,ET,Ethiopia,1
+ssh-brute-force,PH,Philippines,4
+ssh-brute-force,CA,Canada,63
+ssh-brute-force,SK,"Slovakia (Slovak Republic)",4
+ssh-brute-force,MN,Mongolia,1
+ssh-brute-force,BZ,Belize,3
+ssh-brute-force,EG,Egypt,4
+ssh-brute-force,CL,Chile,18
+ssh-brute-force,HK,"Hong Kong",87
+ssh-brute-force,IL,Israel,7
+ssh-brute-force,SY,"Syrian Arab Republic",1
+ssh-brute-force,TR,Turkey,12
+ssh-brute-force,CI,"Cote D Ivoire",4
+ssh-brute-force,PE,Peru,4
+ssh-brute-force,MO,Macau,2
+ssh-brute-force,ZM,Zambia,3
+ssh-brute-force,MQ,Martinique,1
+ssh-brute-force,UA,Ukraine,28
+ssh-brute-force,VE,Venezuela,5
+ssh-brute-force,PY,Paraguay,3
+ssh-brute-force,ID,Indonesia,44
+ssh-brute-force,RO,Romania,24
+ssh-brute-force,JP,Japan,53
+ssh-brute-force,CR,"Costa Rica",1
+ssh-brute-force,BD,Bangladesh,2
+ssh-brute-force,IR,"Iran (Islamic Republic Of)",12
+ssh-brute-force,UZ,Uzbekistan,2
+ssh-brute-force,RU,"Russian Federation",138
+ssh-brute-force,AZ,Azerbaijan,1
+ssh-brute-force,FI,Finland,3
+ssh-brute-force,MY,Malaysia,15
+ssh-brute-force,SE,Sweden,35
+ssh-brute-force,TZ,Tanzania,2
+ssh-brute-force,OM,Oman,1
+ssh-brute-force,CH,Switzerland,16
+ssh-brute-force,HR,Croatia,4
+ssh-brute-force,NO,Norway,4
+ssh-brute-force,MU,Mauritius,1
+ssh-brute-force,PT,Portugal,16
+ssh-brute-force,AG,"Antigua And Barbuda",1
+ssh-brute-force,TN,Tunisia,3
+ssh-brute-force,SR,Suriname,1
+ssh-brute-force,GE,Georgia,1
+ssh-brute-force,SA,"Saudi Arabia",4
+ssh-brute-force,US,"United States",1384
+ssh-brute-force,ES,Spain,51
+ssh-brute-force,SG,Singapore,125
+ssh-brute-force,PR,"Puerto Rico",1
+ssh-brute-force,PA,Panama,4
+ssh-brute-force,IS,Iceland,6
+ssh-brute-force,CZ,"Czech Republic",9
+ssh-brute-force,ZA,"South Africa",7
+ssh-brute-force,DO,"Dominican Republic",3
+ssh-brute-force,KH,Cambodia,3
+ssh-brute-force,AE,"United Arab Emirates",7
+ssh-brute-force,TJ,Tajikistan,1
+ssh-brute-force,CY,Cyprus,2
+ssh-brute-force,BN,"Brunei Darussalam",1
+ssh-brute-force,PL,Poland,38
+ssh-brute-force,MA,Morocco,1
+ssh-brute-force,CO,Colombia,22
+ssh-brute-force,EU,"Europe (Unknown Country)",1
+ssh-brute-force,UK,"United Kingdom",89
+ssh-brute-force,MX,Mexico,51
+ssh-brute-force,TW,"Taiwan Province Of China",28
+ssh-brute-force,BA,"Bosnia And Herzegovina",2
+ssh-brute-force,SC,Seychelles,2
+ssh-brute-force,BE,Belgium,24
+ssh-brute-force,AD,Andorra,1
+ssh-brute-force,JM,Jamaica,1
+ssh-brute-force,KZ,Kazakhstan,4
+ssh-brute-force,CN,China,1141
+ssh-brute-force,KM,Comoros,1
+ssh-brute-force,LU,Luxembourg,50
+ssh-brute-force,BG,Bulgaria,9
+ssh-brute-force,ZW,Zimbabwe,1
+ssh-brute-force,TH,Thailand,35
+telnet-brute-force,NA,Namibia,1
+telnet-brute-force,NZ,"New Zealand",14
+telnet-brute-force,AU,Australia,60
+telnet-brute-force,FR,France,143
+telnet-brute-force,ET,Ethiopia,36
+telnet-brute-force,DK,Denmark,15
+telnet-brute-force,TT,"Trinidad And Tobago",13
+telnet-brute-force,PH,Philippines,15
+telnet-brute-force,BI,Burundi,8
+telnet-brute-force,NL,Netherlands,82
+telnet-brute-force,SI,Slovenia,17
+telnet-brute-force,RE,Reunion,9
+telnet-brute-force,KW,Kuwait,9
+telnet-brute-force,MM,Myanmar,2
+telnet-brute-force,MD,Moldova,43
+telnet-brute-force,DZ,Algeria,6
+telnet-brute-force,LT,Lithuania,31
+telnet-brute-force,MG,Madagascar,4
+telnet-brute-force,DM,Dominica,1
+telnet-brute-force,VN,"Viet Nam",341
+telnet-brute-force,TR,Turkey,209
+telnet-brute-force,ZM,Zambia,1
+telnet-brute-force,NP,Nepal,12
+telnet-brute-force,UA,Ukraine,274
+telnet-brute-force,CG,Congo,2
+telnet-brute-force,MO,Macau,4
+telnet-brute-force,PE,Peru,10
+telnet-brute-force,CI,"Cote D Ivoire",4
+telnet-brute-force,CL,Chile,138
+telnet-brute-force,EG,Egypt,662
+telnet-brute-force,SK,"Slovakia (Slovak Republic)",21
+telnet-brute-force,MN,Mongolia,3
+telnet-brute-force,CA,Canada,69
+telnet-brute-force,IL,Israel,80
+telnet-brute-force,HT,Haiti,1
+telnet-brute-force,GQ,"Equatorial Guinea",1
+telnet-brute-force,HK,"Hong Kong",82
+telnet-brute-force,LY,"Libyan Arab Jamahiriya",2
+telnet-brute-force,LK,"Sri Lanka",3
+telnet-brute-force,CD,"Democratic Republic Of The Congo",2
+telnet-brute-force,PK,Pakistan,336
+telnet-brute-force,JO,Jordan,4
+telnet-brute-force,KG,Kyrgyzstan,7
+telnet-brute-force,BY,Belarus,10
+telnet-brute-force,TL,Timor-Leste,1
+telnet-brute-force,LV,Latvia,21
+telnet-brute-force,MK,Macedonia,59
+telnet-brute-force,EC,Ecuador,42
+telnet-brute-force,IT,Italy,256
+telnet-brute-force,AO,Angola,1
+telnet-brute-force,GR,Greece,64
+telnet-brute-force,BH,Bahrain,25
+telnet-brute-force,RS,Serbia,40
+telnet-brute-force,IE,Ireland,9
+telnet-brute-force,AL,Albania,23
+telnet-brute-force,KE,Kenya,35
+telnet-brute-force,DE,Germany,113
+telnet-brute-force,UY,Uruguay,23
+telnet-brute-force,KR,"South Korea",926
+telnet-brute-force,BR,Brazil,1038
+telnet-brute-force,AT,Austria,18
+telnet-brute-force,AR,Argentina,191
+telnet-brute-force,EE,Estonia,3
+telnet-brute-force,PW,Palau,5
+telnet-brute-force,ME,Montenegro,3
+telnet-brute-force,BO,Bolivia,5
+telnet-brute-force,HU,Hungary,63
+telnet-brute-force,BW,Botswana,4
+telnet-brute-force,IN,India,1166
+telnet-brute-force,GT,Guatemala,5
+telnet-brute-force,PS,"Palestinian Territories",58
+telnet-brute-force,MA,Morocco,28
+telnet-brute-force,CO,Colombia,98
+telnet-brute-force,PL,Poland,127
+telnet-brute-force,TJ,Tajikistan,1
+telnet-brute-force,SO,Somalia,2
+telnet-brute-force,CY,Cyprus,5
+telnet-brute-force,BN,"Brunei Darussalam",1
+telnet-brute-force,SV,"El Salvador",1
+telnet-brute-force,UK,"United Kingdom",163
+telnet-brute-force,CZ,"Czech Republic",37
+telnet-brute-force,PA,Panama,11
+telnet-brute-force,IS,Iceland,2
+telnet-brute-force,PR,"Puerto Rico",4
+telnet-brute-force,IQ,Iraq,20
+telnet-brute-force,SG,Singapore,88
+telnet-brute-force,CM,Cameroon,12
+telnet-brute-force,GH,Ghana,5
+telnet-brute-force,DO,"Dominican Republic",11
+telnet-brute-force,KH,Cambodia,159
+telnet-brute-force,AE,"United Arab Emirates",12
+telnet-brute-force,ZA,"South Africa",88
+telnet-brute-force,LU,Luxembourg,4
+telnet-brute-force,NI,Nicaragua,3
+telnet-brute-force,BG,Bulgaria,68
+telnet-brute-force,KY,"Cayman Islands",1
+telnet-brute-force,MT,Malta,3
+telnet-brute-force,KZ,Kazakhstan,34
+telnet-brute-force,AF,Afghanistan,5
+telnet-brute-force,CN,China,6230
+telnet-brute-force,TH,Thailand,70
+telnet-brute-force,ZW,Zimbabwe,2
+telnet-brute-force,CF,"Central African Republic",1
+telnet-brute-force,SD,Sudan,2
+telnet-brute-force,MV,Maldives,4
+telnet-brute-force,JM,Jamaica,6
+telnet-brute-force,BE,Belgium,49
+telnet-brute-force,AD,Andorra,1
+telnet-brute-force,MX,Mexico,956
+telnet-brute-force,TW,"Taiwan Province Of China",730
+telnet-brute-force,BF,"Burkina Faso",3
+telnet-brute-force,ML,Mali,1
+telnet-brute-force,SC,Seychelles,3
+telnet-brute-force,BA,"Bosnia And Herzegovina",9
+telnet-brute-force,UZ,Uzbekistan,2
+telnet-brute-force,LA,"Lao Peoples Democratic Republic",2
+telnet-brute-force,IR,"Iran (Islamic Republic Of)",486
+telnet-brute-force,CR,"Costa Rica",10
+telnet-brute-force,BD,Bangladesh,86
+telnet-brute-force,JP,Japan,183
+telnet-brute-force,RO,Romania,84
+telnet-brute-force,RW,Rwanda,1
+telnet-brute-force,MW,Malawi,2
+telnet-brute-force,FI,Finland,12
+telnet-brute-force,RU,"Russian Federation",1063
+telnet-brute-force,AZ,Azerbaijan,6
+telnet-brute-force,CW,Curacao,1
+telnet-brute-force,AM,Armenia,12
+telnet-brute-force,VE,Venezuela,64
+telnet-brute-force,ID,Indonesia,219
+telnet-brute-force,PY,Paraguay,17
+telnet-brute-force,LB,Lebanon,12
+telnet-brute-force,BS,Bahamas,1
+telnet-brute-force,AW,Aruba,2
+telnet-brute-force,TN,Tunisia,27
+telnet-brute-force,SR,Suriname,4
+telnet-brute-force,ES,Spain,157
+telnet-brute-force,US,"United States",1703
+telnet-brute-force,HN,Honduras,36
+telnet-brute-force,GE,Georgia,19
+telnet-brute-force,NG,Nigeria,16
+telnet-brute-force,SA,"Saudi Arabia",16
+telnet-brute-force,UG,Uganda,3
+telnet-brute-force,HR,Croatia,10
+telnet-brute-force,CH,Switzerland,11
+telnet-brute-force,SE,Sweden,95
+telnet-brute-force,TZ,Tanzania,5
+telnet-brute-force,BB,Barbados,3
+telnet-brute-force,MY,Malaysia,74
+telnet-brute-force,PT,Portugal,38
+telnet-brute-force,QA,Qatar,4
+telnet-brute-force,GP,Guadeloupe,1
+telnet-brute-force,MU,Mauritius,2
+telnet-brute-force,YE,Yemen,2
+telnet-brute-force,NO,Norway,32
+trickbot-iot-c2,RU,"Russian Federation",8
+trickbot-iot-c2,BD,Bangladesh,2
+trickbot-iot-c2,CR,"Costa Rica",1
+trickbot-iot-c2,IR,"Iran (Islamic Republic Of)",4
+trickbot-iot-c2,ID,Indonesia,12
+trickbot-iot-c2,GE,Georgia,1
+trickbot-iot-c2,US,"United States",6
+trickbot-iot-c2,UK,"United Kingdom",1
+trickbot-iot-c2,CO,Colombia,4
+trickbot-iot-c2,ZA,"South Africa",1
+trickbot-iot-c2,KH,Cambodia,4
+trickbot-iot-c2,TH,Thailand,3
+trickbot-iot-c2,BG,Bulgaria,2
+trickbot-iot-c2,TW,"Taiwan Province Of China",1
+trickbot-iot-c2,KG,Kyrgyzstan,1
+trickbot-iot-c2,EC,Ecuador,4
+trickbot-iot-c2,AO,Angola,1
+trickbot-iot-c2,BR,Brazil,8
+trickbot-iot-c2,AR,Argentina,2
+trickbot-iot-c2,AL,Albania,1
+trickbot-iot-c2,KE,Kenya,2
+trickbot-iot-c2,RS,Serbia,1
+trickbot-iot-c2,IN,India,5
+trickbot-iot-c2,BO,Bolivia,1
+trickbot-iot-c2,ME,Montenegro,1
+trickbot-iot-c2,FR,France,1
+trickbot-iot-c2,VN,"Viet Nam",4
+trickbot-iot-c2,PE,Peru,1
+trickbot-iot-c2,NP,Nepal,1
+trickbot-iot-c2,UA,Ukraine,1
+trickbot-iot-c2,SY,"Syrian Arab Republic",1
+trickbot-iot-c2,TR,Turkey,1
+trickbot-iot-c2,CL,Chile,1
+unityminer,GR,Greece,25
+unityminer,IT,Italy,129
+unityminer,LV,Latvia,3
+unityminer,IN,India,65
+unityminer,HU,Hungary,4
+unityminer,MC,Monaco,1
+unityminer,AT,Austria,27
+unityminer,AR,Argentina,2
+unityminer,KR,"South Korea",148
+unityminer,IE,Ireland,1
+unityminer,DE,Germany,191
+unityminer,RS,Serbia,8
+unityminer,LT,Lithuania,4
+unityminer,VN,"Viet Nam",1
+unityminer,NL,Netherlands,137
+unityminer,SI,Slovenia,4
+unityminer,PH,Philippines,3
+unityminer,DK,Denmark,6
+unityminer,NZ,"New Zealand",14
+unityminer,FR,France,426
+unityminer,AU,Australia,100
+unityminer,HK,"Hong Kong",154
+unityminer,IL,Israel,21
+unityminer,CA,Canada,180
+unityminer,CL,Chile,43
+unityminer,SK,"Slovakia (Slovak Republic)",3
+unityminer,MO,Macau,6
+unityminer,PE,Peru,3
+unityminer,CI,"Cote D Ivoire",4
+unityminer,UA,Ukraine,3
+unityminer,TR,Turkey,8
+unityminer,ID,Indonesia,94
+unityminer,RU,"Russian Federation",72
+unityminer,FI,Finland,98
+unityminer,JP,Japan,234
+unityminer,RO,Romania,4
+unityminer,IR,"Iran (Islamic Republic Of)",7
+unityminer,NO,Norway,22
+unityminer,PT,Portugal,87
+unityminer,SE,Sweden,22
+unityminer,MY,Malaysia,3
+unityminer,CH,Switzerland,34
+unityminer,SA,"Saudi Arabia",6
+unityminer,ES,Spain,61
+unityminer,US,"United States",1452
+unityminer,AW,Aruba,2
+unityminer,ZA,"South Africa",8
+unityminer,AE,"United Arab Emirates",2
+unityminer,PR,"Puerto Rico",5
+unityminer,SG,Singapore,187
+unityminer,CZ,"Czech Republic",15
+unityminer,PA,Panama,2
+unityminer,UK,"United Kingdom",296
+unityminer,CO,Colombia,12
+unityminer,PL,Poland,98
+unityminer,MX,Mexico,14
+unityminer,TW,"Taiwan Province Of China",1057
+unityminer,BE,Belgium,168
+unityminer,TH,Thailand,47
+unityminer,LU,Luxembourg,1
+unityminer,BG,Bulgaria,14
+unityminer,MT,Malta,1
+unityminer,CN,China,365
+vpnfilter,NO,Norway,1
+vpnfilter,PT,Portugal,12
+vpnfilter,GP,Guadeloupe,2
+vpnfilter,SE,Sweden,25
+vpnfilter,HR,Croatia,1
+vpnfilter,CH,Switzerland,20
+vpnfilter,GE,Georgia,1
+vpnfilter,ES,Spain,35
+vpnfilter,US,"United States",484
+vpnfilter,IM,"Isle Of Man",2
+vpnfilter,ID,Indonesia,19
+vpnfilter,RU,"Russian Federation",80
+vpnfilter,FI,Finland,2
+vpnfilter,BD,Bangladesh,28
+vpnfilter,CR,"Costa Rica",1
+vpnfilter,JP,Japan,61
+vpnfilter,RO,Romania,7
+vpnfilter,MZ,Mozambique,1
+vpnfilter,MX,Mexico,1
+vpnfilter,TW,"Taiwan Province Of China",162
+vpnfilter,AD,Andorra,1
+vpnfilter,BE,Belgium,18
+vpnfilter,NC,"New Caledonia",3
+vpnfilter,TH,Thailand,5
+vpnfilter,BG,Bulgaria,4
+vpnfilter,LU,Luxembourg,1
+vpnfilter,CN,China,9
+vpnfilter,KZ,Kazakhstan,2
+vpnfilter,ZA,"South Africa",18
+vpnfilter,AE,"United Arab Emirates",3
+vpnfilter,IQ,Iraq,1
+vpnfilter,PR,"Puerto Rico",2
+vpnfilter,SG,Singapore,10
+vpnfilter,CZ,"Czech Republic",28
+vpnfilter,IS,Iceland,1
+vpnfilter,GY,Guyana,1
+vpnfilter,UK,"United Kingdom",218
+vpnfilter,CY,Cyprus,2
+vpnfilter,PL,Poland,59
+vpnfilter,PS,"Palestinian Territories",2
+vpnfilter,IN,India,5
+vpnfilter,HU,Hungary,14
+vpnfilter,BR,Brazil,4
+vpnfilter,AT,Austria,33
+vpnfilter,EE,Estonia,1
+vpnfilter,AR,Argentina,1
+vpnfilter,KR,"South Korea",38
+vpnfilter,IE,Ireland,6
+vpnfilter,DE,Germany,124
+vpnfilter,RS,Serbia,3
+vpnfilter,GR,Greece,3
+vpnfilter,IT,Italy,338
+vpnfilter,BY,Belarus,2
+vpnfilter,LV,Latvia,1
+vpnfilter,LY,"Libyan Arab Jamahiriya",4
+vpnfilter,HK,"Hong Kong",56
+vpnfilter,IL,Israel,15
+vpnfilter,CA,Canada,112
+vpnfilter,CL,Chile,2
+vpnfilter,EG,Egypt,5
+vpnfilter,SK,"Slovakia (Slovak Republic)",7
+vpnfilter,UA,Ukraine,584
+vpnfilter,TR,Turkey,3
+vpnfilter,LT,Lithuania,1
+vpnfilter,NL,Netherlands,89
+vpnfilter,SI,Slovenia,5
+vpnfilter,PH,Philippines,1
+vpnfilter,BM,Bermuda,1
+vpnfilter,DK,Denmark,20
+vpnfilter,NZ,"New Zealand",2
+vpnfilter,FR,France,223
+vpnfilter,AU,Australia,96
+CVE-2009-0545,CN,China,1
+CVE-2009-0545,HK,"Hong Kong",1
+CVE-2009-0545,KR,"South Korea",2
+CVE-2009-0545,TH,Thailand,1
+CVE-2009-0545,US,"United States",2
+CVE-2014-2321,DE,Germany,1
+CVE-2014-2321,NL,Netherlands,1
+CVE-2014-2321,RO,Romania,1
+CVE-2014-2321,RU,"Russian Federation",1
+CVE-2014-2321,US,"United States",1
+CVE-2014-8361,AL,Albania,5
+CVE-2014-8361,AM,Armenia,2
+CVE-2014-8361,AR,Argentina,7
+CVE-2014-8361,AU,Australia,2
+CVE-2014-8361,BD,Bangladesh,2
+CVE-2014-8361,BG,Bulgaria,19
+CVE-2014-8361,BO,Bolivia,5
+CVE-2014-8361,BR,Brazil,87
+CVE-2014-8361,BY,Belarus,1
+CVE-2014-8361,CA,Canada,2
+CVE-2014-8361,CH,Switzerland,3
+CVE-2014-8361,CL,Chile,4
+CVE-2014-8361,CN,China,180
+CVE-2014-8361,CO,Colombia,12
+CVE-2014-8361,CZ,"Czech Republic",1
+CVE-2014-8361,DE,Germany,7
+CVE-2014-8361,DO,"Dominican Republic",2
+CVE-2014-8361,EC,Ecuador,4
+CVE-2014-8361,EG,Egypt,499
+CVE-2014-8361,ES,Spain,8
+CVE-2014-8361,ET,Ethiopia,15
+CVE-2014-8361,FR,France,4
+CVE-2014-8361,GE,Georgia,26
+CVE-2014-8361,GH,Ghana,1
+CVE-2014-8361,GR,Greece,1
+CVE-2014-8361,GT,Guatemala,1
+CVE-2014-8361,HK,"Hong Kong",5
+CVE-2014-8361,HN,Honduras,8
+CVE-2014-8361,ID,Indonesia,2
+CVE-2014-8361,IE,Ireland,1
+CVE-2014-8361,IL,Israel,2
+CVE-2014-8361,IN,India,99
+CVE-2014-8361,IR,"Iran (Islamic Republic Of)",11
+CVE-2014-8361,IT,Italy,18
+CVE-2014-8361,JO,Jordan,2
+CVE-2014-8361,JP,Japan,13
+CVE-2014-8361,KH,Cambodia,32
+CVE-2014-8361,KR,"South Korea",92
+CVE-2014-8361,KW,Kuwait,1
+CVE-2014-8361,KZ,Kazakhstan,11
+CVE-2014-8361,LA,"Lao Peoples Democratic Republic",1
+CVE-2014-8361,LB,Lebanon,4
+CVE-2014-8361,LR,Liberia,1
+CVE-2014-8361,LT,Lithuania,1
+CVE-2014-8361,LU,Luxembourg,1
+CVE-2014-8361,LV,Latvia,1
+CVE-2014-8361,LY,"Libyan Arab Jamahiriya",1
+CVE-2014-8361,MA,Morocco,3
+CVE-2014-8361,MD,Moldova,7
+CVE-2014-8361,MK,Macedonia,22
+CVE-2014-8361,MX,Mexico,3
+CVE-2014-8361,MY,Malaysia,2
+CVE-2014-8361,NL,Netherlands,6
+CVE-2014-8361,NP,Nepal,1
+CVE-2014-8361,PA,Panama,1
+CVE-2014-8361,PH,Philippines,3
+CVE-2014-8361,PK,Pakistan,13
+CVE-2014-8361,PL,Poland,1
+CVE-2014-8361,PT,Portugal,1
+CVE-2014-8361,PY,Paraguay,1
+CVE-2014-8361,QA,Qatar,2
+CVE-2014-8361,RO,Romania,10
+CVE-2014-8361,RS,Serbia,1
+CVE-2014-8361,RU,"Russian Federation",28
+CVE-2014-8361,SE,Sweden,2
+CVE-2014-8361,SI,Slovenia,3
+CVE-2014-8361,SK,"Slovakia (Slovak Republic)",1
+CVE-2014-8361,TH,Thailand,24
+CVE-2014-8361,TN,Tunisia,13
+CVE-2014-8361,TR,Turkey,47
+CVE-2014-8361,TT,"Trinidad And Tobago",1
+CVE-2014-8361,TW,"Taiwan Province Of China",20
+CVE-2014-8361,TZ,Tanzania,1
+CVE-2014-8361,UA,Ukraine,10
+CVE-2014-8361,UK,"United Kingdom",3
+CVE-2014-8361,US,"United States",136
+CVE-2014-8361,VE,Venezuela,2
+CVE-2014-8361,VN,"Viet Nam",6
+CVE-2014-8361,ZA,"South Africa",2
+CVE-2015-2051,AR,Argentina,3
+CVE-2015-2051,AU,Australia,1
+CVE-2015-2051,BR,Brazil,4
+CVE-2015-2051,CN,China,87
+CVE-2015-2051,CZ,"Czech Republic",1
+CVE-2015-2051,DO,"Dominican Republic",2
+CVE-2015-2051,FR,France,1
+CVE-2015-2051,ID,Indonesia,1
+CVE-2015-2051,IE,Ireland,1
+CVE-2015-2051,IN,India,8
+CVE-2015-2051,IR,"Iran (Islamic Republic Of)",3
+CVE-2015-2051,IT,Italy,1
+CVE-2015-2051,JP,Japan,3
+CVE-2015-2051,KH,Cambodia,1
+CVE-2015-2051,KR,"South Korea",4
+CVE-2015-2051,MA,Morocco,2
+CVE-2015-2051,MY,Malaysia,1
+CVE-2015-2051,NL,Netherlands,3
+CVE-2015-2051,NO,Norway,1
+CVE-2015-2051,PK,Pakistan,1
+CVE-2015-2051,RU,"Russian Federation",9
+CVE-2015-2051,TR,Turkey,2
+CVE-2015-2051,TW,"Taiwan Province Of China",4
+CVE-2015-2051,US,"United States",28
+CVE-2016-10372,AR,Argentina,5
+CVE-2016-10372,BR,Brazil,3
+CVE-2016-10372,CN,China,176
+CVE-2016-10372,CO,Colombia,1
+CVE-2016-10372,CR,"Costa Rica",1
+CVE-2016-10372,DO,"Dominican Republic",8
+CVE-2016-10372,ES,Spain,1
+CVE-2016-10372,GE,Georgia,1
+CVE-2016-10372,ID,Indonesia,1
+CVE-2016-10372,IN,India,26
+CVE-2016-10372,JP,Japan,1
+CVE-2016-10372,KR,"South Korea",6
+CVE-2016-10372,LR,Liberia,1
+CVE-2016-10372,MX,Mexico,1
+CVE-2016-10372,PK,Pakistan,4
+CVE-2016-10372,RO,Romania,1
+CVE-2016-10372,RU,"Russian Federation",8
+CVE-2016-10372,TW,"Taiwan Province Of China",1
+CVE-2016-10372,UA,Ukraine,1
+CVE-2016-10372,US,"United States",7
+CVE-2016-10372,VN,"Viet Nam",5
+CVE-2016-6277,AR,Argentina,1
+CVE-2016-6277,CN,China,27
+CVE-2016-6277,DO,"Dominican Republic",3
+CVE-2016-6277,IN,India,10
+CVE-2016-6277,KR,"South Korea",1
+CVE-2016-6277,PK,Pakistan,3
+CVE-2016-6277,RU,"Russian Federation",1
+CVE-2017-17215,AL,Albania,7
+CVE-2017-17215,AM,Armenia,3
+CVE-2017-17215,AR,Argentina,6
+CVE-2017-17215,AU,Australia,9
+CVE-2017-17215,BA,"Bosnia And Herzegovina",1
+CVE-2017-17215,BD,Bangladesh,6
+CVE-2017-17215,BE,Belgium,5
+CVE-2017-17215,BG,Bulgaria,25
+CVE-2017-17215,BN,"Brunei Darussalam",1
+CVE-2017-17215,BO,Bolivia,1
+CVE-2017-17215,BR,Brazil,70
+CVE-2017-17215,BY,Belarus,2
+CVE-2017-17215,CA,Canada,5
+CVE-2017-17215,CH,Switzerland,2
+CVE-2017-17215,CL,Chile,14
+CVE-2017-17215,CN,China,176
+CVE-2017-17215,CO,Colombia,15
+CVE-2017-17215,CZ,"Czech Republic",2
+CVE-2017-17215,DE,Germany,9
+CVE-2017-17215,DK,Denmark,1
+CVE-2017-17215,DO,"Dominican Republic",2
+CVE-2017-17215,EC,Ecuador,11
+CVE-2017-17215,EG,Egypt,4
+CVE-2017-17215,ES,Spain,9
+CVE-2017-17215,ET,Ethiopia,13
+CVE-2017-17215,FR,France,3
+CVE-2017-17215,GE,Georgia,1
+CVE-2017-17215,GH,Ghana,1
+CVE-2017-17215,GR,Greece,1
+CVE-2017-17215,HK,"Hong Kong",9
+CVE-2017-17215,HN,Honduras,12
+CVE-2017-17215,ID,Indonesia,3
+CVE-2017-17215,IE,Ireland,2
+CVE-2017-17215,IL,Israel,2
+CVE-2017-17215,IN,India,103
+CVE-2017-17215,IR,"Iran (Islamic Republic Of)",13
+CVE-2017-17215,IT,Italy,29
+CVE-2017-17215,JM,Jamaica,1
+CVE-2017-17215,JO,Jordan,2
+CVE-2017-17215,JP,Japan,89
+CVE-2017-17215,KH,Cambodia,49
+CVE-2017-17215,KR,"South Korea",96
+CVE-2017-17215,KW,Kuwait,1
+CVE-2017-17215,KZ,Kazakhstan,10
+CVE-2017-17215,LA,"Lao Peoples Democratic Republic",1
+CVE-2017-17215,LB,Lebanon,2
+CVE-2017-17215,LU,Luxembourg,1
+CVE-2017-17215,LV,Latvia,1
+CVE-2017-17215,MA,Morocco,3
+CVE-2017-17215,MD,Moldova,9
+CVE-2017-17215,MK,Macedonia,26
+CVE-2017-17215,MO,Macau,2
+CVE-2017-17215,MX,Mexico,17
+CVE-2017-17215,MY,Malaysia,5
+CVE-2017-17215,NL,Netherlands,13
+CVE-2017-17215,NO,Norway,3
+CVE-2017-17215,NP,Nepal,1
+CVE-2017-17215,PA,Panama,3
+CVE-2017-17215,PH,Philippines,3
+CVE-2017-17215,PK,Pakistan,11
+CVE-2017-17215,PL,Poland,1
+CVE-2017-17215,PT,Portugal,1
+CVE-2017-17215,PY,Paraguay,1
+CVE-2017-17215,QA,Qatar,2
+CVE-2017-17215,RO,Romania,10
+CVE-2017-17215,RU,"Russian Federation",62
+CVE-2017-17215,SD,Sudan,1
+CVE-2017-17215,SE,Sweden,15
+CVE-2017-17215,SG,Singapore,2
+CVE-2017-17215,SI,Slovenia,4
+CVE-2017-17215,SK,"Slovakia (Slovak Republic)",2
+CVE-2017-17215,TH,Thailand,4
+CVE-2017-17215,TN,Tunisia,24
+CVE-2017-17215,TR,Turkey,44
+CVE-2017-17215,TT,"Trinidad And Tobago",2
+CVE-2017-17215,TW,"Taiwan Province Of China",38
+CVE-2017-17215,UA,Ukraine,10
+CVE-2017-17215,UK,"United Kingdom",18
+CVE-2017-17215,US,"United States",340
+CVE-2017-17215,VE,Venezuela,9
+CVE-2017-17215,VN,"Viet Nam",13
+CVE-2017-17215,ZA,"South Africa",1
+CVE-2017-18368,CN,China,1
+CVE-2017-18368,MK,Macedonia,1
+CVE-2018-10562,AR,Argentina,2
+CVE-2018-10562,BR,Brazil,1
+CVE-2018-10562,CA,Canada,1
+CVE-2018-10562,CN,China,175
+CVE-2018-10562,CO,Colombia,1
+CVE-2018-10562,DE,Germany,3
+CVE-2018-10562,DO,"Dominican Republic",1
+CVE-2018-10562,FR,France,1
+CVE-2018-10562,HK,"Hong Kong",3
+CVE-2018-10562,ID,Indonesia,2
+CVE-2018-10562,IN,India,26
+CVE-2018-10562,JP,Japan,1
+CVE-2018-10562,KR,"South Korea",4
+CVE-2018-10562,MO,Macau,1
+CVE-2018-10562,PK,Pakistan,4
+CVE-2018-10562,RU,"Russian Federation",4
+CVE-2018-10562,SE,Sweden,1
+CVE-2018-10562,TH,Thailand,1
+CVE-2018-10562,TT,"Trinidad And Tobago",1
+CVE-2018-10562,TW,"Taiwan Province Of China",1
+CVE-2018-10562,UA,Ukraine,1
+CVE-2018-10562,US,"United States",2
+CVE-2018-10562,VN,"Viet Nam",1
+CVE-2020-8515,JP,Japan,1
+EDB-25978,AR,Argentina,1
+EDB-25978,BR,Brazil,5
+EDB-25978,CN,China,165
+EDB-25978,DO,"Dominican Republic",7
+EDB-25978,GE,Georgia,1
+EDB-25978,IN,India,24
+EDB-25978,KR,"South Korea",4
+EDB-25978,PK,Pakistan,4
+EDB-25978,RU,"Russian Federation",7
+EDB-25978,TR,Turkey,2
+EDB-25978,TW,"Taiwan Province Of China",2
+EDB-25978,US,"United States",2
+EDB-25978,VN,"Viet Nam",3
+EDB-31683,CH,Switzerland,2
+EDB-31683,CN,China,1
+EDB-31683,HK,"Hong Kong",4
+EDB-31683,LT,Lithuania,1
+EDB-31683,MK,Macedonia,1
+EDB-31683,RU,"Russian Federation",1
+EDB-31683,TT,"Trinidad And Tobago",1
+EDB-31683,US,"United States",2
+EDB-39596,BR,Brazil,5
+EDB-39596,CN,China,101
+EDB-39596,DO,"Dominican Republic",3
+EDB-39596,ES,Spain,1
+EDB-39596,GE,Georgia,1
+EDB-39596,IN,India,18
+EDB-39596,KR,"South Korea",2
+EDB-39596,PK,Pakistan,1
+EDB-39596,RU,"Russian Federation",7
+EDB-39596,TH,Thailand,1
+EDB-39596,TW,"Taiwan Province Of China",2
+EDB-39596,US,"United States",2
+EDB-39596,VE,Venezuela,1
+EDB-41471,AM,Armenia,1
+EDB-41471,AR,Argentina,4
+EDB-41471,AU,Australia,3
+EDB-41471,BG,Bulgaria,1
+EDB-41471,BR,Brazil,12
+EDB-41471,CL,Chile,1
+EDB-41471,CN,China,88
+EDB-41471,DO,"Dominican Republic",4
+EDB-41471,EC,Ecuador,1
+EDB-41471,ES,Spain,2
+EDB-41471,FR,France,1
+EDB-41471,GE,Georgia,1
+EDB-41471,ID,Indonesia,2
+EDB-41471,IN,India,22
+EDB-41471,IR,"Iran (Islamic Republic Of)",2
+EDB-41471,IT,Italy,2
+EDB-41471,KR,"South Korea",4
+EDB-41471,LT,Lithuania,1
+EDB-41471,ME,Montenegro,1
+EDB-41471,MK,Macedonia,1
+EDB-41471,MO,Macau,1
+EDB-41471,MX,Mexico,1
+EDB-41471,PK,Pakistan,5
+EDB-41471,PY,Paraguay,1
+EDB-41471,QA,Qatar,1
+EDB-41471,RO,Romania,1
+EDB-41471,RU,"Russian Federation",8
+EDB-41471,SE,Sweden,1
+EDB-41471,TR,Turkey,3
+EDB-41471,TW,"Taiwan Province Of China",6
+EDB-41471,UA,Ukraine,1
+EDB-41471,UK,"United Kingdom",1
+EDB-41471,US,"United States",10
+EDB-41471,VN,"Viet Nam",2
+OPENVAS-1361412562310107187,CN,China,23
+OPENVAS-1361412562310107187,IN,India,11
+OPENVAS-1361412562310107187,PK,Pakistan,2
+OPENVAS-1361412562310107187,RU,"Russian Federation",1
+SSV-97217,CO,Colombia,1
